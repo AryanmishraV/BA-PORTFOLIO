@@ -1,0 +1,9 @@
+Segment,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Revenue,Revenue_Share
+Needs Attention,199,287.5,25.6,23449.4,4666437.8,23.2
+At Risk - High Value,142,238.2,37.8,32035.5,4549041.5,22.6
+Loyal Customers,207,69.2,26.9,21517.5,4454120.8,22.2
+Champions,72,71.2,39.4,41331.3,2975856.4,14.8
+Potential Loyalists,231,123.4,17.9,10530.2,2432465.5,12.1
+Hibernating,134,272.5,12.3,7325.3,981585.8,4.9
+New Customers,8,109.4,4.8,2113.9,16911.4,0.1
+Cannot Lose Them,7,331.9,35.7,2244.8,15713.3,0.1

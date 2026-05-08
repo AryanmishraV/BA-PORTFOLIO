@@ -1,0 +1,1501 @@
+transaction_id,date,leakage_type,amount_lost,region,product,detected_by,status,recovery_amount
+TXN00001,2024-12-22,Billing Delay,46946.36,North,Premium Pack,Customer Complaint,In Progress,19025.33
+TXN00002,2024-01-31,Duplicate Invoice,4244.09,Central,Economy Pack,Audit,In Progress,0.0
+TXN00003,2024-01-09,Return Abuse,27154.6,Central,Economy Pack,System Flag,In Progress,16047.15
+TXN00004,2024-04-12,Duplicate Invoice,3727.11,West,Standard Pack,System Flag,Written Off,0.0
+TXN00005,2024-04-29,Pricing Error,1063.52,East,Economy Pack,System Flag,Recovered,174.44
+TXN00006,2024-02-24,Pricing Error,23049.18,South,Premium Pack,System Flag,In Progress,0.0
+TXN00007,2024-11-25,Unauthorized Discount,16806.68,East,Trial Pack,Customer Complaint,In Progress,0.0
+TXN00008,2024-08-18,Pricing Error,9852.05,East,Bulk Pack,Manager Review,In Progress,0.0
+TXN00009,2024-04-03,Return Abuse,2771.49,East,Premium Pack,System Flag,Written Off,0.0
+TXN00010,2024-08-26,Contract Non-Compliance,6988.35,Central,Bulk Pack,System Flag,Recovered,274.78
+TXN00011,2024-12-12,Missed Renewal,10711.74,Central,Standard Pack,Audit,Recovered,3237.62
+TXN00012,2024-01-25,Pricing Error,8501.95,North,Standard Pack,Manager Review,Recovered,0.0
+TXN00013,2024-08-10,Billing Delay,14203.07,West,Bulk Pack,Manager Review,Recovered,3394.9
+TXN00014,2024-06-15,Contract Non-Compliance,12861.09,East,Premium Pack,System Flag,Recovered,0.0
+TXN00015,2024-12-09,Return Abuse,27104.74,Central,Bulk Pack,Customer Complaint,In Progress,15028.36
+TXN00016,2024-04-21,Missed Renewal,20803.71,South,Premium Pack,Manager Review,In Progress,6580.67
+TXN00017,2024-10-26,Missed Renewal,9585.47,Central,Standard Pack,Audit,Recovered,3785.77
+TXN00018,2024-10-12,Unauthorized Discount,11221.18,South,Premium Pack,System Flag,Recovered,5918.36
+TXN00019,2024-11-08,Pricing Error,17767.82,South,Premium Pack,Manager Review,Written Off,12893.72
+TXN00020,2024-05-29,Pricing Error,30390.97,South,Economy Pack,Manager Review,Written Off,0.0
+TXN00021,2024-02-15,Billing Delay,37873.7,South,Trial Pack,Customer Complaint,In Progress,0.0
+TXN00022,2024-08-12,Duplicate Invoice,20467.31,South,Economy Pack,System Flag,In Progress,0.0
+TXN00023,2024-02-26,Contract Non-Compliance,4704.44,Central,Premium Pack,Audit,Recovered,31.01
+TXN00024,2024-07-24,Pricing Error,4738.88,North,Trial Pack,Manager Review,Written Off,0.0
+TXN00025,2024-02-05,Billing Delay,8609.74,East,Trial Pack,Manager Review,In Progress,454.45
+TXN00026,2024-05-01,Pricing Error,686.29,East,Economy Pack,Customer Complaint,Recovered,0.0
+TXN00027,2024-06-01,Billing Delay,99091.28,North,Premium Pack,Audit,In Progress,0.0
+TXN00028,2024-12-20,Contract Non-Compliance,6138.81,North,Standard Pack,Manager Review,Written Off,0.0
+TXN00029,2024-01-31,Return Abuse,4434.78,East,Premium Pack,Audit,In Progress,0.0
+TXN00030,2024-02-07,Contract Non-Compliance,4753.55,North,Standard Pack,Manager Review,Written Off,0.0
+TXN00031,2024-10-18,Return Abuse,2308.52,East,Premium Pack,Customer Complaint,Recovered,1985.67
+TXN00032,2024-05-29,Contract Non-Compliance,10347.85,West,Trial Pack,Audit,Recovered,9800.62
+TXN00033,2024-02-24,Missed Renewal,12646.65,South,Standard Pack,Audit,Recovered,7656.1
+TXN00034,2024-12-26,Contract Non-Compliance,461.78,East,Economy Pack,Customer Complaint,Recovered,385.78
+TXN00035,2024-11-10,Unauthorized Discount,23544.19,East,Premium Pack,System Flag,Written Off,16015.06
+TXN00036,2024-07-25,Contract Non-Compliance,25154.99,South,Premium Pack,Customer Complaint,In Progress,24064.13
+TXN00037,2024-08-31,Billing Delay,1322.48,East,Bulk Pack,Manager Review,In Progress,684.09
+TXN00038,2024-07-10,Billing Delay,12902.59,West,Economy Pack,Customer Complaint,Recovered,0.0
+TXN00039,2024-05-31,Contract Non-Compliance,16494.26,North,Bulk Pack,Customer Complaint,Recovered,0.0
+TXN00040,2024-11-16,Billing Delay,1189.73,South,Trial Pack,Manager Review,Recovered,1158.33
+TXN00041,2024-02-03,Duplicate Invoice,46736.47,East,Premium Pack,Customer Complaint,In Progress,12265.9
+TXN00042,2024-05-29,Unauthorized Discount,3971.68,Central,Trial Pack,System Flag,Recovered,3658.77
+TXN00043,2024-01-25,Return Abuse,10564.37,West,Trial Pack,Audit,In Progress,7360.63
+TXN00044,2024-02-24,Unauthorized Discount,3039.26,South,Standard Pack,System Flag,Written Off,609.87
+TXN00045,2024-02-16,Pricing Error,27065.2,Central,Premium Pack,Manager Review,Recovered,84.56
+TXN00046,2024-08-17,Unauthorized Discount,6996.22,Central,Trial Pack,System Flag,Written Off,3423.62
+TXN00047,2024-04-18,Billing Delay,9751.84,Central,Premium Pack,System Flag,Written Off,6447.07
+TXN00048,2024-02-17,Unauthorized Discount,23251.37,East,Standard Pack,Manager Review,Written Off,13431.6
+TXN00049,2024-10-10,Contract Non-Compliance,7278.07,West,Bulk Pack,Audit,Recovered,6610.59
+TXN00050,2024-01-23,Billing Delay,2953.57,Central,Premium Pack,System Flag,Written Off,860.4
+TXN00051,2024-11-11,Contract Non-Compliance,17256.32,South,Standard Pack,Customer Complaint,In Progress,0.0
+TXN00052,2024-09-22,Unauthorized Discount,1198.1,South,Premium Pack,Manager Review,Recovered,0.0
+TXN00053,2024-12-21,Return Abuse,32133.24,North,Economy Pack,Manager Review,In Progress,14108.76
+TXN00054,2024-07-16,Billing Delay,17409.71,North,Premium Pack,Audit,In Progress,6492.64
+TXN00055,2024-02-23,Pricing Error,11068.18,Central,Bulk Pack,Customer Complaint,In Progress,2284.94
+TXN00056,2024-04-07,Contract Non-Compliance,1236.85,West,Bulk Pack,System Flag,In Progress,38.76
+TXN00057,2024-03-02,Return Abuse,30742.54,East,Bulk Pack,Audit,Recovered,0.0
+TXN00058,2024-05-16,Duplicate Invoice,35509.64,West,Trial Pack,Customer Complaint,Recovered,29282.37
+TXN00059,2024-07-27,Unauthorized Discount,34103.77,North,Premium Pack,System Flag,In Progress,0.0
+TXN00060,2024-12-24,Billing Delay,524.51,North,Trial Pack,Customer Complaint,Written Off,149.29
+TXN00061,2024-01-18,Unauthorized Discount,15049.75,Central,Economy Pack,Manager Review,In Progress,4471.11
+TXN00062,2024-04-17,Pricing Error,28763.99,North,Standard Pack,Manager Review,Recovered,17871.13
+TXN00063,2024-02-16,Missed Renewal,65991.7,North,Economy Pack,Customer Complaint,In Progress,37864.01
+TXN00064,2024-11-17,Billing Delay,30816.62,West,Standard Pack,Manager Review,Written Off,10518.78
+TXN00065,2024-07-30,Billing Delay,13172.25,Central,Bulk Pack,Audit,Recovered,8157.05
+TXN00066,2024-07-18,Contract Non-Compliance,4997.05,Central,Trial Pack,Manager Review,Recovered,1314.98
+TXN00067,2024-01-21,Return Abuse,12694.77,East,Economy Pack,Customer Complaint,Recovered,0.0
+TXN00068,2024-03-15,Pricing Error,32732.66,East,Economy Pack,System Flag,Written Off,6446.41
+TXN00069,2024-04-07,Billing Delay,8302.56,East,Economy Pack,Customer Complaint,Recovered,1386.34
+TXN00070,2024-07-19,Pricing Error,614.64,West,Premium Pack,System Flag,Recovered,0.0
+TXN00071,2024-05-09,Duplicate Invoice,10858.35,South,Bulk Pack,System Flag,Recovered,387.76
+TXN00072,2024-09-03,Duplicate Invoice,42059.74,Central,Standard Pack,Manager Review,Written Off,0.0
+TXN00073,2024-11-01,Missed Renewal,57403.97,East,Trial Pack,System Flag,In Progress,9342.44
+TXN00074,2024-05-22,Billing Delay,16262.73,West,Bulk Pack,Customer Complaint,In Progress,11146.58
+TXN00075,2024-01-03,Return Abuse,17896.17,East,Premium Pack,Audit,In Progress,2960.77
+TXN00076,2024-09-26,Pricing Error,16013.76,South,Standard Pack,Audit,In Progress,5683.57
+TXN00077,2024-02-22,Pricing Error,5278.66,South,Premium Pack,Audit,Recovered,0.0
+TXN00078,2024-10-17,Pricing Error,493.56,West,Standard Pack,Manager Review,Recovered,0.0
+TXN00079,2024-08-29,Pricing Error,25145.51,West,Bulk Pack,Customer Complaint,In Progress,22356.24
+TXN00080,2024-10-16,Missed Renewal,18837.66,North,Bulk Pack,Manager Review,Recovered,15013.14
+TXN00081,2024-03-14,Billing Delay,6750.95,East,Premium Pack,Audit,In Progress,5875.13
+TXN00082,2024-03-10,Return Abuse,5720.86,Central,Standard Pack,Customer Complaint,In Progress,4591.74
+TXN00083,2024-05-19,Unauthorized Discount,26815.15,South,Economy Pack,Customer Complaint,In Progress,582.98
+TXN00084,2024-08-08,Contract Non-Compliance,10693.2,Central,Bulk Pack,Customer Complaint,In Progress,2301.91
+TXN00085,2024-12-18,Pricing Error,4337.25,South,Premium Pack,Customer Complaint,Recovered,0.0
+TXN00086,2024-10-28,Contract Non-Compliance,10127.6,Central,Premium Pack,System Flag,In Progress,5738.31
+TXN00087,2024-05-05,Pricing Error,13373.15,South,Economy Pack,Audit,In Progress,321.46
+TXN00088,2024-01-11,Missed Renewal,4069.35,Central,Standard Pack,Manager Review,In Progress,0.0
+TXN00089,2024-03-02,Unauthorized Discount,12668.21,Central,Bulk Pack,Audit,In Progress,0.0
+TXN00090,2024-10-19,Duplicate Invoice,9179.43,Central,Bulk Pack,Audit,In Progress,945.82
+TXN00091,2024-11-19,Unauthorized Discount,11299.01,East,Bulk Pack,Manager Review,Recovered,1012.78
+TXN00092,2024-03-27,Contract Non-Compliance,15539.03,West,Premium Pack,Audit,Written Off,9809.36
+TXN00093,2024-04-01,Unauthorized Discount,1198.82,East,Bulk Pack,Customer Complaint,Recovered,870.97
+TXN00094,2024-08-05,Billing Delay,14941.67,North,Economy Pack,Customer Complaint,Recovered,13479.14
+TXN00095,2024-04-03,Unauthorized Discount,11769.95,Central,Trial Pack,System Flag,Written Off,0.0
+TXN00096,2024-10-06,Return Abuse,18313.96,East,Bulk Pack,Customer Complaint,Written Off,0.0
+TXN00097,2024-07-09,Unauthorized Discount,946.97,Central,Premium Pack,Customer Complaint,In Progress,196.32
+TXN00098,2024-12-26,Unauthorized Discount,772.81,West,Bulk Pack,Customer Complaint,Recovered,700.39
+TXN00099,2024-06-25,Pricing Error,554.21,West,Economy Pack,System Flag,In Progress,316.51
+TXN00100,2024-03-31,Unauthorized Discount,26716.33,North,Standard Pack,Audit,In Progress,18621.08
+TXN00101,2024-05-26,Missed Renewal,14804.44,South,Economy Pack,Manager Review,Written Off,0.0
+TXN00102,2024-11-22,Unauthorized Discount,4084.86,Central,Trial Pack,System Flag,In Progress,0.0
+TXN00103,2024-05-26,Return Abuse,26800.39,West,Bulk Pack,Manager Review,Recovered,17206.21
+TXN00104,2024-02-26,Missed Renewal,12.81,Central,Premium Pack,Manager Review,Recovered,0.0
+TXN00105,2024-03-09,Pricing Error,7787.83,South,Bulk Pack,System Flag,Written Off,0.0
+TXN00106,2024-04-23,Contract Non-Compliance,19308.57,East,Premium Pack,System Flag,In Progress,7366.05
+TXN00107,2024-09-13,Billing Delay,26801.97,West,Economy Pack,Manager Review,Recovered,3855.89
+TXN00108,2024-01-31,Duplicate Invoice,14279.09,North,Standard Pack,Customer Complaint,Written Off,438.76
+TXN00109,2024-04-15,Contract Non-Compliance,24001.6,Central,Economy Pack,Audit,Written Off,2185.74
+TXN00110,2024-09-28,Billing Delay,3646.58,South,Standard Pack,Audit,Recovered,2830.22
+TXN00111,2024-01-30,Unauthorized Discount,3831.01,East,Trial Pack,Customer Complaint,Written Off,2321.93
+TXN00112,2024-09-11,Contract Non-Compliance,1524.92,South,Economy Pack,Audit,Recovered,0.0
+TXN00113,2024-09-20,Billing Delay,7230.12,West,Bulk Pack,System Flag,Recovered,6045.36
+TXN00114,2024-05-30,Return Abuse,15247.45,West,Economy Pack,Customer Complaint,Recovered,0.0
+TXN00115,2024-04-13,Duplicate Invoice,11109.63,East,Bulk Pack,Manager Review,Written Off,2752.26
+TXN00116,2024-10-24,Billing Delay,8589.7,West,Bulk Pack,System Flag,In Progress,0.0
+TXN00117,2024-12-05,Unauthorized Discount,19024.76,South,Standard Pack,System Flag,In Progress,8499.9
+TXN00118,2024-11-03,Contract Non-Compliance,14092.43,North,Trial Pack,Audit,In Progress,11521.73
+TXN00119,2024-07-27,Unauthorized Discount,19401.12,East,Economy Pack,System Flag,Written Off,5730.53
+TXN00120,2024-02-07,Unauthorized Discount,13157.44,South,Bulk Pack,Audit,In Progress,10225.34
+TXN00121,2024-03-29,Contract Non-Compliance,2381.77,Central,Economy Pack,Manager Review,In Progress,345.46
+TXN00122,2024-04-07,Contract Non-Compliance,24462.51,East,Standard Pack,Customer Complaint,In Progress,6595.98
+TXN00123,2024-01-23,Pricing Error,35329.33,Central,Premium Pack,Manager Review,Recovered,0.0
+TXN00124,2024-05-06,Billing Delay,14431.23,South,Bulk Pack,Audit,In Progress,3093.01
+TXN00125,2024-10-26,Unauthorized Discount,12587.19,West,Standard Pack,Audit,In Progress,8078.81
+TXN00126,2024-04-08,Unauthorized Discount,7492.77,East,Premium Pack,Audit,In Progress,0.0
+TXN00127,2024-08-09,Unauthorized Discount,2258.45,Central,Standard Pack,Audit,Written Off,0.0
+TXN00128,2024-10-16,Billing Delay,4287.54,West,Standard Pack,System Flag,Recovered,3527.43
+TXN00129,2024-10-04,Contract Non-Compliance,50584.3,West,Premium Pack,System Flag,Recovered,0.0
+TXN00130,2024-06-11,Billing Delay,9693.47,North,Economy Pack,System Flag,Recovered,2279.47
+TXN00131,2024-07-14,Return Abuse,7864.09,East,Bulk Pack,System Flag,In Progress,2985.16
+TXN00132,2024-05-05,Return Abuse,1020.6,North,Trial Pack,System Flag,In Progress,790.68
+TXN00133,2024-12-13,Unauthorized Discount,14291.69,East,Economy Pack,Manager Review,Recovered,5414.87
+TXN00134,2024-05-26,Contract Non-Compliance,7581.15,West,Standard Pack,System Flag,Recovered,4763.19
+TXN00135,2024-05-19,Missed Renewal,6958.96,South,Premium Pack,Audit,Written Off,0.0
+TXN00136,2024-04-07,Return Abuse,11872.53,South,Economy Pack,Manager Review,Recovered,0.0
+TXN00137,2024-04-05,Billing Delay,8666.45,South,Bulk Pack,Audit,In Progress,4634.3
+TXN00138,2024-03-22,Return Abuse,17384.79,Central,Trial Pack,Customer Complaint,In Progress,7290.08
+TXN00139,2024-06-16,Return Abuse,11734.73,Central,Trial Pack,System Flag,Recovered,2301.66
+TXN00140,2024-11-11,Contract Non-Compliance,6684.38,West,Economy Pack,Customer Complaint,Recovered,0.0
+TXN00141,2024-08-17,Unauthorized Discount,61587.5,South,Trial Pack,Manager Review,Recovered,0.0
+TXN00142,2024-11-23,Unauthorized Discount,5593.39,East,Premium Pack,Manager Review,In Progress,1859.13
+TXN00143,2024-02-03,Unauthorized Discount,83876.51,North,Premium Pack,Audit,Written Off,35949.69
+TXN00144,2024-11-03,Pricing Error,2250.24,West,Economy Pack,Manager Review,In Progress,0.0
+TXN00145,2024-09-11,Contract Non-Compliance,15114.34,North,Standard Pack,System Flag,Written Off,12390.63
+TXN00146,2024-07-03,Billing Delay,17173.11,North,Standard Pack,System Flag,Written Off,11922.12
+TXN00147,2024-01-29,Pricing Error,11818.83,Central,Economy Pack,Audit,Recovered,11124.14
+TXN00148,2024-12-10,Contract Non-Compliance,12355.87,South,Bulk Pack,System Flag,Recovered,5065.66
+TXN00149,2024-12-19,Missed Renewal,35597.07,West,Premium Pack,Audit,Written Off,25356.74
+TXN00150,2024-12-05,Duplicate Invoice,2233.96,North,Trial Pack,Customer Complaint,In Progress,2118.61
+TXN00151,2024-08-27,Contract Non-Compliance,75501.32,North,Trial Pack,Audit,Recovered,53903.62
+TXN00152,2024-08-06,Contract Non-Compliance,7956.52,South,Trial Pack,System Flag,Recovered,0.0
+TXN00153,2024-09-23,Unauthorized Discount,2507.85,North,Premium Pack,System Flag,In Progress,2408.01
+TXN00154,2024-10-06,Contract Non-Compliance,2449.4,East,Premium Pack,System Flag,Written Off,99.62
+TXN00155,2024-10-06,Missed Renewal,13058.39,East,Standard Pack,Customer Complaint,In Progress,0.0
+TXN00156,2024-09-22,Pricing Error,1042.79,East,Standard Pack,Audit,Written Off,522.61
+TXN00157,2024-05-22,Unauthorized Discount,4624.89,East,Premium Pack,System Flag,Written Off,2585.36
+TXN00158,2024-09-29,Return Abuse,3907.21,North,Bulk Pack,Customer Complaint,Recovered,0.0
+TXN00159,2024-01-16,Return Abuse,25226.48,North,Trial Pack,System Flag,Written Off,4268.72
+TXN00160,2024-11-27,Billing Delay,9104.59,East,Economy Pack,Audit,Recovered,5279.7
+TXN00161,2024-08-28,Contract Non-Compliance,273.48,East,Standard Pack,Customer Complaint,Recovered,227.11
+TXN00162,2024-03-17,Billing Delay,44667.53,North,Bulk Pack,Customer Complaint,In Progress,21626.42
+TXN00163,2024-03-24,Unauthorized Discount,2776.91,North,Trial Pack,Audit,In Progress,1684.94
+TXN00164,2024-09-30,Contract Non-Compliance,1427.45,South,Economy Pack,System Flag,In Progress,0.0
+TXN00165,2024-10-27,Unauthorized Discount,2326.6,West,Bulk Pack,Manager Review,Recovered,0.0
+TXN00166,2024-01-07,Return Abuse,4969.46,North,Premium Pack,Customer Complaint,In Progress,726.66
+TXN00167,2024-06-14,Unauthorized Discount,660.55,East,Premium Pack,Audit,Recovered,0.0
+TXN00168,2024-06-01,Pricing Error,10583.46,West,Premium Pack,System Flag,In Progress,5444.62
+TXN00169,2024-10-13,Billing Delay,31439.29,East,Economy Pack,System Flag,In Progress,18546.77
+TXN00170,2024-01-29,Missed Renewal,9625.46,South,Standard Pack,Manager Review,Written Off,0.0
+TXN00171,2024-07-10,Billing Delay,10688.07,Central,Standard Pack,Customer Complaint,Recovered,0.0
+TXN00172,2024-01-29,Duplicate Invoice,24839.01,East,Premium Pack,Audit,In Progress,24807.3
+TXN00173,2024-08-19,Return Abuse,1783.67,East,Economy Pack,Customer Complaint,In Progress,1381.56
+TXN00174,2024-01-01,Pricing Error,3283.29,East,Standard Pack,System Flag,In Progress,798.76
+TXN00175,2024-02-05,Unauthorized Discount,5932.98,South,Standard Pack,Customer Complaint,Recovered,0.0
+TXN00176,2024-02-29,Pricing Error,27355.97,West,Premium Pack,Audit,Recovered,25463.95
+TXN00177,2024-02-22,Contract Non-Compliance,2983.71,West,Bulk Pack,Customer Complaint,Recovered,1963.56
+TXN00178,2024-05-13,Return Abuse,17899.56,East,Premium Pack,Audit,Recovered,0.0
+TXN00179,2024-11-22,Billing Delay,19321.51,West,Bulk Pack,Customer Complaint,Recovered,0.0
+TXN00180,2024-06-29,Unauthorized Discount,19357.7,West,Standard Pack,Audit,Written Off,2318.63
+TXN00181,2024-09-24,Return Abuse,12534.48,West,Economy Pack,Audit,In Progress,6171.92
+TXN00182,2024-03-01,Unauthorized Discount,3070.51,North,Economy Pack,System Flag,Recovered,2202.56
+TXN00183,2024-01-25,Pricing Error,12567.04,Central,Bulk Pack,System Flag,In Progress,221.39
+TXN00184,2024-08-19,Billing Delay,4163.95,Central,Bulk Pack,System Flag,Recovered,0.0
+TXN00185,2024-05-26,Pricing Error,8919.6,South,Economy Pack,System Flag,In Progress,2841.46
+TXN00186,2024-05-06,Unauthorized Discount,47370.43,South,Trial Pack,Audit,In Progress,9867.15
+TXN00187,2024-09-24,Duplicate Invoice,25198.83,Central,Premium Pack,Audit,In Progress,10287.47
+TXN00188,2024-09-05,Unauthorized Discount,25502.45,West,Standard Pack,Manager Review,Recovered,0.0
+TXN00189,2024-04-06,Pricing Error,35304.99,East,Bulk Pack,Customer Complaint,Recovered,12906.56
+TXN00190,2024-05-21,Unauthorized Discount,3996.01,North,Trial Pack,Customer Complaint,Written Off,0.0
+TXN00191,2024-07-28,Contract Non-Compliance,86288.78,East,Bulk Pack,Customer Complaint,Recovered,661.9
+TXN00192,2024-03-28,Duplicate Invoice,14875.61,South,Standard Pack,Audit,Recovered,0.0
+TXN00193,2024-03-04,Contract Non-Compliance,2596.16,South,Standard Pack,Manager Review,Written Off,233.95
+TXN00194,2024-07-22,Return Abuse,960.8,Central,Trial Pack,Manager Review,In Progress,0.0
+TXN00195,2024-03-16,Pricing Error,47370.79,East,Economy Pack,System Flag,Recovered,13233.33
+TXN00196,2024-07-19,Pricing Error,2542.92,North,Economy Pack,System Flag,In Progress,1938.13
+TXN00197,2024-07-16,Duplicate Invoice,22406.71,North,Bulk Pack,Customer Complaint,In Progress,0.0
+TXN00198,2024-08-03,Contract Non-Compliance,42658.91,Central,Standard Pack,System Flag,In Progress,39409.77
+TXN00199,2024-11-25,Contract Non-Compliance,14313.73,South,Trial Pack,Manager Review,Recovered,12626.25
+TXN00200,2024-10-03,Pricing Error,1902.3,West,Trial Pack,System Flag,Recovered,562.65
+TXN00201,2024-06-16,Unauthorized Discount,24812.0,East,Premium Pack,Manager Review,In Progress,0.0
+TXN00202,2024-12-20,Unauthorized Discount,22848.51,North,Trial Pack,System Flag,Written Off,0.0
+TXN00203,2024-12-27,Unauthorized Discount,11248.06,East,Premium Pack,Customer Complaint,In Progress,0.0
+TXN00204,2024-03-24,Missed Renewal,31683.43,Central,Economy Pack,System Flag,Written Off,11779.93
+TXN00205,2024-05-26,Unauthorized Discount,7838.69,South,Standard Pack,Customer Complaint,In Progress,3356.02
+TXN00206,2024-07-12,Billing Delay,12660.87,West,Bulk Pack,Audit,Recovered,4054.75
+TXN00207,2024-03-27,Pricing Error,4747.87,North,Premium Pack,Customer Complaint,In Progress,0.0
+TXN00208,2024-04-27,Pricing Error,4554.13,South,Economy Pack,Manager Review,In Progress,504.31
+TXN00209,2024-03-21,Billing Delay,11618.29,North,Premium Pack,Manager Review,In Progress,0.0
+TXN00210,2024-02-19,Pricing Error,1266.08,West,Economy Pack,System Flag,Recovered,171.57
+TXN00211,2024-10-14,Duplicate Invoice,18496.06,North,Economy Pack,Manager Review,In Progress,0.0
+TXN00212,2024-04-07,Billing Delay,14587.21,South,Bulk Pack,Customer Complaint,In Progress,10585.82
+TXN00213,2024-05-06,Contract Non-Compliance,18920.05,Central,Trial Pack,System Flag,Recovered,5150.39
+TXN00214,2024-03-03,Pricing Error,16346.06,Central,Bulk Pack,System Flag,Written Off,13460.22
+TXN00215,2024-09-06,Missed Renewal,5255.45,South,Economy Pack,Manager Review,Recovered,1601.53
+TXN00216,2024-05-18,Billing Delay,40253.51,East,Economy Pack,System Flag,In Progress,23290.62
+TXN00217,2024-09-08,Unauthorized Discount,7866.9,West,Trial Pack,System Flag,In Progress,282.65
+TXN00218,2024-03-05,Return Abuse,6668.04,South,Economy Pack,System Flag,Recovered,6626.13
+TXN00219,2024-03-24,Pricing Error,40856.87,South,Bulk Pack,Customer Complaint,Recovered,0.0
+TXN00220,2024-04-02,Contract Non-Compliance,17299.31,West,Premium Pack,System Flag,Written Off,0.0
+TXN00221,2024-02-09,Duplicate Invoice,18872.19,East,Bulk Pack,Audit,Written Off,14984.43
+TXN00222,2024-10-04,Missed Renewal,30469.31,South,Bulk Pack,Audit,Written Off,1941.61
+TXN00223,2024-01-27,Contract Non-Compliance,7039.28,North,Bulk Pack,Customer Complaint,In Progress,0.0
+TXN00224,2024-12-18,Unauthorized Discount,6988.42,Central,Bulk Pack,Audit,Written Off,0.0
+TXN00225,2024-07-19,Contract Non-Compliance,542.23,North,Trial Pack,Manager Review,Recovered,149.32
+TXN00226,2024-11-01,Pricing Error,639.3,South,Bulk Pack,Customer Complaint,Written Off,398.13
+TXN00227,2024-03-27,Pricing Error,10580.54,East,Standard Pack,System Flag,Recovered,0.0
+TXN00228,2024-09-18,Unauthorized Discount,29306.89,Central,Premium Pack,Customer Complaint,In Progress,2301.13
+TXN00229,2024-08-17,Unauthorized Discount,10926.74,Central,Bulk Pack,Audit,In Progress,0.0
+TXN00230,2024-08-19,Return Abuse,19701.68,Central,Premium Pack,System Flag,Recovered,0.0
+TXN00231,2024-08-19,Unauthorized Discount,33937.37,West,Trial Pack,Audit,In Progress,0.0
+TXN00232,2024-06-21,Unauthorized Discount,19173.21,South,Economy Pack,System Flag,In Progress,0.0
+TXN00233,2024-03-09,Unauthorized Discount,2730.6,North,Premium Pack,Audit,Written Off,0.0
+TXN00234,2024-01-13,Return Abuse,16668.98,Central,Standard Pack,Customer Complaint,In Progress,13532.06
+TXN00235,2024-03-17,Contract Non-Compliance,3399.17,North,Premium Pack,Manager Review,Recovered,0.0
+TXN00236,2024-09-04,Contract Non-Compliance,8422.76,East,Premium Pack,System Flag,Written Off,6691.27
+TXN00237,2024-08-06,Pricing Error,3507.12,Central,Premium Pack,Audit,Written Off,0.0
+TXN00238,2024-02-08,Pricing Error,9363.63,North,Economy Pack,System Flag,In Progress,0.0
+TXN00239,2024-02-20,Billing Delay,8943.86,South,Trial Pack,Manager Review,Recovered,5568.25
+TXN00240,2024-10-17,Return Abuse,6767.22,North,Trial Pack,Customer Complaint,Recovered,0.0
+TXN00241,2024-02-19,Billing Delay,24108.41,East,Trial Pack,Manager Review,In Progress,0.0
+TXN00242,2024-11-05,Pricing Error,6357.66,East,Bulk Pack,Customer Complaint,Written Off,0.0
+TXN00243,2024-07-31,Unauthorized Discount,3523.46,North,Bulk Pack,Audit,Recovered,1284.08
+TXN00244,2024-02-17,Contract Non-Compliance,20268.88,West,Economy Pack,Customer Complaint,Recovered,0.0
+TXN00245,2024-09-16,Pricing Error,2397.66,Central,Premium Pack,Manager Review,Recovered,0.0
+TXN00246,2024-01-02,Unauthorized Discount,16169.11,West,Economy Pack,Manager Review,Recovered,0.0
+TXN00247,2024-01-09,Missed Renewal,19248.17,South,Trial Pack,System Flag,Recovered,5337.4
+TXN00248,2024-09-21,Billing Delay,12311.7,Central,Trial Pack,System Flag,Recovered,5233.74
+TXN00249,2024-06-08,Billing Delay,10831.05,South,Trial Pack,Manager Review,In Progress,0.0
+TXN00250,2024-09-17,Return Abuse,3709.23,East,Premium Pack,Manager Review,Recovered,0.0
+TXN00251,2024-04-19,Billing Delay,45130.37,Central,Economy Pack,System Flag,Written Off,0.0
+TXN00252,2024-03-07,Unauthorized Discount,25791.45,North,Trial Pack,Audit,Recovered,5740.79
+TXN00253,2024-08-03,Contract Non-Compliance,26988.28,West,Economy Pack,Customer Complaint,In Progress,1599.01
+TXN00254,2024-05-29,Contract Non-Compliance,6522.25,North,Standard Pack,System Flag,Written Off,0.0
+TXN00255,2024-08-01,Billing Delay,5316.62,South,Bulk Pack,Customer Complaint,Written Off,1725.79
+TXN00256,2024-08-12,Pricing Error,102784.27,East,Trial Pack,System Flag,Written Off,16472.89
+TXN00257,2024-10-11,Unauthorized Discount,5503.49,West,Bulk Pack,Audit,In Progress,945.59
+TXN00258,2024-11-15,Contract Non-Compliance,6784.41,East,Standard Pack,Manager Review,Recovered,2635.12
+TXN00259,2024-02-14,Billing Delay,25003.57,North,Economy Pack,Customer Complaint,Written Off,0.0
+TXN00260,2024-11-29,Unauthorized Discount,23942.23,South,Economy Pack,Audit,Recovered,10443.81
+TXN00261,2024-10-08,Pricing Error,14823.13,Central,Premium Pack,Audit,In Progress,0.0
+TXN00262,2024-02-09,Billing Delay,6671.42,North,Trial Pack,Audit,Written Off,0.0
+TXN00263,2024-10-07,Billing Delay,2499.62,North,Bulk Pack,System Flag,In Progress,0.0
+TXN00264,2024-08-26,Missed Renewal,3711.54,West,Bulk Pack,Audit,Recovered,1923.07
+TXN00265,2024-07-13,Contract Non-Compliance,7130.76,Central,Economy Pack,Audit,In Progress,3740.22
+TXN00266,2024-02-23,Pricing Error,47080.22,West,Economy Pack,Customer Complaint,Recovered,0.0
+TXN00267,2024-08-31,Return Abuse,144.12,North,Bulk Pack,Manager Review,Recovered,82.36
+TXN00268,2024-04-08,Unauthorized Discount,6977.15,West,Standard Pack,Customer Complaint,Recovered,0.0
+TXN00269,2024-08-04,Missed Renewal,30199.05,West,Premium Pack,Audit,In Progress,6561.61
+TXN00270,2024-12-30,Contract Non-Compliance,17403.21,East,Trial Pack,Audit,Recovered,0.0
+TXN00271,2024-08-07,Billing Delay,6163.09,West,Premium Pack,Audit,In Progress,1008.84
+TXN00272,2024-04-12,Unauthorized Discount,1328.46,North,Standard Pack,Customer Complaint,Written Off,1119.76
+TXN00273,2024-03-15,Duplicate Invoice,10560.72,West,Trial Pack,System Flag,Recovered,0.0
+TXN00274,2024-12-29,Contract Non-Compliance,23899.83,East,Economy Pack,Audit,In Progress,1899.31
+TXN00275,2024-07-04,Pricing Error,24578.04,Central,Economy Pack,Audit,In Progress,3327.43
+TXN00276,2024-01-04,Unauthorized Discount,2199.51,Central,Premium Pack,Customer Complaint,Written Off,2044.81
+TXN00277,2024-09-19,Contract Non-Compliance,12527.27,West,Premium Pack,Customer Complaint,Recovered,0.0
+TXN00278,2024-12-28,Missed Renewal,16140.72,Central,Standard Pack,Audit,Recovered,445.74
+TXN00279,2024-04-29,Contract Non-Compliance,32090.36,Central,Bulk Pack,Manager Review,Recovered,0.0
+TXN00280,2024-03-09,Missed Renewal,1846.67,East,Trial Pack,Customer Complaint,In Progress,0.0
+TXN00281,2024-04-28,Return Abuse,11918.26,Central,Bulk Pack,Audit,In Progress,1051.6
+TXN00282,2024-10-29,Duplicate Invoice,35551.82,Central,Bulk Pack,Audit,Recovered,13342.53
+TXN00283,2024-08-12,Return Abuse,9245.66,West,Economy Pack,Manager Review,Recovered,7811.57
+TXN00284,2024-04-15,Contract Non-Compliance,69.89,South,Premium Pack,Manager Review,In Progress,0.0
+TXN00285,2024-11-27,Return Abuse,64387.9,South,Premium Pack,System Flag,In Progress,0.0
+TXN00286,2024-10-31,Unauthorized Discount,17006.41,Central,Standard Pack,Manager Review,Recovered,7442.9
+TXN00287,2024-01-10,Contract Non-Compliance,10106.14,West,Standard Pack,Audit,In Progress,10047.26
+TXN00288,2024-03-28,Duplicate Invoice,19406.8,West,Premium Pack,Customer Complaint,Written Off,14845.02
+TXN00289,2024-01-13,Unauthorized Discount,7671.0,Central,Bulk Pack,System Flag,In Progress,4025.2
+TXN00290,2024-08-01,Unauthorized Discount,10459.06,Central,Premium Pack,System Flag,Recovered,6593.75
+TXN00291,2024-06-10,Unauthorized Discount,15390.33,East,Standard Pack,Customer Complaint,In Progress,0.0
+TXN00292,2024-01-19,Unauthorized Discount,935.01,Central,Economy Pack,Manager Review,Written Off,929.99
+TXN00293,2024-08-04,Unauthorized Discount,22838.83,Central,Standard Pack,Manager Review,In Progress,0.0
+TXN00294,2024-09-16,Unauthorized Discount,10341.73,North,Bulk Pack,Manager Review,Written Off,93.11
+TXN00295,2024-04-07,Billing Delay,4861.18,Central,Trial Pack,Customer Complaint,Recovered,0.0
+TXN00296,2024-04-15,Contract Non-Compliance,5488.08,East,Premium Pack,Audit,Recovered,245.46
+TXN00297,2024-03-21,Pricing Error,3576.33,East,Premium Pack,System Flag,In Progress,2598.08
+TXN00298,2024-04-18,Billing Delay,20649.1,South,Standard Pack,Audit,Recovered,13579.2
+TXN00299,2024-04-16,Unauthorized Discount,26701.28,East,Standard Pack,Manager Review,Written Off,6578.43
+TXN00300,2024-04-04,Unauthorized Discount,4529.94,Central,Economy Pack,Customer Complaint,Recovered,3519.22
+TXN00301,2024-05-20,Contract Non-Compliance,48710.83,South,Bulk Pack,System Flag,In Progress,0.0
+TXN00302,2024-01-11,Billing Delay,5962.04,South,Economy Pack,System Flag,Recovered,975.61
+TXN00303,2024-02-03,Unauthorized Discount,16214.62,East,Economy Pack,Audit,Written Off,0.0
+TXN00304,2024-03-15,Billing Delay,23978.53,East,Economy Pack,Manager Review,Recovered,0.0
+TXN00305,2024-10-11,Return Abuse,70125.61,North,Economy Pack,Manager Review,Recovered,0.0
+TXN00306,2024-08-24,Duplicate Invoice,21860.61,West,Bulk Pack,Manager Review,Recovered,0.0
+TXN00307,2024-05-09,Billing Delay,8868.33,North,Standard Pack,Manager Review,Recovered,7558.56
+TXN00308,2024-07-17,Unauthorized Discount,33317.68,East,Premium Pack,Manager Review,In Progress,0.0
+TXN00309,2024-01-21,Return Abuse,1209.66,Central,Standard Pack,Audit,Written Off,647.77
+TXN00310,2024-12-25,Return Abuse,60078.2,North,Trial Pack,Audit,Recovered,613.05
+TXN00311,2024-11-13,Contract Non-Compliance,28212.01,West,Premium Pack,System Flag,Recovered,17384.29
+TXN00312,2024-09-07,Pricing Error,15364.33,West,Bulk Pack,Customer Complaint,In Progress,7207.81
+TXN00313,2024-08-07,Pricing Error,34515.99,Central,Standard Pack,System Flag,In Progress,0.0
+TXN00314,2024-10-24,Pricing Error,12094.23,West,Bulk Pack,Manager Review,Written Off,0.0
+TXN00315,2024-12-03,Return Abuse,2033.11,Central,Trial Pack,Audit,Recovered,1200.62
+TXN00316,2024-12-20,Duplicate Invoice,23246.94,North,Economy Pack,Audit,In Progress,7858.45
+TXN00317,2024-10-30,Contract Non-Compliance,5613.49,Central,Bulk Pack,Manager Review,Written Off,1160.85
+TXN00318,2024-10-03,Pricing Error,1575.8,East,Premium Pack,Customer Complaint,Written Off,1396.57
+TXN00319,2024-05-23,Unauthorized Discount,32218.16,West,Trial Pack,System Flag,Recovered,0.0
+TXN00320,2024-05-15,Pricing Error,1256.22,West,Standard Pack,Customer Complaint,In Progress,0.0
+TXN00321,2024-07-21,Unauthorized Discount,8230.87,South,Bulk Pack,Manager Review,In Progress,0.0
+TXN00322,2024-01-21,Contract Non-Compliance,34095.8,West,Economy Pack,System Flag,Recovered,14479.98
+TXN00323,2024-08-27,Missed Renewal,10540.04,Central,Premium Pack,Audit,Written Off,1840.7
+TXN00324,2024-08-26,Pricing Error,10988.56,East,Trial Pack,Audit,Recovered,0.0
+TXN00325,2024-02-23,Duplicate Invoice,614.95,East,Trial Pack,Manager Review,In Progress,582.85
+TXN00326,2024-08-20,Pricing Error,21539.9,West,Bulk Pack,Manager Review,Written Off,19400.54
+TXN00327,2024-07-21,Billing Delay,4177.02,Central,Economy Pack,Manager Review,Recovered,3315.54
+TXN00328,2024-08-24,Unauthorized Discount,12989.8,North,Standard Pack,Manager Review,In Progress,0.0
+TXN00329,2024-10-25,Pricing Error,8629.76,South,Premium Pack,System Flag,Recovered,0.0
+TXN00330,2024-03-17,Duplicate Invoice,1663.81,South,Economy Pack,Customer Complaint,In Progress,495.03
+TXN00331,2024-02-15,Unauthorized Discount,3550.4,Central,Premium Pack,System Flag,Recovered,628.01
+TXN00332,2024-03-14,Pricing Error,30801.8,West,Bulk Pack,System Flag,In Progress,18114.65
+TXN00333,2024-08-18,Return Abuse,16714.23,Central,Trial Pack,Audit,Recovered,13075.03
+TXN00334,2024-06-11,Missed Renewal,3603.64,South,Premium Pack,System Flag,In Progress,889.04
+TXN00335,2024-08-17,Billing Delay,10143.0,East,Economy Pack,Manager Review,Written Off,8245.78
+TXN00336,2024-09-03,Billing Delay,716.46,East,Standard Pack,Audit,In Progress,0.0
+TXN00337,2024-09-03,Return Abuse,12158.44,Central,Bulk Pack,System Flag,Recovered,0.0
+TXN00338,2024-08-17,Return Abuse,28137.48,North,Bulk Pack,System Flag,Recovered,25679.09
+TXN00339,2024-02-07,Unauthorized Discount,63405.92,West,Economy Pack,System Flag,Recovered,0.0
+TXN00340,2024-03-06,Missed Renewal,2082.9,South,Bulk Pack,Audit,In Progress,1439.78
+TXN00341,2024-03-30,Unauthorized Discount,28550.17,Central,Trial Pack,Audit,Recovered,4026.91
+TXN00342,2024-04-25,Contract Non-Compliance,9853.99,East,Economy Pack,Audit,Recovered,2440.7
+TXN00343,2024-12-07,Billing Delay,18726.15,South,Bulk Pack,Customer Complaint,In Progress,0.0
+TXN00344,2024-09-03,Unauthorized Discount,4254.73,South,Trial Pack,Manager Review,Recovered,2808.25
+TXN00345,2024-07-18,Pricing Error,34281.95,Central,Bulk Pack,Audit,Recovered,29132.88
+TXN00346,2024-05-18,Unauthorized Discount,12069.62,East,Economy Pack,System Flag,In Progress,1023.48
+TXN00347,2024-07-14,Billing Delay,2181.67,Central,Bulk Pack,Customer Complaint,In Progress,0.0
+TXN00348,2024-01-23,Unauthorized Discount,63671.54,East,Trial Pack,Manager Review,Recovered,0.0
+TXN00349,2024-05-02,Pricing Error,34013.69,South,Bulk Pack,Manager Review,Recovered,31784.29
+TXN00350,2024-10-02,Contract Non-Compliance,4580.8,East,Bulk Pack,System Flag,In Progress,4328.59
+TXN00351,2024-01-04,Billing Delay,6770.71,South,Trial Pack,Audit,Written Off,0.0
+TXN00352,2024-07-30,Contract Non-Compliance,10549.9,West,Trial Pack,Audit,In Progress,0.0
+TXN00353,2024-01-30,Pricing Error,65.75,South,Trial Pack,Customer Complaint,In Progress,62.04
+TXN00354,2024-09-15,Pricing Error,37173.88,Central,Bulk Pack,Customer Complaint,In Progress,31344.41
+TXN00355,2024-10-16,Unauthorized Discount,16098.51,East,Premium Pack,Manager Review,In Progress,11309.11
+TXN00356,2024-07-20,Pricing Error,1568.08,East,Standard Pack,System Flag,Written Off,794.07
+TXN00357,2024-03-30,Duplicate Invoice,11301.05,West,Premium Pack,Audit,Recovered,9563.47
+TXN00358,2024-10-31,Pricing Error,3772.88,West,Bulk Pack,Manager Review,Recovered,999.74
+TXN00359,2024-03-20,Unauthorized Discount,22120.13,West,Economy Pack,System Flag,Recovered,20484.19
+TXN00360,2024-02-03,Unauthorized Discount,3943.38,West,Economy Pack,Manager Review,Recovered,0.0
+TXN00361,2024-12-25,Return Abuse,11871.53,South,Trial Pack,System Flag,Recovered,0.0
+TXN00362,2024-12-23,Pricing Error,1202.26,Central,Premium Pack,System Flag,Written Off,990.03
+TXN00363,2024-12-22,Duplicate Invoice,2444.81,East,Economy Pack,Customer Complaint,Written Off,1134.66
+TXN00364,2024-08-29,Billing Delay,5457.55,South,Premium Pack,Audit,Written Off,1504.9
+TXN00365,2024-02-19,Missed Renewal,15437.38,West,Standard Pack,Manager Review,Recovered,0.0
+TXN00366,2024-12-27,Missed Renewal,11955.81,South,Premium Pack,Manager Review,Written Off,8511.49
+TXN00367,2024-11-11,Pricing Error,14261.33,Central,Standard Pack,Customer Complaint,In Progress,0.0
+TXN00368,2024-08-01,Contract Non-Compliance,3727.16,East,Premium Pack,Customer Complaint,Written Off,0.0
+TXN00369,2024-10-06,Pricing Error,23560.89,West,Trial Pack,Manager Review,Recovered,21251.64
+TXN00370,2024-02-29,Unauthorized Discount,6131.84,North,Standard Pack,Customer Complaint,Written Off,5488.79
+TXN00371,2024-01-22,Billing Delay,299.96,East,Trial Pack,Manager Review,Written Off,135.15
+TXN00372,2024-09-22,Return Abuse,15587.94,East,Economy Pack,Audit,In Progress,5826.29
+TXN00373,2024-10-17,Pricing Error,6164.32,West,Economy Pack,Audit,In Progress,267.95
+TXN00374,2024-02-04,Unauthorized Discount,45051.72,Central,Standard Pack,Manager Review,In Progress,0.0
+TXN00375,2024-02-25,Unauthorized Discount,14754.28,East,Premium Pack,System Flag,Recovered,0.0
+TXN00376,2024-05-13,Missed Renewal,5261.48,East,Premium Pack,Customer Complaint,Written Off,0.0
+TXN00377,2024-07-22,Billing Delay,6736.03,South,Bulk Pack,System Flag,Recovered,0.0
+TXN00378,2024-05-30,Contract Non-Compliance,11185.41,East,Bulk Pack,Manager Review,Recovered,0.0
+TXN00379,2024-12-09,Contract Non-Compliance,14882.15,West,Bulk Pack,Audit,Written Off,14823.62
+TXN00380,2024-01-23,Billing Delay,19039.56,West,Standard Pack,Audit,Recovered,0.0
+TXN00381,2024-01-09,Unauthorized Discount,650.36,North,Trial Pack,Manager Review,In Progress,445.0
+TXN00382,2024-03-11,Duplicate Invoice,32062.48,South,Economy Pack,Customer Complaint,Recovered,0.0
+TXN00383,2024-04-16,Missed Renewal,5064.56,Central,Trial Pack,Audit,Recovered,0.0
+TXN00384,2024-10-13,Unauthorized Discount,32050.93,North,Bulk Pack,Audit,Written Off,0.0
+TXN00385,2024-08-31,Return Abuse,35093.57,North,Standard Pack,Manager Review,Written Off,8244.47
+TXN00386,2024-01-27,Pricing Error,10329.18,North,Trial Pack,System Flag,In Progress,3401.15
+TXN00387,2024-11-22,Billing Delay,6717.74,Central,Economy Pack,Audit,In Progress,6468.55
+TXN00388,2024-11-04,Unauthorized Discount,19578.11,East,Trial Pack,System Flag,Written Off,15337.93
+TXN00389,2024-04-15,Missed Renewal,83398.31,West,Economy Pack,Manager Review,Recovered,80380.04
+TXN00390,2024-09-19,Missed Renewal,207.9,Central,Premium Pack,Customer Complaint,Recovered,15.72
+TXN00391,2024-06-16,Contract Non-Compliance,34858.12,Central,Premium Pack,Customer Complaint,Recovered,33848.25
+TXN00392,2024-07-26,Contract Non-Compliance,28058.08,Central,Standard Pack,Customer Complaint,In Progress,22483.28
+TXN00393,2024-01-02,Unauthorized Discount,13388.73,North,Trial Pack,Manager Review,Written Off,11182.59
+TXN00394,2024-07-19,Duplicate Invoice,5848.16,Central,Premium Pack,System Flag,Recovered,0.0
+TXN00395,2024-04-29,Unauthorized Discount,47591.89,Central,Trial Pack,Manager Review,Recovered,0.0
+TXN00396,2024-11-11,Pricing Error,9352.84,West,Standard Pack,System Flag,Recovered,0.0
+TXN00397,2024-09-01,Unauthorized Discount,19870.39,West,Standard Pack,Audit,Recovered,252.9
+TXN00398,2024-02-11,Contract Non-Compliance,8061.51,North,Premium Pack,Manager Review,In Progress,7216.24
+TXN00399,2024-08-03,Contract Non-Compliance,429.56,North,Standard Pack,Customer Complaint,Recovered,0.0
+TXN00400,2024-05-14,Unauthorized Discount,15722.37,North,Premium Pack,Manager Review,Recovered,0.0
+TXN00401,2024-05-24,Duplicate Invoice,11192.56,Central,Trial Pack,System Flag,In Progress,2938.45
+TXN00402,2024-03-17,Pricing Error,1232.08,North,Bulk Pack,Audit,In Progress,1122.96
+TXN00403,2024-01-12,Contract Non-Compliance,2103.26,West,Standard Pack,Manager Review,Recovered,0.0
+TXN00404,2024-02-23,Unauthorized Discount,9412.24,North,Economy Pack,Customer Complaint,Written Off,9367.85
+TXN00405,2024-07-17,Duplicate Invoice,2806.38,West,Premium Pack,Customer Complaint,Recovered,0.0
+TXN00406,2024-06-16,Unauthorized Discount,3133.47,West,Economy Pack,Manager Review,In Progress,0.0
+TXN00407,2024-03-06,Unauthorized Discount,14642.96,Central,Bulk Pack,Manager Review,Recovered,5746.55
+TXN00408,2024-02-22,Duplicate Invoice,923.96,South,Economy Pack,Manager Review,In Progress,310.75
+TXN00409,2024-06-12,Duplicate Invoice,18500.5,Central,Premium Pack,Audit,Recovered,5209.81
+TXN00410,2024-07-12,Unauthorized Discount,492.4,North,Standard Pack,Manager Review,Written Off,267.83
+TXN00411,2024-05-02,Unauthorized Discount,15382.39,West,Economy Pack,Customer Complaint,Recovered,15351.94
+TXN00412,2024-07-15,Pricing Error,10737.46,South,Premium Pack,System Flag,Written Off,0.0
+TXN00413,2024-01-08,Contract Non-Compliance,3509.38,South,Trial Pack,System Flag,In Progress,0.0
+TXN00414,2024-12-21,Billing Delay,6988.05,South,Premium Pack,System Flag,Written Off,0.0
+TXN00415,2024-11-07,Billing Delay,5664.16,North,Bulk Pack,System Flag,In Progress,0.0
+TXN00416,2024-09-19,Pricing Error,14947.99,West,Trial Pack,System Flag,Written Off,2810.6
+TXN00417,2024-08-01,Unauthorized Discount,17668.12,West,Bulk Pack,Audit,In Progress,0.0
+TXN00418,2024-11-26,Duplicate Invoice,12040.41,South,Trial Pack,Manager Review,Recovered,2580.36
+TXN00419,2024-06-11,Pricing Error,1085.54,Central,Economy Pack,System Flag,Written Off,0.0
+TXN00420,2024-03-12,Contract Non-Compliance,5.0,South,Trial Pack,System Flag,In Progress,0.0
+TXN00421,2024-01-18,Duplicate Invoice,21107.78,Central,Bulk Pack,Audit,In Progress,226.68
+TXN00422,2024-12-23,Contract Non-Compliance,17773.56,East,Bulk Pack,Manager Review,Recovered,0.0
+TXN00423,2024-06-25,Pricing Error,2382.42,North,Economy Pack,System Flag,Recovered,0.0
+TXN00424,2024-04-07,Billing Delay,1295.59,Central,Bulk Pack,Audit,Recovered,624.33
+TXN00425,2024-11-21,Return Abuse,3217.19,North,Bulk Pack,System Flag,In Progress,240.06
+TXN00426,2024-02-15,Contract Non-Compliance,1356.82,West,Trial Pack,Customer Complaint,Recovered,1130.54
+TXN00427,2024-10-01,Pricing Error,1102.85,Central,Premium Pack,System Flag,Recovered,0.0
+TXN00428,2024-01-07,Billing Delay,3431.43,Central,Trial Pack,Manager Review,In Progress,0.0
+TXN00429,2024-05-18,Unauthorized Discount,17539.31,Central,Trial Pack,System Flag,Written Off,929.21
+TXN00430,2024-11-05,Billing Delay,2844.82,South,Bulk Pack,Audit,Recovered,821.66
+TXN00431,2024-11-07,Return Abuse,5165.95,East,Trial Pack,Customer Complaint,Written Off,3115.11
+TXN00432,2024-10-13,Billing Delay,15160.79,West,Trial Pack,Audit,In Progress,6918.02
+TXN00433,2024-08-10,Unauthorized Discount,59160.54,Central,Trial Pack,System Flag,In Progress,18734.55
+TXN00434,2024-01-19,Contract Non-Compliance,34595.54,South,Premium Pack,Manager Review,Recovered,27914.04
+TXN00435,2024-07-25,Billing Delay,4168.1,East,Economy Pack,System Flag,Written Off,2853.78
+TXN00436,2024-02-17,Return Abuse,6785.25,West,Premium Pack,System Flag,In Progress,5286.94
+TXN00437,2024-03-16,Contract Non-Compliance,60.15,South,Bulk Pack,System Flag,Recovered,0.0
+TXN00438,2024-12-23,Unauthorized Discount,49.48,South,Bulk Pack,Audit,Recovered,0.0
+TXN00439,2024-01-01,Billing Delay,38505.95,South,Bulk Pack,Manager Review,Written Off,0.0
+TXN00440,2024-02-09,Unauthorized Discount,986.7,Central,Premium Pack,Manager Review,In Progress,0.0
+TXN00441,2024-09-05,Billing Delay,17427.52,South,Economy Pack,System Flag,Recovered,0.0
+TXN00442,2024-12-13,Contract Non-Compliance,7478.25,West,Trial Pack,System Flag,In Progress,0.0
+TXN00443,2024-03-16,Contract Non-Compliance,50.85,Central,Standard Pack,Audit,In Progress,5.38
+TXN00444,2024-12-17,Unauthorized Discount,10205.76,West,Standard Pack,Audit,Recovered,2745.87
+TXN00445,2024-05-07,Return Abuse,16446.07,North,Trial Pack,Customer Complaint,In Progress,7693.3
+TXN00446,2024-11-06,Contract Non-Compliance,13530.12,North,Trial Pack,Audit,Recovered,0.0
+TXN00447,2024-06-08,Contract Non-Compliance,27451.75,South,Standard Pack,Audit,Written Off,0.0
+TXN00448,2024-10-15,Missed Renewal,6655.25,Central,Premium Pack,System Flag,In Progress,0.0
+TXN00449,2024-02-21,Contract Non-Compliance,15695.93,South,Standard Pack,Audit,In Progress,0.0
+TXN00450,2024-07-21,Unauthorized Discount,8576.16,South,Trial Pack,System Flag,Recovered,0.0
+TXN00451,2024-06-15,Duplicate Invoice,371.02,South,Standard Pack,Manager Review,In Progress,263.43
+TXN00452,2024-03-15,Unauthorized Discount,14620.24,East,Premium Pack,System Flag,In Progress,0.0
+TXN00453,2024-03-21,Billing Delay,34327.74,North,Standard Pack,Customer Complaint,In Progress,26615.44
+TXN00454,2024-10-30,Contract Non-Compliance,15008.99,East,Economy Pack,Audit,Recovered,4426.62
+TXN00455,2024-10-07,Billing Delay,10608.48,Central,Bulk Pack,System Flag,In Progress,0.0
+TXN00456,2024-10-13,Billing Delay,10143.71,Central,Standard Pack,Audit,Recovered,0.0
+TXN00457,2024-07-29,Pricing Error,29305.01,Central,Premium Pack,Manager Review,In Progress,0.0
+TXN00458,2024-12-10,Contract Non-Compliance,9450.06,Central,Bulk Pack,Audit,Recovered,2468.68
+TXN00459,2024-11-18,Unauthorized Discount,11772.04,East,Economy Pack,Manager Review,Recovered,3751.8
+TXN00460,2024-09-19,Duplicate Invoice,70204.73,West,Bulk Pack,Customer Complaint,Recovered,54385.97
+TXN00461,2024-11-10,Pricing Error,1104.52,Central,Standard Pack,System Flag,Recovered,0.0
+TXN00462,2024-02-24,Pricing Error,3406.45,North,Economy Pack,Audit,Written Off,0.0
+TXN00463,2024-07-02,Contract Non-Compliance,1876.79,Central,Trial Pack,Audit,Written Off,769.01
+TXN00464,2024-05-15,Unauthorized Discount,11837.52,Central,Premium Pack,Customer Complaint,In Progress,7343.32
+TXN00465,2024-01-17,Unauthorized Discount,95.96,Central,Economy Pack,Customer Complaint,Written Off,46.6
+TXN00466,2024-05-10,Pricing Error,10449.04,North,Standard Pack,Manager Review,Recovered,2583.54
+TXN00467,2024-07-28,Duplicate Invoice,2527.95,West,Standard Pack,Audit,Written Off,0.0
+TXN00468,2024-02-13,Billing Delay,4731.66,West,Economy Pack,System Flag,In Progress,4340.86
+TXN00469,2024-10-25,Pricing Error,963.64,South,Standard Pack,Manager Review,Recovered,0.0
+TXN00470,2024-01-12,Duplicate Invoice,23040.94,East,Premium Pack,Manager Review,Recovered,2360.36
+TXN00471,2024-09-12,Return Abuse,6192.25,East,Standard Pack,Customer Complaint,Recovered,0.0
+TXN00472,2024-11-15,Unauthorized Discount,12999.25,West,Bulk Pack,Audit,In Progress,820.89
+TXN00473,2024-06-13,Missed Renewal,4703.28,South,Economy Pack,System Flag,Written Off,1123.03
+TXN00474,2024-10-26,Billing Delay,25078.04,South,Economy Pack,Customer Complaint,Written Off,4205.66
+TXN00475,2024-06-11,Return Abuse,8586.25,West,Bulk Pack,Manager Review,Written Off,2400.1
+TXN00476,2024-03-06,Contract Non-Compliance,45801.88,North,Economy Pack,Audit,In Progress,27745.49
+TXN00477,2024-07-03,Duplicate Invoice,8024.22,South,Bulk Pack,Audit,Written Off,4189.32
+TXN00478,2024-01-26,Unauthorized Discount,2133.59,West,Standard Pack,Manager Review,In Progress,773.14
+TXN00479,2024-07-25,Pricing Error,8210.02,Central,Bulk Pack,Customer Complaint,In Progress,7398.9
+TXN00480,2024-11-09,Contract Non-Compliance,20793.41,South,Trial Pack,Audit,In Progress,0.0
+TXN00481,2024-02-28,Unauthorized Discount,6291.21,North,Economy Pack,Manager Review,In Progress,5080.51
+TXN00482,2024-12-02,Duplicate Invoice,719.18,West,Bulk Pack,System Flag,In Progress,0.0
+TXN00483,2024-02-14,Unauthorized Discount,16327.58,North,Economy Pack,Manager Review,In Progress,12059.08
+TXN00484,2024-12-18,Unauthorized Discount,501.22,Central,Premium Pack,Manager Review,In Progress,0.0
+TXN00485,2024-05-13,Contract Non-Compliance,4150.41,South,Premium Pack,System Flag,Recovered,0.0
+TXN00486,2024-07-08,Contract Non-Compliance,407.7,East,Economy Pack,Customer Complaint,Written Off,0.0
+TXN00487,2024-05-31,Unauthorized Discount,12478.15,North,Standard Pack,Customer Complaint,In Progress,0.0
+TXN00488,2024-01-16,Duplicate Invoice,694.72,Central,Standard Pack,System Flag,Recovered,0.0
+TXN00489,2024-06-09,Return Abuse,5364.1,North,Premium Pack,Manager Review,Written Off,0.0
+TXN00490,2024-03-25,Billing Delay,23311.31,Central,Standard Pack,Manager Review,Written Off,18723.46
+TXN00491,2024-02-21,Return Abuse,3252.34,West,Standard Pack,System Flag,In Progress,244.34
+TXN00492,2024-02-06,Billing Delay,12705.61,East,Economy Pack,System Flag,Written Off,0.0
+TXN00493,2024-11-07,Return Abuse,10198.32,West,Trial Pack,Audit,In Progress,0.0
+TXN00494,2024-12-18,Missed Renewal,23643.17,South,Trial Pack,Customer Complaint,Recovered,0.0
+TXN00495,2024-01-10,Contract Non-Compliance,18408.67,West,Bulk Pack,System Flag,Recovered,13397.67
+TXN00496,2024-02-04,Unauthorized Discount,13640.2,South,Economy Pack,Manager Review,Recovered,2631.11
+TXN00497,2024-10-08,Billing Delay,17009.71,West,Premium Pack,System Flag,In Progress,13052.53
+TXN00498,2024-10-09,Unauthorized Discount,1890.6,West,Trial Pack,Customer Complaint,Recovered,1850.13
+TXN00499,2024-10-17,Return Abuse,44553.52,South,Bulk Pack,Customer Complaint,In Progress,18245.61
+TXN00500,2024-05-22,Unauthorized Discount,12294.49,West,Premium Pack,Audit,Written Off,7573.15
+TXN00501,2024-03-13,Return Abuse,5573.13,North,Bulk Pack,Audit,Written Off,0.0
+TXN00502,2024-12-24,Unauthorized Discount,24497.95,South,Bulk Pack,Manager Review,In Progress,0.0
+TXN00503,2024-03-22,Duplicate Invoice,3891.77,North,Economy Pack,Audit,Written Off,3440.3
+TXN00504,2024-05-18,Unauthorized Discount,3165.26,South,Standard Pack,Customer Complaint,In Progress,1942.2
+TXN00505,2024-03-03,Billing Delay,22911.24,South,Trial Pack,System Flag,In Progress,6237.68
+TXN00506,2024-10-27,Return Abuse,67340.14,North,Standard Pack,System Flag,In Progress,0.0
+TXN00507,2024-02-16,Duplicate Invoice,351.27,East,Standard Pack,System Flag,In Progress,0.0
+TXN00508,2024-05-14,Duplicate Invoice,6860.01,South,Trial Pack,Audit,Written Off,2121.06
+TXN00509,2024-12-22,Pricing Error,14052.87,East,Standard Pack,System Flag,Written Off,9348.85
+TXN00510,2024-02-11,Return Abuse,45885.76,East,Bulk Pack,Manager Review,In Progress,0.0
+TXN00511,2024-06-01,Return Abuse,16675.21,East,Trial Pack,Customer Complaint,Recovered,3204.02
+TXN00512,2024-08-30,Unauthorized Discount,26859.48,South,Bulk Pack,Manager Review,Recovered,20268.75
+TXN00513,2024-05-15,Duplicate Invoice,14585.94,West,Bulk Pack,Audit,Recovered,9503.99
+TXN00514,2024-12-04,Pricing Error,7328.85,North,Standard Pack,Manager Review,Recovered,0.0
+TXN00515,2024-10-08,Pricing Error,1886.21,West,Premium Pack,Customer Complaint,Written Off,1577.93
+TXN00516,2024-01-22,Billing Delay,7851.74,Central,Economy Pack,Manager Review,Written Off,0.0
+TXN00517,2024-03-29,Unauthorized Discount,3755.76,North,Trial Pack,Audit,Written Off,3205.18
+TXN00518,2024-11-27,Contract Non-Compliance,10633.66,North,Economy Pack,Manager Review,In Progress,9206.23
+TXN00519,2024-04-29,Pricing Error,13624.4,West,Trial Pack,System Flag,In Progress,6324.79
+TXN00520,2024-09-27,Unauthorized Discount,6139.8,Central,Trial Pack,System Flag,In Progress,167.54
+TXN00521,2024-06-27,Return Abuse,20137.56,Central,Bulk Pack,Audit,Written Off,2897.52
+TXN00522,2024-03-25,Return Abuse,10959.56,Central,Economy Pack,Customer Complaint,Recovered,3572.29
+TXN00523,2024-04-04,Pricing Error,11019.44,West,Economy Pack,Audit,In Progress,8983.46
+TXN00524,2024-11-14,Unauthorized Discount,11570.87,Central,Bulk Pack,Customer Complaint,Recovered,3743.72
+TXN00525,2024-01-15,Pricing Error,22826.98,East,Premium Pack,Customer Complaint,In Progress,2934.83
+TXN00526,2024-02-27,Duplicate Invoice,4194.98,West,Premium Pack,System Flag,In Progress,0.0
+TXN00527,2024-06-13,Unauthorized Discount,32654.25,East,Standard Pack,Audit,Recovered,21809.18
+TXN00528,2024-05-10,Pricing Error,12016.49,South,Bulk Pack,System Flag,Recovered,11791.12
+TXN00529,2024-10-13,Duplicate Invoice,12609.82,South,Economy Pack,Manager Review,Written Off,1422.02
+TXN00530,2024-03-04,Unauthorized Discount,4734.99,South,Premium Pack,Audit,Recovered,4403.37
+TXN00531,2024-01-06,Unauthorized Discount,3175.65,North,Economy Pack,Customer Complaint,Recovered,2986.66
+TXN00532,2024-08-18,Missed Renewal,4864.45,East,Economy Pack,Audit,Recovered,0.0
+TXN00533,2024-07-04,Unauthorized Discount,8482.53,West,Premium Pack,System Flag,Written Off,4934.21
+TXN00534,2024-06-10,Missed Renewal,6691.93,South,Premium Pack,Manager Review,Recovered,0.0
+TXN00535,2024-08-25,Billing Delay,28156.48,East,Economy Pack,System Flag,Recovered,0.0
+TXN00536,2024-09-26,Duplicate Invoice,559.45,West,Bulk Pack,Manager Review,In Progress,65.77
+TXN00537,2024-04-02,Return Abuse,3556.59,South,Bulk Pack,Audit,Recovered,2786.97
+TXN00538,2024-05-23,Billing Delay,6010.02,West,Bulk Pack,System Flag,In Progress,1471.13
+TXN00539,2024-03-15,Pricing Error,6740.74,South,Bulk Pack,System Flag,Written Off,2857.03
+TXN00540,2024-07-07,Pricing Error,21958.25,North,Trial Pack,System Flag,Recovered,9082.56
+TXN00541,2024-01-12,Duplicate Invoice,1477.4,East,Premium Pack,Customer Complaint,In Progress,492.24
+TXN00542,2024-02-27,Unauthorized Discount,5529.55,East,Standard Pack,Manager Review,Written Off,2795.63
+TXN00543,2024-05-08,Unauthorized Discount,4099.65,North,Standard Pack,Customer Complaint,Recovered,3173.66
+TXN00544,2024-08-30,Billing Delay,14625.45,West,Trial Pack,System Flag,Written Off,0.0
+TXN00545,2024-03-06,Contract Non-Compliance,31992.66,East,Trial Pack,Audit,Written Off,21092.83
+TXN00546,2024-07-08,Billing Delay,308.81,West,Standard Pack,Audit,Written Off,286.66
+TXN00547,2024-05-18,Billing Delay,3358.11,Central,Standard Pack,Customer Complaint,Written Off,0.0
+TXN00548,2024-02-01,Unauthorized Discount,3988.68,West,Bulk Pack,System Flag,Written Off,0.0
+TXN00549,2024-03-25,Duplicate Invoice,28856.7,East,Premium Pack,System Flag,Recovered,1986.38
+TXN00550,2024-12-02,Billing Delay,5130.93,South,Economy Pack,Audit,In Progress,2506.3
+TXN00551,2024-09-28,Unauthorized Discount,15746.07,Central,Premium Pack,System Flag,In Progress,4008.59
+TXN00552,2024-11-11,Billing Delay,13997.04,West,Premium Pack,Manager Review,In Progress,4375.2
+TXN00553,2024-05-03,Pricing Error,82020.2,East,Premium Pack,Customer Complaint,Written Off,68901.81
+TXN00554,2024-11-01,Pricing Error,5263.47,West,Standard Pack,Audit,In Progress,3736.83
+TXN00555,2024-07-25,Unauthorized Discount,269.33,Central,Economy Pack,System Flag,Recovered,172.56
+TXN00556,2024-11-06,Contract Non-Compliance,25375.68,East,Premium Pack,System Flag,In Progress,0.0
+TXN00557,2024-01-12,Contract Non-Compliance,7898.71,West,Premium Pack,System Flag,Written Off,3190.16
+TXN00558,2024-10-05,Pricing Error,698.92,East,Bulk Pack,Manager Review,In Progress,554.92
+TXN00559,2024-08-20,Contract Non-Compliance,2209.67,Central,Economy Pack,Customer Complaint,In Progress,123.99
+TXN00560,2024-04-04,Pricing Error,9235.33,Central,Trial Pack,Manager Review,Recovered,4246.24
+TXN00561,2024-08-26,Contract Non-Compliance,21557.12,North,Premium Pack,Audit,Written Off,0.0
+TXN00562,2024-04-10,Billing Delay,3208.14,North,Trial Pack,Customer Complaint,Recovered,535.16
+TXN00563,2024-08-06,Duplicate Invoice,7874.41,North,Premium Pack,Audit,Written Off,0.0
+TXN00564,2024-05-16,Billing Delay,3266.39,Central,Economy Pack,System Flag,Written Off,0.0
+TXN00565,2024-03-18,Return Abuse,6624.98,North,Bulk Pack,Audit,In Progress,5581.49
+TXN00566,2024-12-22,Unauthorized Discount,14012.5,South,Premium Pack,Customer Complaint,In Progress,1311.54
+TXN00567,2024-10-08,Missed Renewal,1249.79,West,Premium Pack,Manager Review,Written Off,1142.94
+TXN00568,2024-11-26,Contract Non-Compliance,21261.46,West,Bulk Pack,Audit,Recovered,0.0
+TXN00569,2024-03-17,Duplicate Invoice,26662.65,Central,Trial Pack,System Flag,Recovered,0.0
+TXN00570,2024-04-15,Return Abuse,1275.38,East,Trial Pack,Audit,Written Off,0.0
+TXN00571,2024-06-10,Billing Delay,24999.48,South,Premium Pack,Audit,Recovered,0.0
+TXN00572,2024-04-30,Pricing Error,1967.47,North,Economy Pack,System Flag,Written Off,0.0
+TXN00573,2024-05-30,Contract Non-Compliance,11093.78,East,Premium Pack,Customer Complaint,Recovered,820.17
+TXN00574,2024-01-04,Pricing Error,4657.76,North,Standard Pack,Audit,In Progress,1140.63
+TXN00575,2024-11-09,Missed Renewal,16206.7,North,Standard Pack,Customer Complaint,Recovered,13736.14
+TXN00576,2024-08-07,Billing Delay,65152.19,West,Trial Pack,System Flag,Written Off,58607.34
+TXN00577,2024-06-01,Billing Delay,32007.19,South,Trial Pack,Customer Complaint,In Progress,0.0
+TXN00578,2024-06-22,Missed Renewal,22359.11,North,Economy Pack,System Flag,In Progress,11874.21
+TXN00579,2024-11-28,Unauthorized Discount,10894.85,East,Trial Pack,Manager Review,Written Off,0.0
+TXN00580,2024-08-21,Billing Delay,89039.59,South,Trial Pack,Manager Review,In Progress,0.0
+TXN00581,2024-08-01,Unauthorized Discount,62739.38,South,Bulk Pack,Customer Complaint,Written Off,59669.26
+TXN00582,2024-12-07,Unauthorized Discount,11443.94,South,Trial Pack,System Flag,In Progress,420.53
+TXN00583,2024-07-18,Missed Renewal,15494.02,Central,Standard Pack,Audit,In Progress,4830.48
+TXN00584,2024-02-01,Pricing Error,11740.34,South,Bulk Pack,Manager Review,In Progress,2129.56
+TXN00585,2024-09-13,Pricing Error,4907.11,West,Standard Pack,Customer Complaint,In Progress,0.0
+TXN00586,2024-06-23,Unauthorized Discount,4026.96,East,Bulk Pack,System Flag,In Progress,3308.37
+TXN00587,2024-06-02,Billing Delay,1842.06,North,Bulk Pack,Manager Review,Recovered,1829.1
+TXN00588,2024-04-14,Unauthorized Discount,35416.64,Central,Premium Pack,Audit,Recovered,7367.85
+TXN00589,2024-02-12,Return Abuse,3703.49,West,Trial Pack,Audit,In Progress,196.18
+TXN00590,2024-12-12,Billing Delay,22874.09,East,Trial Pack,System Flag,Recovered,8412.51
+TXN00591,2024-07-05,Billing Delay,25202.4,North,Bulk Pack,Audit,Recovered,0.0
+TXN00592,2024-12-18,Return Abuse,8991.74,West,Standard Pack,Audit,In Progress,24.74
+TXN00593,2024-03-24,Unauthorized Discount,9461.95,South,Bulk Pack,Manager Review,Recovered,0.0
+TXN00594,2024-08-06,Return Abuse,9391.1,East,Premium Pack,Customer Complaint,Written Off,7410.97
+TXN00595,2024-09-29,Pricing Error,14068.01,South,Premium Pack,Manager Review,Written Off,0.0
+TXN00596,2024-01-30,Unauthorized Discount,21435.3,Central,Premium Pack,Customer Complaint,Written Off,816.53
+TXN00597,2024-12-30,Missed Renewal,25000.25,North,Bulk Pack,Manager Review,In Progress,0.0
+TXN00598,2024-02-21,Pricing Error,52330.07,North,Premium Pack,Customer Complaint,In Progress,19925.59
+TXN00599,2024-04-23,Return Abuse,45239.64,West,Trial Pack,Audit,Written Off,30652.81
+TXN00600,2024-05-24,Unauthorized Discount,23293.24,South,Bulk Pack,Audit,Recovered,5194.07
+TXN00601,2024-02-06,Missed Renewal,5437.06,North,Premium Pack,Customer Complaint,Recovered,1359.99
+TXN00602,2024-04-05,Duplicate Invoice,3278.08,West,Bulk Pack,Customer Complaint,Recovered,1314.06
+TXN00603,2024-10-26,Billing Delay,25631.18,Central,Premium Pack,Manager Review,In Progress,14074.8
+TXN00604,2024-12-26,Missed Renewal,23031.66,East,Economy Pack,System Flag,In Progress,9986.99
+TXN00605,2024-08-16,Billing Delay,252.78,North,Trial Pack,System Flag,In Progress,155.37
+TXN00606,2024-05-25,Unauthorized Discount,1638.51,East,Bulk Pack,System Flag,Recovered,1061.83
+TXN00607,2024-02-02,Pricing Error,745.69,Central,Premium Pack,Audit,In Progress,0.0
+TXN00608,2024-12-20,Billing Delay,288.24,East,Bulk Pack,Audit,Recovered,0.0
+TXN00609,2024-02-24,Billing Delay,25338.3,East,Standard Pack,System Flag,In Progress,20702.4
+TXN00610,2024-01-05,Contract Non-Compliance,27111.12,South,Premium Pack,Manager Review,In Progress,1935.9
+TXN00611,2024-09-14,Billing Delay,43432.91,West,Bulk Pack,Audit,Recovered,0.0
+TXN00612,2024-01-26,Unauthorized Discount,34718.16,West,Economy Pack,Audit,Recovered,31578.34
+TXN00613,2024-02-11,Billing Delay,8160.9,East,Trial Pack,System Flag,In Progress,0.0
+TXN00614,2024-09-17,Duplicate Invoice,24561.92,North,Trial Pack,System Flag,Recovered,0.0
+TXN00615,2024-02-23,Billing Delay,14674.24,South,Standard Pack,Audit,In Progress,0.0
+TXN00616,2024-04-01,Pricing Error,9112.8,North,Bulk Pack,Manager Review,In Progress,0.0
+TXN00617,2024-02-08,Return Abuse,9841.94,Central,Economy Pack,Customer Complaint,Written Off,723.46
+TXN00618,2024-04-26,Pricing Error,660.6,East,Standard Pack,Customer Complaint,Written Off,0.0
+TXN00619,2024-09-28,Pricing Error,3280.07,North,Trial Pack,System Flag,Written Off,0.0
+TXN00620,2024-03-04,Missed Renewal,6256.48,East,Bulk Pack,Audit,Written Off,3279.7
+TXN00621,2024-10-09,Unauthorized Discount,27063.06,Central,Trial Pack,System Flag,Written Off,0.0
+TXN00622,2024-05-14,Pricing Error,4690.04,North,Trial Pack,Manager Review,Written Off,0.0
+TXN00623,2024-12-16,Billing Delay,31332.91,East,Bulk Pack,System Flag,Written Off,0.0
+TXN00624,2024-06-13,Duplicate Invoice,30700.5,East,Premium Pack,Manager Review,Recovered,0.0
+TXN00625,2024-02-08,Contract Non-Compliance,12862.14,West,Economy Pack,Audit,Recovered,12349.03
+TXN00626,2024-07-27,Contract Non-Compliance,4901.09,Central,Bulk Pack,Customer Complaint,Recovered,2933.37
+TXN00627,2024-10-22,Billing Delay,14810.12,Central,Bulk Pack,System Flag,Recovered,0.0
+TXN00628,2024-05-15,Pricing Error,55441.06,East,Standard Pack,Audit,Written Off,0.0
+TXN00629,2024-10-06,Duplicate Invoice,5999.25,North,Bulk Pack,Customer Complaint,In Progress,0.0
+TXN00630,2024-04-02,Billing Delay,3244.05,West,Economy Pack,Manager Review,Written Off,0.0
+TXN00631,2024-02-24,Return Abuse,888.72,West,Trial Pack,Manager Review,Written Off,566.89
+TXN00632,2024-05-09,Contract Non-Compliance,1024.91,East,Bulk Pack,Customer Complaint,In Progress,0.0
+TXN00633,2024-05-12,Duplicate Invoice,235.66,North,Bulk Pack,Audit,Recovered,17.36
+TXN00634,2024-12-05,Return Abuse,4964.81,North,Standard Pack,Manager Review,Recovered,2041.31
+TXN00635,2024-01-28,Return Abuse,6199.99,East,Trial Pack,Manager Review,Recovered,1315.5
+TXN00636,2024-07-11,Unauthorized Discount,5990.2,South,Bulk Pack,Customer Complaint,Recovered,5052.77
+TXN00637,2024-05-13,Duplicate Invoice,3074.11,East,Premium Pack,Audit,In Progress,0.0
+TXN00638,2024-10-26,Pricing Error,10328.55,Central,Bulk Pack,Audit,In Progress,0.0
+TXN00639,2024-08-15,Billing Delay,252.71,North,Premium Pack,System Flag,In Progress,0.0
+TXN00640,2024-09-27,Billing Delay,2198.88,West,Standard Pack,Audit,Written Off,713.91
+TXN00641,2024-05-25,Return Abuse,3165.91,West,Trial Pack,System Flag,Written Off,0.0
+TXN00642,2024-03-18,Pricing Error,18249.84,North,Bulk Pack,Manager Review,In Progress,5606.5
+TXN00643,2024-04-30,Unauthorized Discount,5487.53,West,Economy Pack,Audit,Recovered,0.0
+TXN00644,2024-08-06,Return Abuse,4801.06,Central,Bulk Pack,Manager Review,Recovered,3567.13
+TXN00645,2024-11-30,Pricing Error,12441.84,East,Standard Pack,Audit,In Progress,0.0
+TXN00646,2024-08-17,Unauthorized Discount,9408.98,East,Premium Pack,Manager Review,Written Off,0.0
+TXN00647,2024-05-02,Pricing Error,7870.91,West,Standard Pack,System Flag,Recovered,5556.88
+TXN00648,2024-02-10,Unauthorized Discount,48290.05,West,Standard Pack,Customer Complaint,In Progress,27544.26
+TXN00649,2024-06-17,Billing Delay,13531.11,Central,Premium Pack,Audit,Recovered,0.0
+TXN00650,2024-10-30,Pricing Error,20227.15,South,Standard Pack,Customer Complaint,In Progress,14673.09
+TXN00651,2024-01-02,Unauthorized Discount,7632.95,North,Economy Pack,Audit,Written Off,2979.86
+TXN00652,2024-01-22,Pricing Error,3071.2,West,Economy Pack,Audit,In Progress,0.0
+TXN00653,2024-08-20,Unauthorized Discount,1453.55,Central,Bulk Pack,Customer Complaint,Recovered,398.57
+TXN00654,2024-05-04,Contract Non-Compliance,14868.57,East,Bulk Pack,Audit,In Progress,7507.96
+TXN00655,2024-03-17,Pricing Error,18075.7,East,Trial Pack,Audit,In Progress,9914.28
+TXN00656,2024-08-12,Contract Non-Compliance,35538.43,East,Economy Pack,Audit,Recovered,0.0
+TXN00657,2024-08-27,Pricing Error,14155.65,South,Premium Pack,Customer Complaint,Recovered,10991.94
+TXN00658,2024-03-23,Pricing Error,5613.61,Central,Economy Pack,Audit,Recovered,0.0
+TXN00659,2024-07-26,Contract Non-Compliance,5772.31,East,Trial Pack,System Flag,Recovered,4125.99
+TXN00660,2024-01-24,Return Abuse,710.72,West,Trial Pack,Customer Complaint,Recovered,0.0
+TXN00661,2024-04-19,Billing Delay,682.41,East,Standard Pack,System Flag,In Progress,622.85
+TXN00662,2024-10-22,Return Abuse,21836.29,North,Bulk Pack,Manager Review,Recovered,0.0
+TXN00663,2024-02-22,Contract Non-Compliance,9287.62,Central,Premium Pack,Manager Review,Written Off,7577.2
+TXN00664,2024-05-30,Billing Delay,3131.48,Central,Trial Pack,Audit,In Progress,0.0
+TXN00665,2024-11-12,Pricing Error,833.32,Central,Bulk Pack,System Flag,In Progress,159.19
+TXN00666,2024-08-12,Billing Delay,26534.65,South,Standard Pack,Customer Complaint,In Progress,22247.83
+TXN00667,2024-01-13,Billing Delay,13822.99,Central,Trial Pack,System Flag,Recovered,2063.79
+TXN00668,2024-09-11,Missed Renewal,281.8,South,Bulk Pack,Audit,In Progress,145.86
+TXN00669,2024-05-27,Return Abuse,16834.11,North,Premium Pack,Manager Review,In Progress,0.0
+TXN00670,2024-02-26,Unauthorized Discount,37019.56,West,Standard Pack,Manager Review,Recovered,23954.25
+TXN00671,2024-06-14,Pricing Error,12496.23,Central,Standard Pack,Manager Review,In Progress,4853.35
+TXN00672,2024-01-22,Pricing Error,8404.05,North,Economy Pack,Manager Review,Written Off,0.0
+TXN00673,2024-10-18,Pricing Error,15227.31,West,Trial Pack,Customer Complaint,Recovered,0.0
+TXN00674,2024-02-28,Contract Non-Compliance,5164.35,West,Trial Pack,System Flag,Recovered,4426.46
+TXN00675,2024-01-24,Contract Non-Compliance,24353.01,Central,Premium Pack,Manager Review,Written Off,17698.53
+TXN00676,2024-12-26,Billing Delay,2394.34,Central,Premium Pack,Audit,In Progress,0.0
+TXN00677,2024-03-01,Return Abuse,5335.91,North,Bulk Pack,Audit,Written Off,0.0
+TXN00678,2024-03-06,Unauthorized Discount,5907.15,East,Bulk Pack,Customer Complaint,Recovered,0.0
+TXN00679,2024-09-06,Contract Non-Compliance,1072.99,Central,Economy Pack,System Flag,Recovered,556.19
+TXN00680,2024-11-30,Unauthorized Discount,7514.25,North,Bulk Pack,Audit,Recovered,1437.77
+TXN00681,2024-07-13,Billing Delay,16297.31,Central,Standard Pack,System Flag,In Progress,11738.06
+TXN00682,2024-12-27,Duplicate Invoice,275.73,South,Bulk Pack,Audit,In Progress,200.97
+TXN00683,2024-12-25,Billing Delay,50228.19,East,Bulk Pack,System Flag,Recovered,25453.53
+TXN00684,2024-03-28,Unauthorized Discount,8943.31,Central,Premium Pack,Manager Review,Written Off,0.0
+TXN00685,2024-02-05,Unauthorized Discount,12751.36,South,Economy Pack,Manager Review,Recovered,9381.39
+TXN00686,2024-08-09,Billing Delay,17723.87,South,Trial Pack,Audit,Written Off,0.0
+TXN00687,2024-10-13,Pricing Error,27355.76,South,Premium Pack,Manager Review,Recovered,3081.15
+TXN00688,2024-05-02,Unauthorized Discount,918.61,West,Premium Pack,Audit,Written Off,156.99
+TXN00689,2024-04-28,Pricing Error,2273.1,Central,Trial Pack,Audit,Written Off,0.0
+TXN00690,2024-06-30,Pricing Error,1753.44,South,Standard Pack,Manager Review,In Progress,140.25
+TXN00691,2024-12-02,Return Abuse,7524.95,South,Trial Pack,Manager Review,In Progress,0.0
+TXN00692,2024-10-19,Duplicate Invoice,11786.99,West,Premium Pack,Manager Review,In Progress,0.0
+TXN00693,2024-02-04,Contract Non-Compliance,25680.33,North,Economy Pack,Customer Complaint,Written Off,20550.7
+TXN00694,2024-02-27,Return Abuse,4607.05,South,Standard Pack,Audit,Recovered,3829.18
+TXN00695,2024-09-09,Duplicate Invoice,7196.71,North,Economy Pack,System Flag,In Progress,1260.85
+TXN00696,2024-10-05,Unauthorized Discount,9648.88,South,Economy Pack,Audit,Written Off,1680.85
+TXN00697,2024-10-21,Unauthorized Discount,20102.86,North,Premium Pack,Customer Complaint,Written Off,15471.29
+TXN00698,2024-04-07,Contract Non-Compliance,2145.18,West,Standard Pack,Audit,Written Off,0.0
+TXN00699,2024-09-18,Pricing Error,13873.54,South,Premium Pack,System Flag,In Progress,0.0
+TXN00700,2024-09-15,Duplicate Invoice,59179.19,South,Standard Pack,Manager Review,In Progress,45705.25
+TXN00701,2024-12-22,Pricing Error,27265.35,West,Premium Pack,Manager Review,In Progress,22210.54
+TXN00702,2024-10-03,Duplicate Invoice,1377.81,West,Economy Pack,Manager Review,Written Off,1092.62
+TXN00703,2024-07-13,Contract Non-Compliance,2483.28,West,Trial Pack,Audit,Recovered,1652.35
+TXN00704,2024-01-25,Billing Delay,102.65,East,Trial Pack,System Flag,In Progress,83.18
+TXN00705,2024-10-01,Unauthorized Discount,1037.8,East,Standard Pack,Customer Complaint,Recovered,0.0
+TXN00706,2024-11-07,Missed Renewal,13643.12,Central,Trial Pack,System Flag,Recovered,0.0
+TXN00707,2024-04-10,Pricing Error,44283.21,South,Bulk Pack,Customer Complaint,In Progress,3648.11
+TXN00708,2024-01-14,Duplicate Invoice,16523.97,East,Premium Pack,Manager Review,Written Off,0.0
+TXN00709,2024-03-31,Unauthorized Discount,2625.35,North,Premium Pack,Customer Complaint,Written Off,154.62
+TXN00710,2024-08-09,Unauthorized Discount,6696.42,West,Bulk Pack,Audit,Written Off,4048.82
+TXN00711,2024-02-05,Pricing Error,4655.19,West,Premium Pack,Audit,Recovered,3876.45
+TXN00712,2024-10-06,Pricing Error,15307.18,Central,Premium Pack,Customer Complaint,Written Off,0.0
+TXN00713,2024-07-16,Return Abuse,6320.27,Central,Bulk Pack,Customer Complaint,Written Off,1638.16
+TXN00714,2024-08-09,Duplicate Invoice,830.9,Central,Bulk Pack,Audit,Written Off,757.81
+TXN00715,2024-07-10,Duplicate Invoice,5506.4,West,Standard Pack,Manager Review,Recovered,4763.03
+TXN00716,2024-01-05,Contract Non-Compliance,55031.57,Central,Trial Pack,Audit,Recovered,9983.06
+TXN00717,2024-12-08,Unauthorized Discount,2889.72,Central,Premium Pack,Audit,Written Off,1155.82
+TXN00718,2024-01-04,Billing Delay,697.87,West,Premium Pack,System Flag,Recovered,690.44
+TXN00719,2024-09-28,Contract Non-Compliance,6038.65,North,Standard Pack,Customer Complaint,Recovered,1387.81
+TXN00720,2024-09-01,Unauthorized Discount,12047.0,West,Premium Pack,Customer Complaint,In Progress,0.0
+TXN00721,2024-09-14,Pricing Error,4529.28,North,Economy Pack,Audit,Recovered,0.0
+TXN00722,2024-12-03,Pricing Error,3333.14,Central,Trial Pack,Manager Review,Written Off,797.29
+TXN00723,2024-05-17,Return Abuse,671.57,South,Premium Pack,Customer Complaint,Recovered,338.51
+TXN00724,2024-11-19,Contract Non-Compliance,6617.89,West,Trial Pack,Audit,In Progress,4683.88
+TXN00725,2024-04-14,Contract Non-Compliance,3021.22,Central,Standard Pack,Customer Complaint,Recovered,0.0
+TXN00726,2024-07-21,Unauthorized Discount,36291.12,South,Premium Pack,Manager Review,Written Off,31590.63
+TXN00727,2024-01-30,Return Abuse,35111.93,South,Trial Pack,Audit,Recovered,1110.79
+TXN00728,2024-11-14,Return Abuse,21485.25,North,Trial Pack,System Flag,Written Off,0.0
+TXN00729,2024-08-14,Pricing Error,3726.64,West,Economy Pack,System Flag,Recovered,0.0
+TXN00730,2024-07-30,Unauthorized Discount,10785.76,West,Standard Pack,Audit,In Progress,5137.31
+TXN00731,2024-11-15,Unauthorized Discount,986.51,East,Premium Pack,Customer Complaint,In Progress,0.0
+TXN00732,2024-04-09,Billing Delay,31314.24,South,Economy Pack,Manager Review,Written Off,0.0
+TXN00733,2024-04-23,Unauthorized Discount,7408.16,Central,Bulk Pack,Customer Complaint,In Progress,3088.24
+TXN00734,2024-09-07,Return Abuse,28905.48,Central,Bulk Pack,System Flag,Recovered,19303.33
+TXN00735,2024-10-09,Billing Delay,5421.77,East,Economy Pack,Customer Complaint,Recovered,4858.35
+TXN00736,2024-08-24,Pricing Error,3793.24,South,Trial Pack,Customer Complaint,Recovered,3429.89
+TXN00737,2024-09-13,Pricing Error,13637.25,Central,Economy Pack,Audit,Written Off,6388.17
+TXN00738,2024-11-04,Billing Delay,23436.04,East,Bulk Pack,Manager Review,Written Off,3487.33
+TXN00739,2024-10-25,Pricing Error,8599.86,Central,Trial Pack,Manager Review,Recovered,6022.35
+TXN00740,2024-10-02,Return Abuse,2187.77,North,Trial Pack,Audit,In Progress,2090.29
+TXN00741,2024-09-11,Unauthorized Discount,17836.78,North,Economy Pack,Customer Complaint,Written Off,5705.15
+TXN00742,2024-12-06,Contract Non-Compliance,4185.44,North,Economy Pack,Audit,In Progress,1634.0
+TXN00743,2024-02-18,Return Abuse,11943.09,Central,Premium Pack,Audit,Recovered,11418.13
+TXN00744,2024-04-15,Pricing Error,2967.89,North,Economy Pack,Audit,In Progress,633.26
+TXN00745,2024-07-25,Duplicate Invoice,6104.62,Central,Bulk Pack,Audit,Recovered,0.0
+TXN00746,2024-01-13,Unauthorized Discount,4823.89,North,Bulk Pack,System Flag,In Progress,1784.23
+TXN00747,2024-10-04,Duplicate Invoice,7147.09,East,Premium Pack,Customer Complaint,In Progress,0.0
+TXN00748,2024-04-15,Duplicate Invoice,17168.0,South,Standard Pack,Customer Complaint,Written Off,16918.75
+TXN00749,2024-11-17,Billing Delay,24661.35,West,Premium Pack,Audit,Recovered,11210.95
+TXN00750,2024-08-03,Unauthorized Discount,14041.82,Central,Standard Pack,System Flag,In Progress,13867.05
+TXN00751,2024-11-18,Unauthorized Discount,27881.96,West,Premium Pack,Manager Review,In Progress,13591.79
+TXN00752,2024-02-12,Duplicate Invoice,7465.38,South,Economy Pack,Manager Review,Recovered,5244.41
+TXN00753,2024-01-28,Unauthorized Discount,9191.17,West,Economy Pack,System Flag,Written Off,6819.54
+TXN00754,2024-10-08,Contract Non-Compliance,23691.23,East,Bulk Pack,Customer Complaint,In Progress,11231.14
+TXN00755,2024-12-21,Missed Renewal,18340.62,North,Trial Pack,System Flag,Recovered,687.52
+TXN00756,2024-06-18,Contract Non-Compliance,11032.85,North,Standard Pack,System Flag,Written Off,3138.42
+TXN00757,2024-12-24,Unauthorized Discount,4911.06,North,Premium Pack,Customer Complaint,Recovered,1841.36
+TXN00758,2024-01-26,Return Abuse,9637.71,South,Trial Pack,Manager Review,Written Off,9592.22
+TXN00759,2024-05-04,Billing Delay,18782.89,West,Standard Pack,Customer Complaint,Recovered,13666.94
+TXN00760,2024-09-13,Pricing Error,24255.13,West,Economy Pack,Manager Review,In Progress,0.0
+TXN00761,2024-06-05,Unauthorized Discount,37969.91,West,Premium Pack,Manager Review,Recovered,22287.79
+TXN00762,2024-10-10,Pricing Error,37953.64,West,Economy Pack,Customer Complaint,Recovered,27409.51
+TXN00763,2024-11-24,Unauthorized Discount,12981.84,Central,Bulk Pack,Customer Complaint,In Progress,9338.13
+TXN00764,2024-03-18,Duplicate Invoice,14579.54,East,Standard Pack,Audit,Recovered,288.04
+TXN00765,2024-03-01,Billing Delay,8883.09,Central,Standard Pack,Customer Complaint,In Progress,4367.27
+TXN00766,2024-08-20,Unauthorized Discount,8004.47,East,Trial Pack,System Flag,Recovered,6292.92
+TXN00767,2024-03-24,Contract Non-Compliance,7298.11,North,Economy Pack,Manager Review,In Progress,1123.59
+TXN00768,2024-12-22,Pricing Error,6969.33,South,Economy Pack,Customer Complaint,Written Off,3083.16
+TXN00769,2024-09-14,Unauthorized Discount,49280.4,North,Premium Pack,Audit,Recovered,41256.35
+TXN00770,2024-01-27,Pricing Error,3107.89,Central,Standard Pack,System Flag,Written Off,1373.93
+TXN00771,2024-10-12,Unauthorized Discount,6458.31,South,Standard Pack,System Flag,Recovered,0.0
+TXN00772,2024-12-27,Duplicate Invoice,10665.14,South,Economy Pack,Manager Review,Recovered,0.0
+TXN00773,2024-12-10,Unauthorized Discount,5157.45,West,Bulk Pack,Customer Complaint,In Progress,3998.72
+TXN00774,2024-09-09,Missed Renewal,2705.52,West,Trial Pack,Manager Review,Recovered,1060.99
+TXN00775,2024-10-17,Missed Renewal,14683.0,Central,Bulk Pack,System Flag,Recovered,0.0
+TXN00776,2024-01-27,Unauthorized Discount,9472.21,East,Trial Pack,Manager Review,Recovered,5380.69
+TXN00777,2024-08-12,Contract Non-Compliance,18327.42,North,Premium Pack,Customer Complaint,Written Off,3000.49
+TXN00778,2024-01-26,Contract Non-Compliance,6241.52,Central,Standard Pack,Customer Complaint,In Progress,5472.81
+TXN00779,2024-04-17,Pricing Error,1240.99,North,Premium Pack,Audit,Recovered,483.15
+TXN00780,2024-09-28,Unauthorized Discount,8760.75,West,Trial Pack,Customer Complaint,Written Off,5355.05
+TXN00781,2024-02-27,Pricing Error,8238.5,Central,Bulk Pack,Audit,Recovered,7859.7
+TXN00782,2024-08-30,Unauthorized Discount,9793.97,South,Economy Pack,System Flag,In Progress,523.52
+TXN00783,2024-04-25,Billing Delay,842.62,East,Trial Pack,System Flag,Written Off,295.63
+TXN00784,2024-10-02,Contract Non-Compliance,1873.32,Central,Trial Pack,Manager Review,Recovered,675.89
+TXN00785,2024-12-18,Duplicate Invoice,23642.93,South,Standard Pack,Manager Review,Written Off,0.0
+TXN00786,2024-02-27,Billing Delay,23075.44,West,Bulk Pack,Manager Review,In Progress,0.0
+TXN00787,2024-09-25,Pricing Error,41992.43,Central,Premium Pack,Audit,Recovered,0.0
+TXN00788,2024-12-22,Contract Non-Compliance,768.8,North,Trial Pack,Manager Review,Written Off,0.0
+TXN00789,2024-01-28,Pricing Error,230.09,North,Premium Pack,Customer Complaint,In Progress,126.58
+TXN00790,2024-05-20,Duplicate Invoice,32250.55,Central,Premium Pack,Audit,Recovered,11728.5
+TXN00791,2024-07-19,Contract Non-Compliance,87828.98,East,Premium Pack,System Flag,Written Off,64096.95
+TXN00792,2024-10-17,Return Abuse,10034.25,West,Bulk Pack,Manager Review,In Progress,8707.13
+TXN00793,2024-11-08,Billing Delay,20046.5,East,Standard Pack,Audit,Written Off,0.0
+TXN00794,2024-04-24,Unauthorized Discount,6910.58,East,Economy Pack,System Flag,Recovered,0.0
+TXN00795,2024-06-24,Billing Delay,8497.28,Central,Premium Pack,Manager Review,Recovered,1042.96
+TXN00796,2024-09-01,Unauthorized Discount,15853.05,North,Bulk Pack,Manager Review,In Progress,0.0
+TXN00797,2024-02-05,Contract Non-Compliance,14322.48,East,Economy Pack,Audit,Recovered,242.49
+TXN00798,2024-11-28,Duplicate Invoice,10439.46,West,Bulk Pack,Audit,In Progress,0.0
+TXN00799,2024-05-31,Duplicate Invoice,7096.93,East,Bulk Pack,Audit,Written Off,3263.94
+TXN00800,2024-07-06,Pricing Error,8700.38,Central,Premium Pack,Audit,Recovered,0.0
+TXN00801,2024-12-06,Billing Delay,1697.53,East,Standard Pack,System Flag,In Progress,223.06
+TXN00802,2024-09-21,Return Abuse,38001.89,East,Premium Pack,Manager Review,Recovered,25632.42
+TXN00803,2024-04-14,Unauthorized Discount,5104.47,West,Economy Pack,Customer Complaint,In Progress,0.0
+TXN00804,2024-06-12,Unauthorized Discount,31257.51,North,Economy Pack,System Flag,Written Off,14318.09
+TXN00805,2024-11-20,Pricing Error,16214.34,East,Bulk Pack,Audit,Recovered,0.0
+TXN00806,2024-04-22,Contract Non-Compliance,10043.29,East,Economy Pack,Audit,Written Off,0.0
+TXN00807,2024-10-08,Pricing Error,2376.6,East,Premium Pack,Customer Complaint,Written Off,0.0
+TXN00808,2024-12-06,Pricing Error,3800.37,South,Premium Pack,Manager Review,Written Off,2574.47
+TXN00809,2024-11-04,Contract Non-Compliance,34948.26,Central,Economy Pack,Audit,Recovered,15610.26
+TXN00810,2024-04-24,Contract Non-Compliance,359.08,Central,Trial Pack,Audit,In Progress,231.25
+TXN00811,2024-11-15,Billing Delay,10387.23,South,Standard Pack,Audit,Recovered,0.0
+TXN00812,2024-06-16,Contract Non-Compliance,3384.61,South,Premium Pack,Customer Complaint,In Progress,1447.68
+TXN00813,2024-07-03,Billing Delay,35173.11,North,Trial Pack,Audit,Written Off,0.0
+TXN00814,2024-06-11,Return Abuse,3872.55,West,Standard Pack,Manager Review,Recovered,3336.41
+TXN00815,2024-05-06,Billing Delay,52838.61,East,Bulk Pack,Customer Complaint,Written Off,43390.68
+TXN00816,2024-06-16,Duplicate Invoice,16340.82,South,Trial Pack,Audit,Written Off,0.0
+TXN00817,2024-01-21,Billing Delay,54816.52,South,Economy Pack,Manager Review,In Progress,26477.88
+TXN00818,2024-10-11,Billing Delay,7515.45,South,Economy Pack,Audit,In Progress,276.84
+TXN00819,2024-10-10,Billing Delay,23866.74,Central,Bulk Pack,System Flag,In Progress,16111.29
+TXN00820,2024-11-14,Billing Delay,30338.99,South,Bulk Pack,System Flag,Recovered,28893.38
+TXN00821,2024-12-18,Unauthorized Discount,32109.7,North,Bulk Pack,Audit,Recovered,19925.76
+TXN00822,2024-03-30,Unauthorized Discount,6808.2,East,Standard Pack,Customer Complaint,Recovered,5684.44
+TXN00823,2024-08-07,Return Abuse,9144.6,Central,Premium Pack,Manager Review,Recovered,0.0
+TXN00824,2024-08-11,Billing Delay,18882.44,East,Standard Pack,Customer Complaint,Written Off,14363.3
+TXN00825,2024-03-22,Billing Delay,20002.09,North,Economy Pack,Audit,In Progress,0.0
+TXN00826,2024-01-30,Duplicate Invoice,3700.37,North,Trial Pack,Audit,In Progress,3154.0
+TXN00827,2024-08-31,Unauthorized Discount,16022.58,South,Premium Pack,System Flag,Written Off,5619.39
+TXN00828,2024-04-08,Billing Delay,310.37,Central,Bulk Pack,System Flag,Recovered,135.5
+TXN00829,2024-02-06,Duplicate Invoice,28329.28,West,Economy Pack,Audit,Recovered,17478.55
+TXN00830,2024-03-28,Billing Delay,7047.89,East,Standard Pack,Audit,In Progress,1463.72
+TXN00831,2024-11-22,Missed Renewal,16419.07,South,Bulk Pack,Customer Complaint,Written Off,0.0
+TXN00832,2024-04-12,Unauthorized Discount,8264.87,West,Trial Pack,System Flag,Written Off,914.18
+TXN00833,2024-11-01,Pricing Error,8451.71,East,Standard Pack,System Flag,Recovered,5795.62
+TXN00834,2024-03-12,Contract Non-Compliance,85836.29,Central,Premium Pack,Manager Review,Written Off,0.0
+TXN00835,2024-07-27,Contract Non-Compliance,248.14,North,Standard Pack,Customer Complaint,In Progress,0.0
+TXN00836,2024-12-27,Billing Delay,12556.13,West,Bulk Pack,Manager Review,Recovered,10932.55
+TXN00837,2024-02-09,Pricing Error,28023.02,Central,Trial Pack,Audit,Recovered,0.0
+TXN00838,2024-08-12,Pricing Error,29208.8,West,Economy Pack,Manager Review,Written Off,28785.16
+TXN00839,2024-08-18,Unauthorized Discount,1892.65,Central,Trial Pack,Audit,In Progress,1044.75
+TXN00840,2024-06-23,Pricing Error,54404.13,South,Trial Pack,Audit,Written Off,0.0
+TXN00841,2024-03-14,Duplicate Invoice,4418.69,East,Economy Pack,System Flag,Recovered,0.0
+TXN00842,2024-08-27,Pricing Error,9156.9,West,Economy Pack,System Flag,In Progress,4712.26
+TXN00843,2024-03-04,Unauthorized Discount,21025.77,East,Economy Pack,System Flag,In Progress,3606.13
+TXN00844,2024-07-27,Unauthorized Discount,12449.69,West,Trial Pack,Audit,In Progress,6099.91
+TXN00845,2024-02-18,Return Abuse,31067.0,Central,Trial Pack,Manager Review,Written Off,0.0
+TXN00846,2024-06-15,Duplicate Invoice,9090.89,South,Trial Pack,System Flag,Written Off,0.0
+TXN00847,2024-01-01,Return Abuse,1842.55,South,Economy Pack,Manager Review,Recovered,754.63
+TXN00848,2024-03-04,Unauthorized Discount,16757.77,East,Standard Pack,Customer Complaint,Recovered,9719.62
+TXN00849,2024-03-08,Unauthorized Discount,3765.63,North,Standard Pack,Customer Complaint,Recovered,3412.27
+TXN00850,2024-05-24,Unauthorized Discount,13290.98,Central,Standard Pack,Customer Complaint,Written Off,7222.71
+TXN00851,2024-02-07,Unauthorized Discount,13331.5,East,Economy Pack,Manager Review,Written Off,0.0
+TXN00852,2024-07-14,Billing Delay,419.33,Central,Standard Pack,Audit,In Progress,71.07
+TXN00853,2024-09-29,Return Abuse,8122.05,Central,Trial Pack,Audit,Recovered,0.0
+TXN00854,2024-10-04,Unauthorized Discount,22123.67,West,Standard Pack,Customer Complaint,In Progress,18800.29
+TXN00855,2024-03-19,Pricing Error,15078.81,South,Premium Pack,Customer Complaint,In Progress,13839.74
+TXN00856,2024-03-09,Contract Non-Compliance,104.16,South,Economy Pack,Audit,Written Off,0.0
+TXN00857,2024-08-03,Unauthorized Discount,37465.47,Central,Trial Pack,Customer Complaint,Written Off,32078.94
+TXN00858,2024-02-28,Billing Delay,5974.4,West,Standard Pack,Customer Complaint,In Progress,0.0
+TXN00859,2024-01-16,Unauthorized Discount,20417.45,South,Premium Pack,Audit,In Progress,0.0
+TXN00860,2024-03-10,Return Abuse,35370.39,West,Economy Pack,System Flag,Recovered,320.57
+TXN00861,2024-10-02,Return Abuse,10928.95,Central,Premium Pack,Customer Complaint,Recovered,9996.6
+TXN00862,2024-07-13,Unauthorized Discount,23884.44,East,Trial Pack,Audit,Written Off,3905.73
+TXN00863,2024-07-31,Contract Non-Compliance,489.31,South,Trial Pack,Audit,In Progress,276.0
+TXN00864,2024-05-06,Contract Non-Compliance,11506.11,North,Economy Pack,Audit,Written Off,1141.22
+TXN00865,2024-07-25,Unauthorized Discount,16085.24,North,Premium Pack,Audit,Recovered,0.0
+TXN00866,2024-12-20,Pricing Error,53548.91,Central,Economy Pack,System Flag,In Progress,33537.81
+TXN00867,2024-04-27,Pricing Error,7999.71,South,Standard Pack,Customer Complaint,Recovered,5710.92
+TXN00868,2024-07-29,Pricing Error,10883.17,East,Standard Pack,System Flag,Recovered,982.11
+TXN00869,2024-09-27,Unauthorized Discount,1716.56,East,Economy Pack,Audit,In Progress,1310.85
+TXN00870,2024-07-23,Billing Delay,15079.96,South,Trial Pack,System Flag,Recovered,0.0
+TXN00871,2024-05-04,Billing Delay,75493.06,East,Bulk Pack,Manager Review,Written Off,51850.93
+TXN00872,2024-07-24,Return Abuse,14220.61,South,Standard Pack,Manager Review,Written Off,0.0
+TXN00873,2024-11-29,Pricing Error,15908.16,South,Economy Pack,Customer Complaint,Recovered,0.0
+TXN00874,2024-11-05,Contract Non-Compliance,46803.41,North,Bulk Pack,Audit,Written Off,26556.63
+TXN00875,2024-02-13,Duplicate Invoice,23231.46,South,Trial Pack,System Flag,Recovered,0.0
+TXN00876,2024-02-11,Unauthorized Discount,17308.15,Central,Bulk Pack,System Flag,In Progress,16886.5
+TXN00877,2024-04-28,Billing Delay,1300.25,West,Trial Pack,Audit,Written Off,0.0
+TXN00878,2024-07-07,Contract Non-Compliance,16439.93,Central,Trial Pack,Manager Review,Recovered,0.0
+TXN00879,2024-06-03,Duplicate Invoice,2113.88,West,Standard Pack,Customer Complaint,Written Off,251.86
+TXN00880,2024-12-09,Unauthorized Discount,15213.25,East,Standard Pack,Audit,Recovered,13095.42
+TXN00881,2024-06-19,Return Abuse,7328.13,North,Bulk Pack,Manager Review,Recovered,4755.53
+TXN00882,2024-05-04,Unauthorized Discount,1323.69,North,Economy Pack,Audit,Recovered,1021.3
+TXN00883,2024-06-16,Pricing Error,25273.5,South,Trial Pack,Customer Complaint,Recovered,4826.78
+TXN00884,2024-09-18,Unauthorized Discount,39024.16,West,Trial Pack,Audit,Recovered,0.0
+TXN00885,2024-12-08,Billing Delay,25733.99,East,Standard Pack,Customer Complaint,Recovered,2532.99
+TXN00886,2024-01-11,Billing Delay,1226.58,West,Trial Pack,Manager Review,Recovered,0.0
+TXN00887,2024-07-20,Return Abuse,4866.45,Central,Standard Pack,Audit,Recovered,0.0
+TXN00888,2024-10-30,Contract Non-Compliance,3053.58,East,Bulk Pack,System Flag,Recovered,0.0
+TXN00889,2024-05-20,Billing Delay,1945.13,North,Standard Pack,Manager Review,Recovered,1011.87
+TXN00890,2024-12-16,Billing Delay,51713.21,North,Economy Pack,Manager Review,Recovered,10644.61
+TXN00891,2024-10-09,Pricing Error,4864.78,South,Standard Pack,Customer Complaint,Recovered,0.0
+TXN00892,2024-06-16,Missed Renewal,17362.17,Central,Economy Pack,Manager Review,In Progress,12300.19
+TXN00893,2024-08-20,Unauthorized Discount,6310.92,Central,Economy Pack,Audit,Recovered,2172.94
+TXN00894,2024-05-02,Billing Delay,1922.03,Central,Trial Pack,Audit,In Progress,0.0
+TXN00895,2024-02-20,Return Abuse,33575.93,South,Standard Pack,Manager Review,In Progress,0.0
+TXN00896,2024-09-28,Missed Renewal,33051.16,East,Economy Pack,Audit,Recovered,21036.77
+TXN00897,2024-10-27,Pricing Error,2352.26,East,Economy Pack,Manager Review,In Progress,145.41
+TXN00898,2024-06-22,Pricing Error,2568.2,North,Trial Pack,System Flag,In Progress,2236.18
+TXN00899,2024-05-24,Billing Delay,14341.66,West,Economy Pack,Customer Complaint,In Progress,13611.48
+TXN00900,2024-02-07,Unauthorized Discount,7966.68,North,Trial Pack,Customer Complaint,Recovered,4090.03
+TXN00901,2024-07-03,Duplicate Invoice,3810.11,Central,Standard Pack,Manager Review,In Progress,0.0
+TXN00902,2024-09-27,Billing Delay,4403.27,West,Economy Pack,Customer Complaint,Written Off,674.2
+TXN00903,2024-10-30,Contract Non-Compliance,19710.78,Central,Trial Pack,Customer Complaint,Recovered,1013.34
+TXN00904,2024-01-09,Billing Delay,18602.16,South,Standard Pack,Audit,Recovered,14323.88
+TXN00905,2024-12-19,Pricing Error,6469.17,West,Bulk Pack,Manager Review,Recovered,0.0
+TXN00906,2024-02-24,Return Abuse,4368.81,Central,Bulk Pack,Manager Review,Recovered,0.0
+TXN00907,2024-08-07,Pricing Error,27558.84,South,Standard Pack,Manager Review,In Progress,24781.52
+TXN00908,2024-03-24,Pricing Error,15882.77,Central,Standard Pack,Manager Review,Recovered,775.6
+TXN00909,2024-09-02,Return Abuse,6696.86,West,Bulk Pack,Manager Review,In Progress,0.0
+TXN00910,2024-12-27,Missed Renewal,5698.71,Central,Bulk Pack,Manager Review,In Progress,4076.56
+TXN00911,2024-08-05,Missed Renewal,16765.57,South,Economy Pack,Audit,Written Off,0.0
+TXN00912,2024-07-09,Unauthorized Discount,17167.01,South,Bulk Pack,Customer Complaint,Recovered,0.0
+TXN00913,2024-01-29,Pricing Error,2940.76,North,Premium Pack,Manager Review,In Progress,0.0
+TXN00914,2024-02-12,Contract Non-Compliance,20075.18,South,Trial Pack,Audit,Recovered,0.0
+TXN00915,2024-01-10,Unauthorized Discount,19559.25,South,Premium Pack,Manager Review,Recovered,1587.85
+TXN00916,2024-10-08,Pricing Error,28.76,North,Standard Pack,Customer Complaint,In Progress,0.0
+TXN00917,2024-08-30,Pricing Error,19613.04,North,Standard Pack,Customer Complaint,In Progress,0.0
+TXN00918,2024-09-29,Billing Delay,8225.88,South,Bulk Pack,Manager Review,Recovered,0.0
+TXN00919,2024-07-26,Missed Renewal,8498.06,West,Premium Pack,Customer Complaint,Recovered,0.0
+TXN00920,2024-01-18,Pricing Error,10354.0,Central,Bulk Pack,System Flag,Written Off,8323.34
+TXN00921,2024-01-19,Unauthorized Discount,23641.17,West,Trial Pack,Customer Complaint,Recovered,9705.39
+TXN00922,2024-02-12,Duplicate Invoice,2954.07,Central,Premium Pack,System Flag,Recovered,2684.25
+TXN00923,2024-10-21,Billing Delay,10449.45,Central,Economy Pack,Audit,Recovered,0.0
+TXN00924,2024-10-27,Pricing Error,2421.78,South,Standard Pack,Manager Review,In Progress,321.9
+TXN00925,2024-05-26,Unauthorized Discount,3279.92,West,Trial Pack,System Flag,Written Off,2863.97
+TXN00926,2024-01-10,Contract Non-Compliance,11756.12,North,Standard Pack,Manager Review,Recovered,2404.2
+TXN00927,2024-11-27,Unauthorized Discount,50670.28,East,Economy Pack,Customer Complaint,In Progress,0.0
+TXN00928,2024-12-15,Contract Non-Compliance,44506.8,West,Premium Pack,Audit,Written Off,38426.57
+TXN00929,2024-08-05,Return Abuse,11922.96,South,Bulk Pack,Manager Review,Recovered,4563.48
+TXN00930,2024-09-15,Return Abuse,9084.38,East,Premium Pack,Manager Review,Recovered,7765.48
+TXN00931,2024-06-12,Billing Delay,3546.54,East,Premium Pack,Customer Complaint,Recovered,1943.82
+TXN00932,2024-04-13,Unauthorized Discount,14548.92,East,Bulk Pack,Audit,Recovered,2115.65
+TXN00933,2024-05-08,Return Abuse,16187.31,North,Bulk Pack,System Flag,Recovered,6769.58
+TXN00934,2024-09-01,Contract Non-Compliance,52237.37,South,Trial Pack,System Flag,Recovered,21544.23
+TXN00935,2024-03-22,Pricing Error,12798.85,East,Economy Pack,Manager Review,Recovered,9984.82
+TXN00936,2024-08-07,Unauthorized Discount,5695.1,East,Trial Pack,System Flag,Recovered,2077.48
+TXN00937,2024-01-03,Pricing Error,33361.94,West,Premium Pack,Audit,In Progress,0.0
+TXN00938,2024-02-24,Pricing Error,3856.13,North,Premium Pack,Audit,Recovered,3118.08
+TXN00939,2024-12-28,Contract Non-Compliance,1291.62,East,Premium Pack,System Flag,In Progress,156.98
+TXN00940,2024-08-28,Missed Renewal,307.19,Central,Bulk Pack,System Flag,Written Off,251.16
+TXN00941,2024-01-06,Pricing Error,27766.14,North,Standard Pack,Customer Complaint,Written Off,19783.61
+TXN00942,2024-02-09,Missed Renewal,7960.81,West,Premium Pack,Manager Review,In Progress,5207.8
+TXN00943,2024-04-13,Duplicate Invoice,2520.22,North,Standard Pack,Manager Review,In Progress,1205.34
+TXN00944,2024-03-23,Return Abuse,5771.08,North,Standard Pack,Customer Complaint,In Progress,847.99
+TXN00945,2024-02-04,Unauthorized Discount,18358.46,East,Standard Pack,Manager Review,Recovered,18242.81
+TXN00946,2024-11-10,Contract Non-Compliance,3099.49,East,Standard Pack,Audit,In Progress,2603.29
+TXN00947,2024-08-09,Duplicate Invoice,10301.25,East,Bulk Pack,System Flag,Recovered,663.24
+TXN00948,2024-08-28,Contract Non-Compliance,20073.57,West,Standard Pack,Audit,Written Off,0.0
+TXN00949,2024-03-28,Unauthorized Discount,1628.6,South,Trial Pack,System Flag,In Progress,1251.79
+TXN00950,2024-07-29,Pricing Error,56473.02,South,Trial Pack,System Flag,Recovered,18551.33
+TXN00951,2024-01-15,Unauthorized Discount,642.46,Central,Premium Pack,Audit,Recovered,0.0
+TXN00952,2024-09-03,Unauthorized Discount,9055.97,Central,Premium Pack,Audit,Written Off,7946.3
+TXN00953,2024-12-01,Unauthorized Discount,10824.4,South,Bulk Pack,System Flag,In Progress,9375.75
+TXN00954,2024-01-13,Duplicate Invoice,18483.24,North,Bulk Pack,Manager Review,Written Off,3046.97
+TXN00955,2024-03-08,Pricing Error,14610.54,Central,Bulk Pack,Manager Review,In Progress,0.0
+TXN00956,2024-08-16,Contract Non-Compliance,22982.89,West,Bulk Pack,Audit,Recovered,16830.24
+TXN00957,2024-03-20,Unauthorized Discount,19500.18,South,Premium Pack,Audit,In Progress,1305.56
+TXN00958,2024-11-19,Return Abuse,7682.43,South,Economy Pack,Audit,Recovered,0.0
+TXN00959,2024-03-22,Duplicate Invoice,39315.32,Central,Bulk Pack,Customer Complaint,In Progress,0.0
+TXN00960,2024-07-30,Missed Renewal,18531.27,West,Premium Pack,System Flag,Written Off,15907.43
+TXN00961,2024-01-20,Billing Delay,11227.22,South,Premium Pack,Manager Review,Written Off,8924.39
+TXN00962,2024-06-11,Billing Delay,8976.05,East,Premium Pack,System Flag,Written Off,1648.22
+TXN00963,2024-08-05,Unauthorized Discount,2701.65,South,Premium Pack,Audit,Recovered,0.0
+TXN00964,2024-01-30,Unauthorized Discount,65563.58,East,Economy Pack,System Flag,In Progress,25436.46
+TXN00965,2024-06-29,Unauthorized Discount,17086.12,Central,Economy Pack,Audit,In Progress,0.0
+TXN00966,2024-02-04,Missed Renewal,36864.66,North,Premium Pack,Audit,In Progress,0.0
+TXN00967,2024-03-19,Missed Renewal,20954.51,Central,Premium Pack,Manager Review,Written Off,12953.42
+TXN00968,2024-12-14,Contract Non-Compliance,8024.56,East,Bulk Pack,System Flag,Written Off,0.0
+TXN00969,2024-01-04,Pricing Error,1506.84,North,Bulk Pack,System Flag,Written Off,0.0
+TXN00970,2024-03-26,Duplicate Invoice,2350.7,East,Bulk Pack,Audit,Recovered,2239.81
+TXN00971,2024-02-01,Pricing Error,15582.4,Central,Premium Pack,Manager Review,In Progress,1720.73
+TXN00972,2024-04-03,Return Abuse,26108.23,West,Economy Pack,Audit,In Progress,9541.36
+TXN00973,2024-09-24,Contract Non-Compliance,15137.99,Central,Premium Pack,Manager Review,In Progress,735.73
+TXN00974,2024-08-01,Unauthorized Discount,58754.86,Central,Bulk Pack,Audit,Written Off,14246.25
+TXN00975,2024-02-22,Pricing Error,8833.03,West,Premium Pack,System Flag,Recovered,5919.07
+TXN00976,2024-08-02,Unauthorized Discount,33678.55,East,Economy Pack,Manager Review,In Progress,0.0
+TXN00977,2024-04-14,Unauthorized Discount,7107.55,West,Economy Pack,Manager Review,Written Off,3753.29
+TXN00978,2024-06-25,Billing Delay,1942.45,East,Standard Pack,Manager Review,Written Off,1767.5
+TXN00979,2024-05-10,Return Abuse,17796.04,West,Trial Pack,Customer Complaint,In Progress,9081.54
+TXN00980,2024-11-23,Billing Delay,12754.4,Central,Bulk Pack,System Flag,Recovered,10535.74
+TXN00981,2024-09-25,Billing Delay,10577.33,Central,Bulk Pack,Customer Complaint,Recovered,4174.63
+TXN00982,2024-02-06,Return Abuse,952.23,North,Standard Pack,Audit,Recovered,92.03
+TXN00983,2024-05-27,Duplicate Invoice,9564.75,South,Trial Pack,Audit,Written Off,0.0
+TXN00984,2024-07-03,Missed Renewal,1344.32,North,Trial Pack,System Flag,In Progress,0.0
+TXN00985,2024-12-13,Missed Renewal,8390.55,East,Trial Pack,Customer Complaint,In Progress,0.0
+TXN00986,2024-10-26,Unauthorized Discount,5518.07,West,Trial Pack,Customer Complaint,In Progress,0.0
+TXN00987,2024-11-19,Unauthorized Discount,7865.46,West,Premium Pack,System Flag,Recovered,2551.95
+TXN00988,2024-05-06,Missed Renewal,23812.03,East,Standard Pack,Audit,Recovered,19561.79
+TXN00989,2024-01-31,Return Abuse,7039.67,North,Standard Pack,Manager Review,Written Off,2282.77
+TXN00990,2024-01-27,Unauthorized Discount,3708.37,Central,Trial Pack,Manager Review,In Progress,0.0
+TXN00991,2024-06-27,Pricing Error,4038.35,South,Trial Pack,System Flag,In Progress,0.0
+TXN00992,2024-09-14,Duplicate Invoice,7342.21,East,Standard Pack,System Flag,Recovered,2497.39
+TXN00993,2024-01-31,Billing Delay,12203.29,East,Trial Pack,Manager Review,In Progress,7021.39
+TXN00994,2024-09-28,Return Abuse,6751.35,Central,Premium Pack,Audit,In Progress,5707.73
+TXN00995,2024-07-09,Pricing Error,11428.49,East,Economy Pack,Audit,In Progress,0.0
+TXN00996,2024-02-19,Contract Non-Compliance,47929.83,East,Premium Pack,Customer Complaint,Recovered,36886.25
+TXN00997,2024-03-08,Unauthorized Discount,19402.87,East,Bulk Pack,Manager Review,In Progress,2827.13
+TXN00998,2024-07-09,Contract Non-Compliance,19872.2,North,Standard Pack,Customer Complaint,Written Off,5994.29
+TXN00999,2024-05-16,Unauthorized Discount,2157.06,Central,Economy Pack,Manager Review,Written Off,0.0
+TXN01000,2024-03-30,Billing Delay,2218.79,West,Standard Pack,Manager Review,Recovered,0.0
+TXN01001,2024-06-20,Unauthorized Discount,4599.39,East,Economy Pack,Customer Complaint,In Progress,0.0
+TXN01002,2024-08-06,Billing Delay,53525.81,West,Economy Pack,Customer Complaint,Recovered,0.0
+TXN01003,2024-04-17,Return Abuse,6000.95,South,Premium Pack,System Flag,In Progress,833.73
+TXN01004,2024-07-10,Return Abuse,53748.7,East,Economy Pack,Manager Review,Written Off,0.0
+TXN01005,2024-03-15,Contract Non-Compliance,23676.01,West,Bulk Pack,Audit,Recovered,0.0
+TXN01006,2024-04-03,Unauthorized Discount,28644.39,East,Bulk Pack,Customer Complaint,Recovered,12682.43
+TXN01007,2024-01-23,Billing Delay,17256.44,West,Bulk Pack,Manager Review,Written Off,10663.71
+TXN01008,2024-07-07,Duplicate Invoice,6284.68,North,Trial Pack,Manager Review,In Progress,0.0
+TXN01009,2024-12-08,Unauthorized Discount,16564.74,North,Economy Pack,Audit,In Progress,0.0
+TXN01010,2024-12-11,Return Abuse,40051.88,East,Premium Pack,Customer Complaint,Recovered,27014.09
+TXN01011,2024-12-16,Unauthorized Discount,57817.38,East,Premium Pack,Customer Complaint,Recovered,0.0
+TXN01012,2024-06-23,Missed Renewal,3416.63,North,Bulk Pack,System Flag,Recovered,0.0
+TXN01013,2024-09-02,Billing Delay,318.05,South,Standard Pack,Audit,In Progress,283.11
+TXN01014,2024-07-12,Unauthorized Discount,1576.54,Central,Premium Pack,Customer Complaint,Written Off,136.62
+TXN01015,2024-07-17,Contract Non-Compliance,18113.84,Central,Bulk Pack,Audit,Recovered,4622.21
+TXN01016,2024-12-24,Unauthorized Discount,598.98,East,Premium Pack,Audit,Written Off,0.0
+TXN01017,2024-08-21,Missed Renewal,8460.36,Central,Standard Pack,Manager Review,In Progress,3772.97
+TXN01018,2024-03-05,Contract Non-Compliance,14521.85,Central,Economy Pack,Manager Review,In Progress,0.0
+TXN01019,2024-09-03,Contract Non-Compliance,3823.02,West,Trial Pack,System Flag,In Progress,0.0
+TXN01020,2024-07-12,Unauthorized Discount,16080.03,East,Bulk Pack,System Flag,Recovered,0.0
+TXN01021,2024-02-05,Duplicate Invoice,33118.53,North,Standard Pack,Customer Complaint,Recovered,4456.46
+TXN01022,2024-09-23,Unauthorized Discount,5545.41,Central,Bulk Pack,System Flag,Written Off,0.0
+TXN01023,2024-03-23,Pricing Error,25186.21,Central,Standard Pack,Customer Complaint,In Progress,22060.14
+TXN01024,2024-09-22,Unauthorized Discount,54689.82,East,Trial Pack,Audit,In Progress,49596.99
+TXN01025,2024-07-21,Contract Non-Compliance,23046.54,Central,Economy Pack,Customer Complaint,Recovered,0.0
+TXN01026,2024-02-02,Unauthorized Discount,3417.34,Central,Economy Pack,Customer Complaint,In Progress,1101.53
+TXN01027,2024-06-04,Pricing Error,3492.52,North,Trial Pack,Audit,In Progress,3343.48
+TXN01028,2024-06-02,Unauthorized Discount,2659.76,North,Standard Pack,System Flag,Written Off,1875.88
+TXN01029,2024-03-25,Missed Renewal,11388.31,East,Standard Pack,Customer Complaint,In Progress,4394.3
+TXN01030,2024-10-27,Unauthorized Discount,16933.51,West,Trial Pack,System Flag,Written Off,8699.19
+TXN01031,2024-10-25,Pricing Error,17717.9,North,Premium Pack,Customer Complaint,In Progress,0.0
+TXN01032,2024-08-22,Unauthorized Discount,10150.52,East,Trial Pack,System Flag,In Progress,5243.82
+TXN01033,2024-02-21,Return Abuse,15725.49,South,Premium Pack,Customer Complaint,In Progress,14174.57
+TXN01034,2024-12-15,Return Abuse,2121.79,North,Trial Pack,Audit,Written Off,0.0
+TXN01035,2024-03-17,Contract Non-Compliance,8396.99,Central,Economy Pack,System Flag,In Progress,0.0
+TXN01036,2024-05-04,Pricing Error,7127.18,West,Economy Pack,Audit,Recovered,4396.97
+TXN01037,2024-05-21,Contract Non-Compliance,6363.2,North,Standard Pack,System Flag,Recovered,4362.65
+TXN01038,2024-09-24,Pricing Error,15174.1,Central,Bulk Pack,Manager Review,Recovered,3778.1
+TXN01039,2024-03-13,Unauthorized Discount,37131.7,North,Trial Pack,Manager Review,In Progress,30495.02
+TXN01040,2024-02-27,Contract Non-Compliance,10509.4,Central,Economy Pack,System Flag,Recovered,0.0
+TXN01041,2024-10-19,Missed Renewal,6455.74,East,Economy Pack,Customer Complaint,Recovered,621.08
+TXN01042,2024-05-18,Contract Non-Compliance,13476.01,Central,Premium Pack,System Flag,In Progress,8291.94
+TXN01043,2024-06-27,Pricing Error,5311.74,East,Standard Pack,System Flag,In Progress,2272.56
+TXN01044,2024-06-17,Billing Delay,19375.26,North,Premium Pack,Manager Review,In Progress,0.0
+TXN01045,2024-04-23,Return Abuse,6554.19,Central,Premium Pack,System Flag,Recovered,5274.89
+TXN01046,2024-02-14,Pricing Error,913.95,West,Economy Pack,Audit,In Progress,0.0
+TXN01047,2024-04-30,Return Abuse,24797.35,East,Bulk Pack,Manager Review,Written Off,6225.07
+TXN01048,2024-08-27,Unauthorized Discount,15307.02,North,Economy Pack,Audit,Written Off,1246.62
+TXN01049,2024-05-11,Return Abuse,29407.57,South,Standard Pack,Manager Review,Recovered,0.0
+TXN01050,2024-01-27,Billing Delay,11367.22,West,Economy Pack,Audit,Recovered,0.0
+TXN01051,2024-11-01,Duplicate Invoice,40539.02,East,Economy Pack,Manager Review,In Progress,38863.03
+TXN01052,2024-01-24,Contract Non-Compliance,31124.43,North,Standard Pack,Manager Review,In Progress,7767.18
+TXN01053,2024-02-19,Missed Renewal,22374.2,East,Bulk Pack,Manager Review,In Progress,6763.72
+TXN01054,2024-10-07,Billing Delay,5072.52,South,Premium Pack,Manager Review,Recovered,0.0
+TXN01055,2024-03-08,Return Abuse,19852.54,South,Economy Pack,Customer Complaint,Recovered,0.0
+TXN01056,2024-05-05,Contract Non-Compliance,9475.14,East,Bulk Pack,Customer Complaint,Written Off,2207.63
+TXN01057,2024-10-22,Pricing Error,39477.57,West,Standard Pack,Customer Complaint,Written Off,0.0
+TXN01058,2024-11-27,Pricing Error,10528.05,East,Premium Pack,System Flag,Recovered,9456.52
+TXN01059,2024-08-23,Unauthorized Discount,14131.17,South,Premium Pack,Manager Review,In Progress,6465.96
+TXN01060,2024-06-10,Unauthorized Discount,371.86,East,Economy Pack,Audit,In Progress,0.0
+TXN01061,2024-06-03,Unauthorized Discount,1081.48,East,Standard Pack,Audit,Recovered,657.04
+TXN01062,2024-12-02,Contract Non-Compliance,6368.74,South,Standard Pack,Customer Complaint,Written Off,5079.22
+TXN01063,2024-05-21,Unauthorized Discount,19503.66,Central,Trial Pack,Manager Review,Recovered,9310.3
+TXN01064,2024-02-07,Duplicate Invoice,16.38,Central,Premium Pack,Audit,Recovered,3.52
+TXN01065,2024-07-16,Unauthorized Discount,16634.82,South,Bulk Pack,Audit,Recovered,7270.84
+TXN01066,2024-12-08,Pricing Error,1458.18,North,Economy Pack,Customer Complaint,In Progress,796.6
+TXN01067,2024-04-07,Pricing Error,740.79,West,Standard Pack,System Flag,Recovered,93.54
+TXN01068,2024-09-17,Missed Renewal,18053.97,North,Bulk Pack,Audit,Written Off,0.0
+TXN01069,2024-04-25,Return Abuse,695.33,South,Bulk Pack,Customer Complaint,Recovered,75.56
+TXN01070,2024-07-31,Contract Non-Compliance,7121.33,East,Economy Pack,Audit,Recovered,6203.26
+TXN01071,2024-08-19,Unauthorized Discount,11688.81,Central,Trial Pack,Manager Review,In Progress,9042.6
+TXN01072,2024-08-25,Return Abuse,17829.06,Central,Economy Pack,System Flag,Recovered,0.0
+TXN01073,2024-08-04,Unauthorized Discount,36600.35,North,Premium Pack,Audit,Written Off,0.0
+TXN01074,2024-12-09,Return Abuse,19293.83,South,Standard Pack,System Flag,Written Off,6286.6
+TXN01075,2024-11-09,Contract Non-Compliance,21032.49,South,Premium Pack,System Flag,Written Off,13516.55
+TXN01076,2024-02-08,Billing Delay,31889.58,East,Trial Pack,Customer Complaint,Recovered,825.05
+TXN01077,2024-12-23,Pricing Error,34790.39,East,Economy Pack,Audit,Written Off,2491.41
+TXN01078,2024-03-19,Pricing Error,24340.86,East,Economy Pack,Audit,In Progress,23875.57
+TXN01079,2024-03-15,Billing Delay,857.65,South,Premium Pack,Customer Complaint,Recovered,0.0
+TXN01080,2024-08-02,Pricing Error,9090.54,South,Economy Pack,Audit,Recovered,0.0
+TXN01081,2024-03-31,Pricing Error,36087.78,East,Standard Pack,System Flag,In Progress,30261.99
+TXN01082,2024-07-03,Pricing Error,26578.79,East,Bulk Pack,Audit,Recovered,0.0
+TXN01083,2024-07-31,Pricing Error,6801.46,South,Economy Pack,System Flag,Written Off,4782.49
+TXN01084,2024-11-11,Pricing Error,7765.64,West,Economy Pack,Customer Complaint,In Progress,229.74
+TXN01085,2024-01-26,Pricing Error,34615.57,South,Premium Pack,Manager Review,In Progress,32559.61
+TXN01086,2024-07-12,Billing Delay,3542.17,South,Trial Pack,Audit,Written Off,0.0
+TXN01087,2024-06-22,Pricing Error,35192.77,Central,Economy Pack,System Flag,Recovered,25470.76
+TXN01088,2024-11-17,Return Abuse,7067.35,Central,Premium Pack,Customer Complaint,Written Off,6682.39
+TXN01089,2024-07-19,Contract Non-Compliance,27663.87,South,Premium Pack,Customer Complaint,Written Off,15501.0
+TXN01090,2024-10-31,Return Abuse,6538.82,Central,Economy Pack,Audit,Written Off,0.0
+TXN01091,2024-12-08,Billing Delay,52393.02,Central,Bulk Pack,System Flag,Written Off,25743.31
+TXN01092,2024-03-04,Missed Renewal,58297.79,Central,Premium Pack,Manager Review,In Progress,57630.04
+TXN01093,2024-02-24,Unauthorized Discount,14907.46,North,Trial Pack,System Flag,Recovered,0.0
+TXN01094,2024-12-15,Billing Delay,3561.81,West,Premium Pack,System Flag,In Progress,0.0
+TXN01095,2024-09-19,Duplicate Invoice,9383.57,West,Premium Pack,Manager Review,Recovered,226.53
+TXN01096,2024-09-19,Unauthorized Discount,25509.76,North,Economy Pack,System Flag,In Progress,0.0
+TXN01097,2024-07-25,Billing Delay,40841.05,West,Economy Pack,Customer Complaint,Recovered,0.0
+TXN01098,2024-11-30,Unauthorized Discount,10230.04,Central,Trial Pack,Customer Complaint,Written Off,0.0
+TXN01099,2024-08-11,Contract Non-Compliance,31042.82,South,Trial Pack,Customer Complaint,Recovered,0.0
+TXN01100,2024-11-14,Unauthorized Discount,7932.66,East,Economy Pack,System Flag,Recovered,520.78
+TXN01101,2024-02-21,Return Abuse,15406.63,Central,Trial Pack,Audit,Recovered,9359.47
+TXN01102,2024-08-29,Unauthorized Discount,973.88,West,Trial Pack,System Flag,Written Off,356.74
+TXN01103,2024-03-03,Contract Non-Compliance,27013.83,Central,Bulk Pack,Customer Complaint,Written Off,16675.47
+TXN01104,2024-04-04,Pricing Error,15823.01,North,Trial Pack,Audit,In Progress,0.0
+TXN01105,2024-03-21,Contract Non-Compliance,6213.27,East,Standard Pack,System Flag,In Progress,0.0
+TXN01106,2024-04-19,Unauthorized Discount,5212.44,East,Standard Pack,Manager Review,In Progress,1227.85
+TXN01107,2024-04-18,Pricing Error,6183.79,North,Premium Pack,Customer Complaint,Written Off,382.18
+TXN01108,2024-01-19,Contract Non-Compliance,18492.94,East,Trial Pack,Audit,Written Off,18435.73
+TXN01109,2024-12-11,Unauthorized Discount,1545.59,North,Trial Pack,System Flag,In Progress,0.0
+TXN01110,2024-05-01,Contract Non-Compliance,6972.52,South,Trial Pack,Audit,In Progress,1013.71
+TXN01111,2024-04-28,Pricing Error,73447.24,North,Trial Pack,System Flag,In Progress,10103.72
+TXN01112,2024-03-30,Billing Delay,4733.98,South,Bulk Pack,System Flag,In Progress,3235.4
+TXN01113,2024-04-27,Unauthorized Discount,8586.29,North,Trial Pack,Manager Review,Written Off,5988.3
+TXN01114,2024-09-22,Unauthorized Discount,9940.37,South,Standard Pack,Customer Complaint,Written Off,7689.32
+TXN01115,2024-11-02,Missed Renewal,6940.39,South,Bulk Pack,Customer Complaint,Written Off,5531.64
+TXN01116,2024-01-16,Billing Delay,1197.0,West,Premium Pack,System Flag,In Progress,714.61
+TXN01117,2024-10-07,Return Abuse,5920.68,North,Bulk Pack,Customer Complaint,In Progress,2758.77
+TXN01118,2024-04-29,Billing Delay,14974.65,North,Trial Pack,Customer Complaint,Recovered,6720.08
+TXN01119,2024-04-11,Pricing Error,30532.82,East,Bulk Pack,Manager Review,Recovered,0.0
+TXN01120,2024-04-15,Missed Renewal,14157.66,West,Economy Pack,Customer Complaint,In Progress,7248.62
+TXN01121,2024-01-23,Contract Non-Compliance,668.52,North,Standard Pack,System Flag,Recovered,83.87
+TXN01122,2024-06-04,Contract Non-Compliance,53447.19,South,Bulk Pack,Audit,Written Off,15384.25
+TXN01123,2024-10-26,Billing Delay,14119.4,Central,Trial Pack,Customer Complaint,Recovered,0.0
+TXN01124,2024-04-17,Contract Non-Compliance,5435.05,West,Premium Pack,System Flag,Recovered,955.7
+TXN01125,2024-02-01,Pricing Error,36452.14,West,Trial Pack,Audit,In Progress,0.0
+TXN01126,2024-10-04,Duplicate Invoice,3024.38,East,Trial Pack,Customer Complaint,In Progress,1066.28
+TXN01127,2024-11-17,Contract Non-Compliance,2450.69,West,Standard Pack,System Flag,In Progress,0.0
+TXN01128,2024-05-25,Pricing Error,29893.88,North,Premium Pack,Audit,Recovered,17035.36
+TXN01129,2024-07-08,Return Abuse,6868.6,East,Trial Pack,System Flag,In Progress,0.0
+TXN01130,2024-12-15,Contract Non-Compliance,4776.65,Central,Standard Pack,Manager Review,In Progress,424.1
+TXN01131,2024-01-10,Billing Delay,13066.99,North,Premium Pack,Audit,Written Off,4195.65
+TXN01132,2024-08-11,Unauthorized Discount,9427.42,North,Premium Pack,Customer Complaint,In Progress,8349.48
+TXN01133,2024-04-18,Billing Delay,11813.46,East,Premium Pack,Customer Complaint,Recovered,5427.06
+TXN01134,2024-05-24,Unauthorized Discount,8462.43,Central,Trial Pack,Manager Review,Recovered,0.0
+TXN01135,2024-04-03,Duplicate Invoice,22212.51,North,Standard Pack,Customer Complaint,Recovered,3097.86
+TXN01136,2024-06-09,Unauthorized Discount,30553.75,Central,Trial Pack,Customer Complaint,Recovered,44.22
+TXN01137,2024-03-14,Duplicate Invoice,34762.07,South,Premium Pack,Manager Review,Recovered,19231.66
+TXN01138,2024-01-24,Contract Non-Compliance,15093.12,Central,Standard Pack,Audit,Recovered,0.0
+TXN01139,2024-08-17,Unauthorized Discount,5207.82,Central,Trial Pack,System Flag,Recovered,5119.95
+TXN01140,2024-04-26,Pricing Error,4884.44,Central,Economy Pack,Audit,Recovered,3245.04
+TXN01141,2024-03-14,Unauthorized Discount,22113.4,North,Premium Pack,Customer Complaint,In Progress,0.0
+TXN01142,2024-06-12,Pricing Error,13140.93,East,Trial Pack,Customer Complaint,In Progress,0.0
+TXN01143,2024-11-21,Contract Non-Compliance,1901.72,South,Premium Pack,System Flag,Recovered,0.0
+TXN01144,2024-12-05,Duplicate Invoice,21988.44,East,Standard Pack,Manager Review,In Progress,5584.79
+TXN01145,2024-06-19,Pricing Error,1119.04,South,Trial Pack,Customer Complaint,In Progress,552.89
+TXN01146,2024-06-30,Contract Non-Compliance,62365.01,South,Trial Pack,Customer Complaint,In Progress,7012.99
+TXN01147,2024-02-25,Contract Non-Compliance,12270.9,South,Trial Pack,Customer Complaint,Recovered,0.0
+TXN01148,2024-10-04,Contract Non-Compliance,26498.48,South,Premium Pack,Customer Complaint,Recovered,17791.59
+TXN01149,2024-08-21,Contract Non-Compliance,2828.71,Central,Trial Pack,Manager Review,Recovered,516.91
+TXN01150,2024-09-23,Pricing Error,44411.11,Central,Trial Pack,Audit,Recovered,0.0
+TXN01151,2024-09-07,Unauthorized Discount,21224.0,North,Bulk Pack,Audit,Written Off,9332.69
+TXN01152,2024-09-05,Unauthorized Discount,17065.95,East,Bulk Pack,Customer Complaint,Recovered,0.0
+TXN01153,2024-02-11,Pricing Error,29353.77,West,Premium Pack,System Flag,Recovered,11246.9
+TXN01154,2024-06-28,Contract Non-Compliance,12817.51,South,Premium Pack,System Flag,In Progress,0.0
+TXN01155,2024-04-21,Unauthorized Discount,28220.45,North,Bulk Pack,Audit,Recovered,15150.61
+TXN01156,2024-04-29,Billing Delay,45497.94,North,Economy Pack,Customer Complaint,Written Off,0.0
+TXN01157,2024-01-25,Contract Non-Compliance,7912.7,North,Standard Pack,Manager Review,Recovered,2068.1
+TXN01158,2024-06-08,Pricing Error,834.52,East,Trial Pack,System Flag,Written Off,740.47
+TXN01159,2024-11-25,Return Abuse,6804.05,South,Economy Pack,Audit,Recovered,6332.7
+TXN01160,2024-04-01,Pricing Error,4921.95,West,Standard Pack,Customer Complaint,Written Off,3436.93
+TXN01161,2024-04-16,Contract Non-Compliance,3625.01,North,Bulk Pack,Audit,Recovered,2513.52
+TXN01162,2024-10-21,Pricing Error,844.75,West,Bulk Pack,System Flag,Written Off,284.58
+TXN01163,2024-03-13,Contract Non-Compliance,4880.49,South,Bulk Pack,Customer Complaint,In Progress,421.72
+TXN01164,2024-05-07,Pricing Error,1103.59,West,Trial Pack,Customer Complaint,In Progress,818.53
+TXN01165,2024-12-19,Duplicate Invoice,29052.43,Central,Trial Pack,System Flag,Recovered,6917.55
+TXN01166,2024-11-18,Unauthorized Discount,63670.38,West,Economy Pack,Manager Review,Recovered,22381.2
+TXN01167,2024-11-05,Billing Delay,21073.38,North,Economy Pack,System Flag,Recovered,15926.75
+TXN01168,2024-04-26,Contract Non-Compliance,12399.17,East,Bulk Pack,System Flag,In Progress,4409.35
+TXN01169,2024-03-17,Contract Non-Compliance,35074.44,West,Standard Pack,Customer Complaint,Recovered,30003.83
+TXN01170,2024-08-03,Missed Renewal,1237.15,East,Standard Pack,Audit,In Progress,1132.58
+TXN01171,2024-06-09,Missed Renewal,37435.85,West,Economy Pack,Manager Review,In Progress,4247.24
+TXN01172,2024-01-24,Unauthorized Discount,26653.22,Central,Economy Pack,Customer Complaint,Written Off,23287.26
+TXN01173,2024-02-27,Unauthorized Discount,4999.52,West,Bulk Pack,System Flag,In Progress,0.0
+TXN01174,2024-02-12,Billing Delay,4205.57,South,Economy Pack,System Flag,In Progress,193.34
+TXN01175,2024-06-12,Billing Delay,29478.28,North,Trial Pack,Manager Review,Written Off,0.0
+TXN01176,2024-04-08,Pricing Error,564.94,East,Bulk Pack,System Flag,In Progress,298.6
+TXN01177,2024-09-05,Billing Delay,4609.28,North,Standard Pack,Audit,In Progress,3076.43
+TXN01178,2024-03-05,Billing Delay,26066.54,South,Trial Pack,Manager Review,Recovered,5972.23
+TXN01179,2024-09-08,Billing Delay,39399.02,South,Economy Pack,Customer Complaint,Written Off,5111.26
+TXN01180,2024-03-31,Unauthorized Discount,23906.35,West,Bulk Pack,Customer Complaint,Written Off,0.0
+TXN01181,2024-09-02,Unauthorized Discount,1969.58,North,Premium Pack,System Flag,In Progress,244.7
+TXN01182,2024-01-16,Unauthorized Discount,24656.15,North,Trial Pack,Manager Review,Recovered,12197.03
+TXN01183,2024-01-01,Pricing Error,9681.35,West,Economy Pack,Audit,In Progress,0.0
+TXN01184,2024-08-25,Pricing Error,4360.77,South,Trial Pack,Customer Complaint,Written Off,315.6
+TXN01185,2024-08-18,Unauthorized Discount,5706.35,West,Standard Pack,Customer Complaint,Recovered,3653.69
+TXN01186,2024-04-11,Billing Delay,5992.61,Central,Trial Pack,Manager Review,In Progress,0.0
+TXN01187,2024-11-16,Return Abuse,14560.95,West,Trial Pack,System Flag,In Progress,0.0
+TXN01188,2024-05-04,Unauthorized Discount,1498.86,South,Trial Pack,Audit,Recovered,0.0
+TXN01189,2024-10-11,Unauthorized Discount,22564.68,Central,Premium Pack,Manager Review,Recovered,7302.22
+TXN01190,2024-09-12,Billing Delay,11838.46,West,Bulk Pack,Audit,Recovered,0.0
+TXN01191,2024-01-22,Return Abuse,1263.11,Central,Premium Pack,Audit,Recovered,0.0
+TXN01192,2024-08-13,Unauthorized Discount,5047.02,West,Standard Pack,Manager Review,Written Off,4488.48
+TXN01193,2024-01-21,Billing Delay,51608.44,North,Trial Pack,Customer Complaint,Recovered,13297.96
+TXN01194,2024-03-23,Pricing Error,4058.7,West,Premium Pack,Manager Review,In Progress,2459.52
+TXN01195,2024-11-23,Unauthorized Discount,6100.54,North,Economy Pack,Manager Review,Recovered,3423.09
+TXN01196,2024-09-25,Billing Delay,2598.59,Central,Trial Pack,Customer Complaint,Recovered,2262.39
+TXN01197,2024-06-24,Billing Delay,4236.61,East,Economy Pack,Audit,Written Off,3138.42
+TXN01198,2024-09-02,Contract Non-Compliance,1083.8,North,Standard Pack,Customer Complaint,Recovered,0.0
+TXN01199,2024-02-25,Billing Delay,725.7,South,Trial Pack,Customer Complaint,In Progress,0.0
+TXN01200,2024-02-25,Billing Delay,47764.77,East,Economy Pack,System Flag,In Progress,21049.11
+TXN01201,2024-03-15,Unauthorized Discount,15185.6,Central,Economy Pack,System Flag,In Progress,9215.09
+TXN01202,2024-05-06,Unauthorized Discount,5463.32,Central,Premium Pack,Customer Complaint,In Progress,4859.01
+TXN01203,2024-11-28,Pricing Error,12124.73,North,Trial Pack,Manager Review,In Progress,0.0
+TXN01204,2024-04-22,Billing Delay,19915.56,South,Bulk Pack,System Flag,Recovered,5879.67
+TXN01205,2024-06-07,Unauthorized Discount,20678.87,North,Bulk Pack,Manager Review,Written Off,15884.53
+TXN01206,2024-10-05,Contract Non-Compliance,17955.41,Central,Economy Pack,System Flag,Recovered,0.0
+TXN01207,2024-05-11,Unauthorized Discount,7794.16,West,Standard Pack,Customer Complaint,Recovered,4383.06
+TXN01208,2024-05-25,Return Abuse,13174.04,Central,Economy Pack,Customer Complaint,Recovered,0.0
+TXN01209,2024-02-29,Missed Renewal,23991.59,South,Bulk Pack,System Flag,Recovered,23299.41
+TXN01210,2024-11-14,Duplicate Invoice,8345.32,South,Standard Pack,Audit,Recovered,278.14
+TXN01211,2024-10-01,Contract Non-Compliance,20714.0,South,Trial Pack,Customer Complaint,Written Off,0.0
+TXN01212,2024-12-13,Unauthorized Discount,17140.22,South,Trial Pack,Manager Review,Written Off,10390.29
+TXN01213,2024-04-08,Unauthorized Discount,388.3,North,Trial Pack,Manager Review,Recovered,171.68
+TXN01214,2024-10-21,Unauthorized Discount,34022.93,South,Premium Pack,System Flag,Recovered,0.0
+TXN01215,2024-10-28,Unauthorized Discount,6866.63,East,Bulk Pack,Customer Complaint,Written Off,3886.95
+TXN01216,2024-01-31,Missed Renewal,6850.33,Central,Economy Pack,Manager Review,Written Off,0.0
+TXN01217,2024-03-26,Pricing Error,23200.9,West,Standard Pack,Customer Complaint,In Progress,4138.46
+TXN01218,2024-04-06,Return Abuse,1493.58,North,Premium Pack,Manager Review,In Progress,1137.73
+TXN01219,2024-08-13,Unauthorized Discount,8303.83,West,Trial Pack,Customer Complaint,Recovered,741.69
+TXN01220,2024-06-06,Unauthorized Discount,16883.84,West,Standard Pack,Audit,Written Off,0.0
+TXN01221,2024-08-20,Contract Non-Compliance,8544.93,Central,Bulk Pack,Manager Review,In Progress,3864.55
+TXN01222,2024-07-23,Pricing Error,1958.91,West,Economy Pack,System Flag,In Progress,422.92
+TXN01223,2024-11-05,Pricing Error,5008.16,Central,Premium Pack,System Flag,In Progress,0.0
+TXN01224,2024-02-01,Unauthorized Discount,16873.79,South,Bulk Pack,System Flag,Recovered,0.0
+TXN01225,2024-07-11,Missed Renewal,13361.7,West,Trial Pack,Manager Review,Recovered,10708.62
+TXN01226,2024-08-09,Unauthorized Discount,29480.54,North,Premium Pack,System Flag,Recovered,0.0
+TXN01227,2024-07-05,Unauthorized Discount,19716.62,West,Bulk Pack,Customer Complaint,In Progress,16979.28
+TXN01228,2024-06-11,Unauthorized Discount,668.08,West,Economy Pack,System Flag,Recovered,262.6
+TXN01229,2024-12-28,Pricing Error,3547.55,South,Premium Pack,Manager Review,Written Off,0.0
+TXN01230,2024-01-29,Unauthorized Discount,1763.04,North,Premium Pack,Manager Review,In Progress,1573.81
+TXN01231,2024-10-21,Billing Delay,13911.28,South,Bulk Pack,Audit,Recovered,0.0
+TXN01232,2024-07-16,Return Abuse,30833.64,West,Standard Pack,Manager Review,In Progress,15613.69
+TXN01233,2024-07-12,Unauthorized Discount,320.89,West,Standard Pack,Manager Review,Written Off,0.0
+TXN01234,2024-08-13,Missed Renewal,1594.0,South,Bulk Pack,System Flag,Recovered,189.39
+TXN01235,2024-08-12,Pricing Error,5684.78,Central,Premium Pack,Manager Review,Recovered,0.0
+TXN01236,2024-10-09,Duplicate Invoice,8952.34,Central,Trial Pack,Customer Complaint,Recovered,0.0
+TXN01237,2024-04-04,Pricing Error,14087.98,East,Standard Pack,Manager Review,Recovered,3665.46
+TXN01238,2024-08-02,Unauthorized Discount,5570.87,Central,Standard Pack,Manager Review,Recovered,106.06
+TXN01239,2024-09-08,Contract Non-Compliance,19693.71,West,Standard Pack,Audit,Recovered,10758.95
+TXN01240,2024-04-09,Pricing Error,12088.35,West,Economy Pack,System Flag,In Progress,8953.78
+TXN01241,2024-09-01,Unauthorized Discount,44030.14,West,Premium Pack,Manager Review,Recovered,20793.94
+TXN01242,2024-03-01,Duplicate Invoice,8671.0,Central,Economy Pack,Manager Review,Written Off,0.0
+TXN01243,2024-05-03,Unauthorized Discount,11981.68,West,Standard Pack,Manager Review,Written Off,0.0
+TXN01244,2024-04-08,Contract Non-Compliance,11576.76,South,Premium Pack,System Flag,In Progress,0.0
+TXN01245,2024-09-27,Pricing Error,5864.96,South,Standard Pack,Audit,In Progress,0.0
+TXN01246,2024-07-31,Unauthorized Discount,10515.33,Central,Economy Pack,Audit,In Progress,8360.24
+TXN01247,2024-12-01,Return Abuse,4290.94,East,Trial Pack,Manager Review,Written Off,0.0
+TXN01248,2024-10-14,Unauthorized Discount,2555.99,South,Economy Pack,Manager Review,Written Off,0.0
+TXN01249,2024-03-31,Pricing Error,7008.8,North,Trial Pack,Manager Review,Recovered,3492.85
+TXN01250,2024-07-06,Contract Non-Compliance,102232.67,Central,Economy Pack,System Flag,Recovered,98572.89
+TXN01251,2024-02-12,Billing Delay,12679.35,South,Economy Pack,Customer Complaint,Recovered,0.0
+TXN01252,2024-02-12,Missed Renewal,17072.24,South,Economy Pack,Audit,Recovered,15707.29
+TXN01253,2024-03-02,Unauthorized Discount,5600.98,West,Economy Pack,System Flag,Written Off,280.76
+TXN01254,2024-06-24,Pricing Error,4765.92,East,Trial Pack,Audit,In Progress,0.0
+TXN01255,2024-10-26,Billing Delay,6035.2,West,Economy Pack,System Flag,Recovered,1554.48
+TXN01256,2024-11-05,Duplicate Invoice,1924.72,South,Standard Pack,Customer Complaint,Recovered,152.91
+TXN01257,2024-09-29,Pricing Error,24060.28,South,Standard Pack,System Flag,Recovered,4360.4
+TXN01258,2024-08-22,Pricing Error,32208.93,East,Standard Pack,Audit,Recovered,11925.51
+TXN01259,2024-06-07,Duplicate Invoice,150.75,East,Standard Pack,Customer Complaint,In Progress,128.1
+TXN01260,2024-10-24,Unauthorized Discount,34157.06,West,Economy Pack,Manager Review,Written Off,0.0
+TXN01261,2024-10-24,Contract Non-Compliance,12794.87,North,Standard Pack,Audit,Written Off,9135.87
+TXN01262,2024-06-25,Return Abuse,2779.37,West,Premium Pack,Manager Review,Written Off,2286.01
+TXN01263,2024-10-24,Unauthorized Discount,28143.67,Central,Trial Pack,Customer Complaint,Recovered,17442.85
+TXN01264,2024-02-22,Contract Non-Compliance,11218.98,North,Bulk Pack,System Flag,Recovered,5713.54
+TXN01265,2024-07-07,Contract Non-Compliance,32555.34,North,Standard Pack,Customer Complaint,Recovered,28678.76
+TXN01266,2024-11-28,Missed Renewal,37.76,West,Trial Pack,Customer Complaint,In Progress,34.88
+TXN01267,2024-07-12,Return Abuse,5541.52,South,Bulk Pack,Audit,Recovered,5235.59
+TXN01268,2024-01-24,Pricing Error,14743.69,West,Standard Pack,System Flag,Written Off,140.58
+TXN01269,2024-08-05,Unauthorized Discount,12327.19,West,Standard Pack,System Flag,Written Off,6558.0
+TXN01270,2024-01-13,Missed Renewal,5312.96,North,Premium Pack,Customer Complaint,Written Off,0.0
+TXN01271,2024-10-07,Return Abuse,2241.13,South,Economy Pack,Audit,Recovered,1075.37
+TXN01272,2024-07-07,Pricing Error,7521.8,Central,Economy Pack,System Flag,In Progress,3179.36
+TXN01273,2024-10-04,Contract Non-Compliance,12373.09,North,Trial Pack,Manager Review,Recovered,0.0
+TXN01274,2024-06-07,Return Abuse,1363.08,East,Bulk Pack,Customer Complaint,In Progress,1362.93
+TXN01275,2024-04-16,Unauthorized Discount,5632.55,North,Premium Pack,Manager Review,In Progress,0.0
+TXN01276,2024-08-19,Billing Delay,203.84,South,Premium Pack,Audit,Recovered,78.79
+TXN01277,2024-08-16,Unauthorized Discount,6357.38,Central,Bulk Pack,Manager Review,Written Off,71.21
+TXN01278,2024-11-20,Return Abuse,10394.84,East,Trial Pack,Customer Complaint,Recovered,0.0
+TXN01279,2024-09-04,Missed Renewal,33254.49,East,Bulk Pack,Customer Complaint,In Progress,17908.77
+TXN01280,2024-04-08,Duplicate Invoice,4002.21,South,Premium Pack,Manager Review,Written Off,0.0
+TXN01281,2024-08-11,Contract Non-Compliance,71799.56,West,Bulk Pack,Audit,Written Off,0.0
+TXN01282,2024-09-25,Contract Non-Compliance,4232.09,West,Bulk Pack,Manager Review,Written Off,2281.76
+TXN01283,2024-12-07,Billing Delay,953.74,North,Bulk Pack,Customer Complaint,In Progress,444.41
+TXN01284,2024-08-16,Pricing Error,6243.92,West,Bulk Pack,Manager Review,In Progress,0.0
+TXN01285,2024-03-15,Unauthorized Discount,742.28,Central,Trial Pack,Customer Complaint,Recovered,35.3
+TXN01286,2024-09-22,Pricing Error,20271.76,South,Bulk Pack,System Flag,In Progress,19233.46
+TXN01287,2024-01-21,Unauthorized Discount,13577.27,West,Premium Pack,Customer Complaint,In Progress,7027.22
+TXN01288,2024-11-30,Unauthorized Discount,7329.66,South,Premium Pack,Manager Review,Written Off,0.0
+TXN01289,2024-02-25,Unauthorized Discount,4219.13,East,Economy Pack,Customer Complaint,Recovered,280.75
+TXN01290,2024-05-02,Pricing Error,6558.28,Central,Economy Pack,System Flag,In Progress,4584.67
+TXN01291,2024-06-09,Unauthorized Discount,22810.93,East,Bulk Pack,Customer Complaint,Recovered,0.0
+TXN01292,2024-04-07,Unauthorized Discount,17721.73,North,Premium Pack,System Flag,In Progress,0.0
+TXN01293,2024-07-28,Return Abuse,33294.66,West,Standard Pack,System Flag,Recovered,16891.05
+TXN01294,2024-07-26,Pricing Error,4505.75,South,Premium Pack,Manager Review,Recovered,1674.86
+TXN01295,2024-09-15,Contract Non-Compliance,1412.53,West,Premium Pack,System Flag,Recovered,1161.15
+TXN01296,2024-09-07,Unauthorized Discount,10692.89,North,Standard Pack,Manager Review,In Progress,681.0
+TXN01297,2024-04-05,Duplicate Invoice,2252.18,North,Trial Pack,Customer Complaint,Recovered,2054.83
+TXN01298,2024-04-11,Unauthorized Discount,3717.9,North,Trial Pack,Audit,Written Off,0.0
+TXN01299,2024-11-13,Contract Non-Compliance,15880.23,North,Economy Pack,Manager Review,Recovered,15084.55
+TXN01300,2024-02-18,Billing Delay,56860.68,North,Economy Pack,Audit,Written Off,0.0
+TXN01301,2024-10-11,Unauthorized Discount,5509.22,East,Premium Pack,Customer Complaint,Recovered,3128.77
+TXN01302,2024-12-25,Billing Delay,1692.26,North,Standard Pack,Manager Review,Recovered,0.0
+TXN01303,2024-08-08,Billing Delay,5011.35,East,Premium Pack,Audit,Recovered,0.0
+TXN01304,2024-07-28,Pricing Error,14309.28,East,Standard Pack,Manager Review,Recovered,9704.3
+TXN01305,2024-07-16,Billing Delay,18655.3,East,Trial Pack,Customer Complaint,Recovered,17287.19
+TXN01306,2024-08-29,Pricing Error,1999.51,Central,Bulk Pack,Manager Review,In Progress,422.46
+TXN01307,2024-08-24,Unauthorized Discount,12931.36,Central,Premium Pack,Customer Complaint,Written Off,7532.98
+TXN01308,2024-03-23,Pricing Error,6076.18,Central,Premium Pack,Audit,In Progress,0.0
+TXN01309,2024-01-30,Unauthorized Discount,10850.53,East,Economy Pack,Manager Review,In Progress,0.0
+TXN01310,2024-01-31,Duplicate Invoice,4955.41,Central,Trial Pack,Manager Review,In Progress,0.0
+TXN01311,2024-05-15,Missed Renewal,7646.65,East,Bulk Pack,Manager Review,Written Off,0.0
+TXN01312,2024-09-24,Return Abuse,3861.05,West,Trial Pack,Manager Review,Recovered,259.9
+TXN01313,2024-03-22,Pricing Error,36983.61,North,Economy Pack,Customer Complaint,Recovered,29408.92
+TXN01314,2024-10-20,Missed Renewal,17329.67,West,Economy Pack,System Flag,In Progress,0.0
+TXN01315,2024-05-29,Contract Non-Compliance,36285.93,East,Trial Pack,Customer Complaint,Recovered,35712.14
+TXN01316,2024-11-09,Contract Non-Compliance,15447.82,North,Bulk Pack,System Flag,Recovered,13830.67
+TXN01317,2024-11-29,Contract Non-Compliance,34531.17,East,Standard Pack,System Flag,In Progress,1939.97
+TXN01318,2024-07-22,Pricing Error,6438.68,Central,Bulk Pack,Manager Review,In Progress,494.88
+TXN01319,2024-07-09,Pricing Error,23926.0,East,Standard Pack,Manager Review,Written Off,0.0
+TXN01320,2024-02-01,Return Abuse,7477.79,South,Premium Pack,System Flag,Recovered,5389.13
+TXN01321,2024-08-12,Billing Delay,15666.57,North,Economy Pack,System Flag,Recovered,0.0
+TXN01322,2024-04-27,Missed Renewal,29078.44,East,Standard Pack,Audit,Written Off,0.0
+TXN01323,2024-07-30,Missed Renewal,5844.25,East,Trial Pack,Audit,In Progress,749.09
+TXN01324,2024-05-15,Unauthorized Discount,1050.83,South,Trial Pack,System Flag,Written Off,0.0
+TXN01325,2024-07-25,Missed Renewal,3805.05,East,Trial Pack,System Flag,Recovered,1523.75
+TXN01326,2024-02-24,Billing Delay,11945.91,East,Standard Pack,Audit,Recovered,0.0
+TXN01327,2024-07-30,Pricing Error,20118.86,South,Trial Pack,Audit,Recovered,12997.67
+TXN01328,2024-07-15,Duplicate Invoice,10006.58,West,Premium Pack,System Flag,In Progress,0.0
+TXN01329,2024-01-29,Pricing Error,21886.62,South,Premium Pack,Customer Complaint,Written Off,12895.81
+TXN01330,2024-08-06,Pricing Error,3468.77,North,Premium Pack,Audit,Recovered,845.15
+TXN01331,2024-07-25,Contract Non-Compliance,292.75,West,Premium Pack,System Flag,Written Off,0.0
+TXN01332,2024-07-05,Unauthorized Discount,66950.21,North,Standard Pack,Customer Complaint,In Progress,0.0
+TXN01333,2024-04-17,Duplicate Invoice,6324.15,West,Bulk Pack,Customer Complaint,Recovered,1205.51
+TXN01334,2024-06-17,Billing Delay,4483.06,Central,Trial Pack,Audit,In Progress,3723.82
+TXN01335,2024-04-23,Unauthorized Discount,11018.56,South,Bulk Pack,Audit,Recovered,3250.28
+TXN01336,2024-12-06,Pricing Error,2601.03,South,Bulk Pack,Audit,Written Off,0.0
+TXN01337,2024-05-22,Unauthorized Discount,4495.61,Central,Economy Pack,System Flag,Recovered,0.0
+TXN01338,2024-08-04,Contract Non-Compliance,7427.92,East,Premium Pack,System Flag,In Progress,7036.97
+TXN01339,2024-06-14,Unauthorized Discount,8453.37,Central,Trial Pack,Audit,Written Off,6406.17
+TXN01340,2024-04-04,Unauthorized Discount,32207.2,East,Bulk Pack,System Flag,In Progress,0.0
+TXN01341,2024-04-16,Pricing Error,8297.18,South,Economy Pack,Audit,Recovered,6971.56
+TXN01342,2024-03-16,Unauthorized Discount,1357.58,East,Economy Pack,System Flag,Recovered,316.17
+TXN01343,2024-12-26,Pricing Error,63584.42,North,Premium Pack,Manager Review,Recovered,26905.85
+TXN01344,2024-01-08,Contract Non-Compliance,12496.0,East,Economy Pack,Manager Review,In Progress,11749.84
+TXN01345,2024-12-15,Pricing Error,1684.93,Central,Economy Pack,Audit,In Progress,0.0
+TXN01346,2024-06-05,Unauthorized Discount,49658.5,Central,Trial Pack,System Flag,Recovered,38304.7
+TXN01347,2024-09-21,Contract Non-Compliance,7714.23,West,Trial Pack,System Flag,In Progress,0.0
+TXN01348,2024-07-31,Unauthorized Discount,4023.76,North,Economy Pack,Customer Complaint,Written Off,3187.62
+TXN01349,2024-01-22,Pricing Error,31427.99,Central,Economy Pack,Customer Complaint,In Progress,25614.39
+TXN01350,2024-10-27,Billing Delay,38595.43,Central,Standard Pack,Manager Review,In Progress,15756.54
+TXN01351,2024-12-23,Return Abuse,4262.02,East,Bulk Pack,Manager Review,Recovered,2539.94
+TXN01352,2024-01-05,Pricing Error,6204.32,Central,Premium Pack,System Flag,Recovered,0.0
+TXN01353,2024-07-31,Missed Renewal,6452.16,West,Economy Pack,System Flag,In Progress,0.0
+TXN01354,2024-04-23,Unauthorized Discount,6626.89,South,Premium Pack,System Flag,Recovered,0.0
+TXN01355,2024-02-24,Unauthorized Discount,20879.74,West,Standard Pack,Customer Complaint,In Progress,0.0
+TXN01356,2024-01-10,Pricing Error,5067.75,Central,Standard Pack,System Flag,In Progress,2414.3
+TXN01357,2024-08-25,Return Abuse,8701.93,Central,Bulk Pack,Manager Review,In Progress,7826.22
+TXN01358,2024-09-12,Return Abuse,42644.75,West,Premium Pack,Audit,Recovered,31072.76
+TXN01359,2024-01-05,Pricing Error,11336.05,West,Bulk Pack,Customer Complaint,Recovered,0.0
+TXN01360,2024-09-16,Billing Delay,2289.95,South,Standard Pack,Audit,Recovered,1478.48
+TXN01361,2024-10-04,Pricing Error,15979.2,North,Premium Pack,Manager Review,In Progress,438.29
+TXN01362,2024-12-22,Duplicate Invoice,6108.39,South,Standard Pack,Manager Review,Written Off,0.0
+TXN01363,2024-01-23,Contract Non-Compliance,38544.45,North,Premium Pack,Audit,Written Off,0.0
+TXN01364,2024-09-30,Billing Delay,36490.8,East,Trial Pack,Audit,In Progress,18778.12
+TXN01365,2024-08-24,Return Abuse,2142.44,West,Economy Pack,Audit,Recovered,927.63
+TXN01366,2024-12-13,Unauthorized Discount,30387.44,Central,Economy Pack,Manager Review,Written Off,658.8
+TXN01367,2024-08-16,Billing Delay,30920.23,Central,Trial Pack,System Flag,Recovered,24998.71
+TXN01368,2024-03-18,Pricing Error,33220.18,West,Bulk Pack,System Flag,In Progress,8285.64
+TXN01369,2024-10-24,Contract Non-Compliance,9190.64,East,Trial Pack,Customer Complaint,Written Off,6942.03
+TXN01370,2024-02-04,Billing Delay,25740.42,Central,Economy Pack,Manager Review,In Progress,2736.13
+TXN01371,2024-12-24,Unauthorized Discount,6819.82,East,Economy Pack,Customer Complaint,Recovered,1515.18
+TXN01372,2024-08-15,Unauthorized Discount,22526.38,Central,Standard Pack,System Flag,In Progress,0.0
+TXN01373,2024-01-12,Unauthorized Discount,14655.16,Central,Bulk Pack,Manager Review,Written Off,574.24
+TXN01374,2024-05-07,Contract Non-Compliance,18768.18,Central,Standard Pack,Manager Review,Written Off,0.0
+TXN01375,2024-01-14,Unauthorized Discount,26871.02,South,Economy Pack,Customer Complaint,Written Off,0.0
+TXN01376,2024-01-18,Pricing Error,1723.68,East,Standard Pack,Manager Review,In Progress,0.0
+TXN01377,2024-05-08,Unauthorized Discount,2921.54,North,Premium Pack,Audit,In Progress,2299.24
+TXN01378,2024-01-06,Contract Non-Compliance,15708.21,West,Economy Pack,Audit,In Progress,12734.21
+TXN01379,2024-06-16,Billing Delay,16722.83,East,Economy Pack,System Flag,Written Off,3368.9
+TXN01380,2024-12-28,Billing Delay,20289.05,West,Premium Pack,System Flag,In Progress,4521.2
+TXN01381,2024-02-12,Missed Renewal,523.62,South,Premium Pack,System Flag,Recovered,0.0
+TXN01382,2024-10-04,Pricing Error,119.36,North,Trial Pack,Customer Complaint,In Progress,0.0
+TXN01383,2024-09-29,Unauthorized Discount,1510.0,West,Standard Pack,Customer Complaint,Written Off,422.98
+TXN01384,2024-09-17,Pricing Error,23312.33,North,Premium Pack,System Flag,Recovered,10101.35
+TXN01385,2024-03-05,Billing Delay,4147.98,South,Bulk Pack,System Flag,Recovered,2519.32
+TXN01386,2024-03-13,Duplicate Invoice,12937.67,West,Trial Pack,Manager Review,In Progress,11379.59
+TXN01387,2024-06-11,Missed Renewal,10938.35,South,Standard Pack,Manager Review,In Progress,2334.4
+TXN01388,2024-01-22,Unauthorized Discount,29664.44,West,Premium Pack,Customer Complaint,In Progress,11827.33
+TXN01389,2024-07-23,Missed Renewal,13155.14,South,Economy Pack,System Flag,In Progress,7140.84
+TXN01390,2024-05-27,Duplicate Invoice,354.83,East,Economy Pack,System Flag,In Progress,344.38
+TXN01391,2024-03-12,Billing Delay,12521.6,North,Premium Pack,Audit,Recovered,0.0
+TXN01392,2024-08-10,Missed Renewal,12167.91,North,Economy Pack,Manager Review,Written Off,10321.27
+TXN01393,2024-12-13,Missed Renewal,378.48,Central,Bulk Pack,Manager Review,Recovered,0.0
+TXN01394,2024-04-26,Unauthorized Discount,12460.3,Central,Premium Pack,Audit,Written Off,4128.98
+TXN01395,2024-08-08,Contract Non-Compliance,11709.87,North,Economy Pack,Manager Review,Recovered,4102.0
+TXN01396,2024-11-06,Billing Delay,618.41,North,Bulk Pack,System Flag,Recovered,75.24
+TXN01397,2024-02-19,Contract Non-Compliance,33867.99,West,Premium Pack,System Flag,Recovered,0.0
+TXN01398,2024-10-02,Pricing Error,75882.35,South,Standard Pack,Customer Complaint,Recovered,0.0
+TXN01399,2024-04-18,Missed Renewal,2847.34,South,Economy Pack,System Flag,Recovered,170.87
+TXN01400,2024-05-11,Pricing Error,24616.04,South,Standard Pack,Manager Review,In Progress,0.0
+TXN01401,2024-12-27,Unauthorized Discount,10736.23,West,Standard Pack,Manager Review,Written Off,532.89
+TXN01402,2024-06-13,Duplicate Invoice,7596.55,West,Standard Pack,Manager Review,Written Off,3895.6
+TXN01403,2024-12-14,Return Abuse,5262.28,East,Trial Pack,System Flag,In Progress,5175.8
+TXN01404,2024-02-14,Pricing Error,2323.79,West,Premium Pack,System Flag,Recovered,0.0
+TXN01405,2024-10-22,Unauthorized Discount,19110.58,North,Economy Pack,System Flag,Recovered,12731.75
+TXN01406,2024-11-21,Return Abuse,13465.18,South,Bulk Pack,Manager Review,Written Off,0.0
+TXN01407,2024-08-16,Pricing Error,13200.19,Central,Trial Pack,Audit,Written Off,5143.7
+TXN01408,2024-01-27,Contract Non-Compliance,15457.6,Central,Bulk Pack,Manager Review,Recovered,10047.96
+TXN01409,2024-03-29,Billing Delay,267.77,West,Premium Pack,Customer Complaint,In Progress,178.17
+TXN01410,2024-05-02,Unauthorized Discount,86522.89,South,Economy Pack,Audit,In Progress,82353.2
+TXN01411,2024-10-23,Return Abuse,6467.67,Central,Premium Pack,Manager Review,In Progress,0.0
+TXN01412,2024-03-08,Unauthorized Discount,6039.39,West,Bulk Pack,Manager Review,Recovered,2040.35
+TXN01413,2024-02-04,Return Abuse,30018.43,North,Trial Pack,System Flag,Written Off,19398.91
+TXN01414,2024-12-02,Pricing Error,24877.86,East,Premium Pack,Manager Review,Recovered,20407.32
+TXN01415,2024-08-31,Unauthorized Discount,1051.26,South,Trial Pack,Audit,Recovered,0.0
+TXN01416,2024-10-28,Pricing Error,12517.1,Central,Premium Pack,Manager Review,Recovered,0.0
+TXN01417,2024-03-08,Return Abuse,9643.7,South,Bulk Pack,Customer Complaint,Written Off,1608.94
+TXN01418,2024-06-26,Pricing Error,14637.06,Central,Premium Pack,Audit,In Progress,0.0
+TXN01419,2024-07-01,Unauthorized Discount,3979.12,South,Bulk Pack,System Flag,Recovered,1996.8
+TXN01420,2024-09-29,Missed Renewal,12508.49,South,Standard Pack,Customer Complaint,Written Off,0.0
+TXN01421,2024-10-02,Unauthorized Discount,10918.6,West,Trial Pack,Manager Review,In Progress,9711.96
+TXN01422,2024-09-08,Billing Delay,20053.82,Central,Premium Pack,System Flag,Written Off,0.0
+TXN01423,2024-02-25,Unauthorized Discount,748.19,South,Trial Pack,Manager Review,In Progress,75.41
+TXN01424,2024-10-30,Billing Delay,29711.32,Central,Trial Pack,System Flag,Recovered,906.91
+TXN01425,2024-11-26,Unauthorized Discount,9803.71,South,Trial Pack,Manager Review,In Progress,2471.12
+TXN01426,2024-01-29,Contract Non-Compliance,2128.56,South,Trial Pack,Audit,Recovered,1596.07
+TXN01427,2024-02-26,Contract Non-Compliance,14019.04,West,Premium Pack,System Flag,Recovered,5382.63
+TXN01428,2024-09-15,Duplicate Invoice,38652.01,West,Premium Pack,Audit,In Progress,35025.9
+TXN01429,2024-04-21,Missed Renewal,13933.98,East,Economy Pack,Customer Complaint,Recovered,928.85
+TXN01430,2024-02-02,Contract Non-Compliance,8769.18,East,Trial Pack,Manager Review,Recovered,0.0
+TXN01431,2024-03-13,Return Abuse,16792.41,West,Trial Pack,Audit,Recovered,16057.05
+TXN01432,2024-08-07,Duplicate Invoice,13827.09,Central,Bulk Pack,Manager Review,In Progress,0.0
+TXN01433,2024-09-01,Return Abuse,23860.12,North,Premium Pack,Customer Complaint,In Progress,0.0
+TXN01434,2024-08-09,Unauthorized Discount,2230.16,South,Economy Pack,Manager Review,Written Off,2117.26
+TXN01435,2024-02-23,Return Abuse,8788.85,East,Trial Pack,Audit,In Progress,5888.28
+TXN01436,2024-03-15,Pricing Error,8616.37,West,Economy Pack,System Flag,Recovered,8335.27
+TXN01437,2024-01-21,Pricing Error,4131.45,North,Standard Pack,System Flag,In Progress,509.47
+TXN01438,2024-03-11,Billing Delay,1927.5,West,Premium Pack,Audit,Recovered,856.28
+TXN01439,2024-08-02,Missed Renewal,12567.19,South,Standard Pack,Manager Review,Written Off,2913.28
+TXN01440,2024-10-25,Missed Renewal,56476.15,East,Trial Pack,Customer Complaint,In Progress,37804.63
+TXN01441,2024-11-05,Duplicate Invoice,35173.07,East,Premium Pack,Audit,Recovered,14301.34
+TXN01442,2024-05-05,Unauthorized Discount,9759.14,South,Trial Pack,Audit,In Progress,5893.14
+TXN01443,2024-09-26,Contract Non-Compliance,1622.04,North,Trial Pack,Audit,In Progress,0.0
+TXN01444,2024-11-29,Unauthorized Discount,13466.78,East,Premium Pack,Audit,Recovered,11334.13
+TXN01445,2024-06-19,Billing Delay,32276.98,West,Premium Pack,Customer Complaint,In Progress,20235.34
+TXN01446,2024-04-03,Unauthorized Discount,1231.93,Central,Standard Pack,System Flag,Recovered,0.0
+TXN01447,2024-05-07,Return Abuse,6943.85,West,Economy Pack,Customer Complaint,Written Off,4662.85
+TXN01448,2024-07-18,Unauthorized Discount,11636.45,Central,Bulk Pack,Audit,In Progress,5851.83
+TXN01449,2024-12-26,Missed Renewal,5019.39,North,Trial Pack,System Flag,In Progress,0.0
+TXN01450,2024-06-24,Return Abuse,1149.15,West,Economy Pack,Audit,Recovered,318.93
+TXN01451,2024-06-02,Unauthorized Discount,7349.73,East,Economy Pack,Customer Complaint,In Progress,1479.61
+TXN01452,2024-06-16,Unauthorized Discount,904.72,East,Trial Pack,Customer Complaint,Written Off,455.25
+TXN01453,2024-03-17,Contract Non-Compliance,2577.58,Central,Economy Pack,Audit,Recovered,537.3
+TXN01454,2024-05-05,Contract Non-Compliance,68007.68,Central,Standard Pack,Customer Complaint,In Progress,67502.31
+TXN01455,2024-07-13,Return Abuse,28743.04,South,Bulk Pack,Manager Review,Written Off,0.0
+TXN01456,2024-11-15,Pricing Error,16671.67,East,Bulk Pack,System Flag,In Progress,1389.38
+TXN01457,2024-12-08,Unauthorized Discount,10285.95,Central,Standard Pack,Customer Complaint,In Progress,0.0
+TXN01458,2024-06-01,Missed Renewal,2103.49,North,Premium Pack,Audit,In Progress,2102.25
+TXN01459,2024-06-08,Pricing Error,17557.24,Central,Economy Pack,Manager Review,Recovered,0.0
+TXN01460,2024-07-04,Contract Non-Compliance,6373.87,North,Economy Pack,System Flag,Recovered,758.89
+TXN01461,2024-04-08,Return Abuse,5618.16,North,Trial Pack,System Flag,Recovered,0.0
+TXN01462,2024-04-10,Contract Non-Compliance,5789.91,North,Economy Pack,System Flag,Written Off,5194.56
+TXN01463,2024-11-24,Duplicate Invoice,71.73,South,Premium Pack,System Flag,Recovered,0.0
+TXN01464,2024-10-04,Pricing Error,5485.62,East,Standard Pack,Customer Complaint,In Progress,358.78
+TXN01465,2024-09-03,Return Abuse,65054.17,Central,Standard Pack,System Flag,In Progress,20932.53
+TXN01466,2024-10-05,Unauthorized Discount,15958.17,Central,Standard Pack,Audit,Recovered,7343.69
+TXN01467,2024-02-12,Unauthorized Discount,9593.55,South,Economy Pack,Customer Complaint,Recovered,0.0
+TXN01468,2024-03-24,Unauthorized Discount,49700.16,West,Standard Pack,Manager Review,Written Off,37448.64
+TXN01469,2024-01-20,Unauthorized Discount,4095.8,West,Trial Pack,Customer Complaint,In Progress,2604.07
+TXN01470,2024-01-29,Billing Delay,643.2,North,Bulk Pack,Customer Complaint,Recovered,512.22
+TXN01471,2024-09-10,Billing Delay,19174.55,South,Economy Pack,Manager Review,Recovered,0.0
+TXN01472,2024-10-17,Unauthorized Discount,11712.14,Central,Premium Pack,Customer Complaint,In Progress,8601.35
+TXN01473,2024-04-30,Billing Delay,7260.42,East,Standard Pack,System Flag,Recovered,0.0
+TXN01474,2024-05-04,Missed Renewal,14478.69,West,Bulk Pack,Customer Complaint,In Progress,4092.43
+TXN01475,2024-01-27,Duplicate Invoice,19995.99,East,Standard Pack,Manager Review,Recovered,0.0
+TXN01476,2024-12-06,Billing Delay,10685.85,South,Premium Pack,Manager Review,In Progress,0.0
+TXN01477,2024-04-02,Billing Delay,8725.2,East,Bulk Pack,Audit,Recovered,0.0
+TXN01478,2024-05-11,Contract Non-Compliance,32715.52,East,Trial Pack,Customer Complaint,In Progress,21729.26
+TXN01479,2024-01-20,Unauthorized Discount,30076.85,East,Bulk Pack,Audit,In Progress,4078.65
+TXN01480,2024-03-16,Return Abuse,20278.08,Central,Premium Pack,Manager Review,In Progress,11338.99
+TXN01481,2024-11-01,Return Abuse,11036.97,Central,Trial Pack,System Flag,In Progress,10654.9
+TXN01482,2024-08-19,Unauthorized Discount,9680.07,Central,Trial Pack,Customer Complaint,Recovered,3100.79
+TXN01483,2024-07-21,Return Abuse,15501.77,East,Trial Pack,System Flag,Written Off,5408.41
+TXN01484,2024-02-26,Return Abuse,5380.9,North,Standard Pack,Audit,In Progress,4080.81
+TXN01485,2024-12-24,Unauthorized Discount,48677.11,Central,Trial Pack,Customer Complaint,Recovered,45094.69
+TXN01486,2024-04-07,Unauthorized Discount,27519.32,East,Bulk Pack,System Flag,Written Off,5844.49
+TXN01487,2024-05-19,Billing Delay,3124.14,South,Trial Pack,Manager Review,In Progress,0.0
+TXN01488,2024-10-16,Missed Renewal,3453.38,Central,Economy Pack,System Flag,Recovered,18.46
+TXN01489,2024-08-19,Pricing Error,627.9,West,Trial Pack,Audit,Recovered,0.0
+TXN01490,2024-01-19,Contract Non-Compliance,14168.6,Central,Economy Pack,Manager Review,In Progress,12474.86
+TXN01491,2024-05-06,Unauthorized Discount,6413.22,West,Economy Pack,System Flag,Written Off,5943.79
+TXN01492,2024-12-06,Missed Renewal,14745.6,North,Trial Pack,Manager Review,Recovered,5520.97
+TXN01493,2024-02-28,Duplicate Invoice,749.8,South,Standard Pack,Manager Review,In Progress,198.4
+TXN01494,2024-04-30,Billing Delay,5159.44,Central,Standard Pack,Customer Complaint,In Progress,3964.05
+TXN01495,2024-01-20,Unauthorized Discount,422.14,Central,Premium Pack,Customer Complaint,Recovered,0.0
+TXN01496,2024-10-02,Pricing Error,41262.65,Central,Economy Pack,Manager Review,In Progress,15668.55
+TXN01497,2024-12-01,Unauthorized Discount,11730.63,South,Bulk Pack,Manager Review,In Progress,10804.53
+TXN01498,2024-02-06,Missed Renewal,14215.71,North,Premium Pack,Manager Review,Recovered,0.0
+TXN01499,2024-01-18,Contract Non-Compliance,8623.92,West,Trial Pack,System Flag,Recovered,313.66
+TXN01500,2024-10-24,Return Abuse,4826.0,Central,Trial Pack,Customer Complaint,Recovered,4536.06

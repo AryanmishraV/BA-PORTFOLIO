@@ -1,0 +1,1001 @@
+customer_id,region,segment,last_purchase_date,frequency,monetary_value,recency_days,product_category,channel,R_Score,F_Score,M_Score,RFM_Score,Segment
+CUST0001,West,B2B,2024-08-12,48,24428.4,141,Premium Pack,Online,3,5,4,12,At Risk - High Value
+CUST0002,North,B2C,2024-03-10,12,43737.47,296,Premium Pack,Retail,1,2,5,8,Needs Attention
+CUST0003,South,B2C,2024-05-24,36,34682.55,221,Bulk Pack,Retail,2,4,5,11,At Risk - High Value
+CUST0004,East,Enterprise,2024-11-20,15,4532.81,41,Premium Pack,Field Sales,5,2,1,8,Potential Loyalists
+CUST0005,East,B2C,2024-09-10,15,2036.07,112,Bulk Pack,Field Sales,4,2,1,7,Potential Loyalists
+CUST0006,North,B2C,2024-04-11,35,5917.78,264,Economy Pack,Field Sales,2,4,2,8,Needs Attention
+CUST0007,South,Enterprise,2024-08-14,20,24283.74,139,Trial Pack,Distributor,4,2,4,10,Loyal Customers
+CUST0008,Central,Enterprise,2024-07-08,42,46037.72,176,Premium Pack,Retail,3,5,5,13,Champions
+CUST0009,South,Enterprise,2024-03-07,19,25038.16,299,Standard Pack,Online,1,2,4,7,Needs Attention
+CUST0010,East,B2B,2024-01-30,17,32004.56,336,Trial Pack,Online,1,2,5,8,Needs Attention
+CUST0011,West,B2B,2024-02-12,48,25452.28,323,Premium Pack,Retail,1,5,4,10,At Risk - High Value
+CUST0012,West,B2C,2024-06-07,24,49148.8,207,Economy Pack,Field Sales,3,3,5,11,At Risk - High Value
+CUST0013,East,B2C,2024-07-28,38,6015.67,156,Standard Pack,Distributor,3,4,2,9,Potential Loyalists
+CUST0014,Central,B2B,2024-09-22,17,7493.14,100,Premium Pack,Distributor,4,2,2,8,Potential Loyalists
+CUST0015,North,B2B,2024-11-07,26,1572.33,54,Premium Pack,Distributor,5,3,1,9,Potential Loyalists
+CUST0016,East,B2C,2024-08-30,47,25182.09,123,Standard Pack,Distributor,4,5,4,13,Champions
+CUST0017,East,Enterprise,2024-10-11,25,7821.75,81,Premium Pack,Distributor,4,3,2,9,Potential Loyalists
+CUST0018,East,Enterprise,2024-06-12,44,11906.01,202,Trial Pack,Online,3,5,3,11,At Risk - High Value
+CUST0019,North,B2B,2024-07-19,28,6868.02,165,Economy Pack,Distributor,3,3,2,8,Potential Loyalists
+CUST0020,South,B2C,2024-10-05,10,7942.62,87,Trial Pack,Distributor,4,1,2,7,Potential Loyalists
+CUST0021,East,B2B,2024-01-12,8,20696.8,354,Economy Pack,Online,1,1,4,6,Hibernating
+CUST0022,Central,B2B,2024-03-11,32,31405.32,295,Premium Pack,Field Sales,1,4,4,9,Needs Attention
+CUST0023,South,Enterprise,2024-12-30,4,9128.86,1,Standard Pack,Distributor,5,1,2,8,Potential Loyalists
+CUST0024,Central,Enterprise,2024-12-16,45,2831.68,15,Trial Pack,Retail,5,5,1,11,Loyal Customers
+CUST0025,North,B2C,2024-09-14,14,3154.82,108,Premium Pack,Field Sales,4,2,1,7,Potential Loyalists
+CUST0026,South,B2C,2024-03-02,9,19742.3,304,Premium Pack,Field Sales,1,1,4,6,Hibernating
+CUST0027,East,B2C,2024-05-19,29,7151.43,226,Economy Pack,Distributor,2,3,2,7,Needs Attention
+CUST0028,North,B2C,2024-05-22,10,144884.63,223,Economy Pack,Field Sales,2,1,5,8,Needs Attention
+CUST0029,West,B2C,2024-09-12,15,36952.28,110,Economy Pack,Retail,4,2,5,11,Loyal Customers
+CUST0030,West,B2C,2024-06-17,27,15520.07,197,Trial Pack,Field Sales,3,3,3,9,Potential Loyalists
+CUST0031,South,Enterprise,2024-08-27,49,18332.21,126,Economy Pack,Distributor,4,5,3,12,Loyal Customers
+CUST0032,South,Enterprise,2024-07-21,35,7897.15,163,Premium Pack,Field Sales,3,4,2,9,Potential Loyalists
+CUST0033,South,B2B,2024-12-18,29,8403.73,13,Standard Pack,Field Sales,5,3,2,10,Loyal Customers
+CUST0034,East,B2B,2024-12-06,12,42945.32,25,Standard Pack,Distributor,5,2,5,12,Loyal Customers
+CUST0035,South,B2C,2024-07-01,26,3639.19,183,Bulk Pack,Distributor,3,3,1,7,Potential Loyalists
+CUST0036,West,Enterprise,2024-12-08,48,2700.27,23,Premium Pack,Retail,5,5,1,11,Loyal Customers
+CUST0037,Central,B2C,2024-12-25,23,5202.33,6,Premium Pack,Field Sales,5,3,2,10,Loyal Customers
+CUST0038,West,B2B,2024-04-14,15,11103.05,261,Trial Pack,Field Sales,2,2,3,7,Needs Attention
+CUST0039,West,B2C,2024-05-16,2,24284.81,229,Standard Pack,Retail,2,1,4,7,Needs Attention
+CUST0040,Central,B2B,2024-07-27,46,14955.94,157,Premium Pack,Online,3,5,3,11,At Risk - High Value
+CUST0041,East,Enterprise,2024-02-26,30,52866.07,309,Trial Pack,Field Sales,1,3,5,9,Needs Attention
+CUST0042,West,B2C,2024-05-22,19,16788.67,223,Economy Pack,Distributor,2,2,3,7,Needs Attention
+CUST0043,Central,Enterprise,2024-11-26,47,18849.12,35,Trial Pack,Distributor,5,5,3,13,Champions
+CUST0044,North,B2C,2024-06-08,36,28657.71,206,Standard Pack,Retail,3,4,4,11,At Risk - High Value
+CUST0045,West,Enterprise,2024-02-02,2,2568.28,333,Economy Pack,Online,1,1,1,3,Hibernating
+CUST0046,South,B2C,2024-12-13,8,18007.11,18,Economy Pack,Field Sales,5,1,3,9,Potential Loyalists
+CUST0047,East,Enterprise,2024-08-02,5,4453.41,151,Bulk Pack,Field Sales,3,1,1,5,Hibernating
+CUST0048,Central,B2B,2024-07-13,22,4208.76,171,Standard Pack,Distributor,3,3,1,7,Potential Loyalists
+CUST0049,North,B2B,2024-08-20,8,40145.91,133,Trial Pack,Distributor,4,1,5,10,Loyal Customers
+CUST0050,Central,B2C,2024-05-24,2,7290.48,221,Trial Pack,Retail,2,1,2,5,Hibernating
+CUST0051,North,Enterprise,2024-01-08,48,32852.37,358,Economy Pack,Distributor,1,5,5,11,At Risk - High Value
+CUST0052,North,B2B,2024-05-18,8,49859.11,227,Premium Pack,Distributor,2,1,5,8,Needs Attention
+CUST0053,South,B2C,2024-04-27,6,12806.41,248,Economy Pack,Distributor,2,1,3,6,Hibernating
+CUST0054,North,B2C,2024-09-28,47,988.16,94,Standard Pack,Online,4,5,1,10,Loyal Customers
+CUST0055,North,Enterprise,2024-11-18,6,7702.94,43,Standard Pack,Distributor,5,1,2,8,Potential Loyalists
+CUST0056,South,Enterprise,2024-09-20,26,25249.31,102,Trial Pack,Online,4,3,4,11,Loyal Customers
+CUST0057,East,Enterprise,2024-03-13,41,68413.25,293,Standard Pack,Retail,1,5,5,11,At Risk - High Value
+CUST0058,South,B2C,2024-08-13,5,35535.37,140,Trial Pack,Retail,4,1,5,10,Loyal Customers
+CUST0059,Central,B2C,2024-02-05,29,101111.55,330,Premium Pack,Online,1,3,5,9,Needs Attention
+CUST0060,Central,B2C,2024-09-29,48,3635.77,93,Standard Pack,Retail,4,5,1,10,Loyal Customers
+CUST0061,Central,B2B,2024-04-28,32,30626.95,247,Standard Pack,Retail,2,4,4,10,At Risk - High Value
+CUST0062,Central,Enterprise,2024-02-04,37,16732.97,331,Trial Pack,Online,1,4,3,8,Needs Attention
+CUST0063,East,B2B,2024-11-22,2,4472.47,39,Trial Pack,Online,5,1,1,7,Potential Loyalists
+CUST0064,East,B2C,2024-09-03,32,9438.17,119,Premium Pack,Distributor,4,4,2,10,Loyal Customers
+CUST0065,South,B2C,2024-07-28,33,30759.2,156,Bulk Pack,Retail,3,4,4,11,At Risk - High Value
+CUST0066,South,Enterprise,2024-11-26,2,9906.9,35,Standard Pack,Online,5,1,2,8,Potential Loyalists
+CUST0067,West,Enterprise,2024-12-23,4,623.74,8,Bulk Pack,Online,5,1,1,7,Potential Loyalists
+CUST0068,West,B2C,2024-06-13,42,2158.09,201,Standard Pack,Retail,3,5,1,9,Potential Loyalists
+CUST0069,West,B2C,2024-06-01,23,10702.26,213,Standard Pack,Online,3,3,3,9,Potential Loyalists
+CUST0070,Central,Enterprise,2024-05-15,38,3357.65,230,Premium Pack,Field Sales,2,4,1,7,Needs Attention
+CUST0071,North,B2B,2024-10-10,39,78631.08,82,Economy Pack,Distributor,4,4,5,13,Champions
+CUST0072,South,Enterprise,2024-04-05,27,13227.43,270,Bulk Pack,Online,2,3,3,8,Needs Attention
+CUST0073,West,B2C,2024-02-07,49,32419.98,328,Premium Pack,Online,1,5,5,11,At Risk - High Value
+CUST0074,West,B2C,2024-10-19,27,15230.16,73,Trial Pack,Field Sales,4,3,3,10,Loyal Customers
+CUST0075,Central,B2B,2024-01-07,31,22135.97,359,Premium Pack,Distributor,1,4,4,9,Needs Attention
+CUST0076,South,Enterprise,2024-07-27,40,15285.3,157,Premium Pack,Online,3,5,3,11,At Risk - High Value
+CUST0077,South,Enterprise,2024-03-18,27,11573.54,288,Premium Pack,Distributor,1,3,3,7,Needs Attention
+CUST0078,North,B2B,2024-10-28,33,13240.42,64,Bulk Pack,Online,5,4,3,12,Loyal Customers
+CUST0079,West,B2C,2024-03-20,44,13743.64,286,Standard Pack,Distributor,2,5,3,10,At Risk - High Value
+CUST0080,South,B2C,2024-09-20,42,45029.31,102,Trial Pack,Distributor,4,5,5,14,Champions
+CUST0081,South,B2B,2024-12-20,16,30018.52,11,Standard Pack,Online,5,2,4,11,Loyal Customers
+CUST0082,North,Enterprise,2024-12-21,46,17203.99,10,Standard Pack,Retail,5,5,3,13,Champions
+CUST0083,Central,B2C,2024-02-27,24,24380.88,308,Bulk Pack,Online,1,3,4,8,Needs Attention
+CUST0084,West,Enterprise,2024-08-23,5,33739.85,130,Economy Pack,Retail,4,1,5,10,Loyal Customers
+CUST0085,South,B2B,2024-10-05,46,55053.6,87,Standard Pack,Field Sales,4,5,5,14,Champions
+CUST0086,North,B2C,2024-02-08,32,4647.18,327,Trial Pack,Retail,1,4,2,7,Needs Attention
+CUST0087,West,B2B,2024-02-28,23,5404.77,307,Trial Pack,Distributor,1,3,2,6,Hibernating
+CUST0088,Central,B2B,2024-02-18,48,4620.43,317,Bulk Pack,Retail,1,5,2,8,Needs Attention
+CUST0089,East,Enterprise,2024-02-03,17,46447.63,332,Premium Pack,Field Sales,1,2,5,8,Needs Attention
+CUST0090,Central,Enterprise,2024-01-22,30,945.04,344,Bulk Pack,Distributor,1,3,1,5,Hibernating
+CUST0091,West,B2C,2024-12-09,2,4037.25,22,Premium Pack,Field Sales,5,1,1,7,Potential Loyalists
+CUST0092,South,Enterprise,2024-10-19,7,41354.78,73,Standard Pack,Online,4,1,5,10,Loyal Customers
+CUST0093,South,B2B,2024-01-28,7,968.37,338,Economy Pack,Field Sales,1,1,1,3,Hibernating
+CUST0094,Central,Enterprise,2024-11-20,47,12276.04,41,Trial Pack,Retail,5,5,3,13,Champions
+CUST0095,South,Enterprise,2024-07-21,40,13377.15,163,Standard Pack,Distributor,3,5,3,11,At Risk - High Value
+CUST0096,West,Enterprise,2024-03-01,38,5630.46,305,Economy Pack,Online,1,4,2,7,Needs Attention
+CUST0097,East,B2C,2024-11-01,6,8305.96,60,Trial Pack,Field Sales,5,1,2,8,Potential Loyalists
+CUST0098,East,B2C,2024-07-24,47,23167.89,160,Bulk Pack,Field Sales,3,5,4,12,At Risk - High Value
+CUST0099,East,Enterprise,2024-07-23,27,4544.18,161,Bulk Pack,Online,3,3,1,7,Potential Loyalists
+CUST0100,North,Enterprise,2024-04-30,38,15382.43,245,Standard Pack,Field Sales,2,4,3,9,Needs Attention
+CUST0101,North,Enterprise,2024-08-15,36,17454.73,138,Economy Pack,Distributor,4,4,3,11,Loyal Customers
+CUST0102,North,B2B,2024-08-02,4,31267.48,151,Bulk Pack,Retail,3,1,4,8,Potential Loyalists
+CUST0103,South,B2B,2024-01-08,39,1895.89,358,Standard Pack,Online,1,4,1,6,Cannot Lose Them
+CUST0104,South,B2C,2024-02-14,48,23842.51,321,Economy Pack,Online,1,5,4,10,At Risk - High Value
+CUST0105,East,Enterprise,2024-10-03,31,9822.68,89,Trial Pack,Distributor,4,4,2,10,Loyal Customers
+CUST0106,North,B2B,2024-07-18,35,27024.07,166,Economy Pack,Distributor,3,4,4,11,At Risk - High Value
+CUST0107,North,B2C,2024-11-18,26,9978.04,43,Trial Pack,Distributor,5,3,2,10,Loyal Customers
+CUST0108,South,B2B,2024-08-25,12,17147.74,128,Premium Pack,Distributor,4,2,3,9,Potential Loyalists
+CUST0109,South,B2C,2024-11-11,10,37188.39,50,Bulk Pack,Field Sales,5,1,5,11,Loyal Customers
+CUST0110,Central,Enterprise,2024-02-23,37,18804.76,312,Trial Pack,Distributor,1,4,3,8,Needs Attention
+CUST0111,West,B2B,2024-01-11,48,8873.71,355,Premium Pack,Online,1,5,2,8,Needs Attention
+CUST0112,South,B2C,2024-09-22,13,73470.28,100,Bulk Pack,Online,4,2,5,11,Loyal Customers
+CUST0113,South,Enterprise,2024-04-24,20,19469.43,251,Premium Pack,Field Sales,2,2,3,7,Needs Attention
+CUST0114,Central,B2B,2024-04-11,26,1060.1,264,Trial Pack,Retail,2,3,1,6,Hibernating
+CUST0115,Central,Enterprise,2024-03-24,21,7189.01,282,Economy Pack,Field Sales,2,3,2,7,Needs Attention
+CUST0116,West,Enterprise,2024-09-03,47,27008.21,119,Premium Pack,Field Sales,4,5,4,13,Champions
+CUST0117,South,B2B,2024-07-17,18,7036.3,167,Bulk Pack,Online,3,2,2,7,Potential Loyalists
+CUST0118,North,B2B,2024-12-17,20,4094.54,14,Trial Pack,Distributor,5,2,1,8,Potential Loyalists
+CUST0119,West,B2B,2024-08-31,49,793.95,122,Standard Pack,Distributor,4,5,1,10,Loyal Customers
+CUST0120,West,B2B,2024-11-12,39,22655.02,49,Standard Pack,Retail,5,4,4,13,Champions
+CUST0121,East,B2C,2024-10-20,23,1925.73,72,Standard Pack,Online,4,3,1,8,Potential Loyalists
+CUST0122,East,B2C,2024-11-02,33,30839.41,59,Economy Pack,Retail,5,4,4,13,Champions
+CUST0123,North,Enterprise,2024-04-17,25,8702.72,258,Bulk Pack,Distributor,2,3,2,7,Needs Attention
+CUST0124,South,Enterprise,2024-01-04,10,4579.82,362,Premium Pack,Retail,1,1,2,4,Hibernating
+CUST0125,East,Enterprise,2024-06-02,25,14020.79,212,Premium Pack,Online,3,3,3,9,Potential Loyalists
+CUST0126,East,B2B,2024-12-16,10,6808.36,15,Premium Pack,Online,5,1,2,8,Potential Loyalists
+CUST0127,South,B2C,2024-08-05,36,2804.26,148,Standard Pack,Distributor,3,4,1,8,Potential Loyalists
+CUST0128,Central,Enterprise,2024-04-20,29,14827.85,255,Economy Pack,Online,2,3,3,8,Needs Attention
+CUST0129,South,B2C,2024-10-16,25,6726.19,76,Bulk Pack,Distributor,4,3,2,9,Potential Loyalists
+CUST0130,South,B2C,2024-10-13,17,13258.09,79,Standard Pack,Field Sales,4,2,3,9,Potential Loyalists
+CUST0131,West,B2C,2024-07-06,40,16052.48,178,Economy Pack,Distributor,3,5,3,11,At Risk - High Value
+CUST0132,North,Enterprise,2024-10-18,6,30162.35,74,Economy Pack,Retail,4,1,4,9,Potential Loyalists
+CUST0133,South,B2C,2024-02-12,6,17579.94,323,Bulk Pack,Online,1,1,3,5,Hibernating
+CUST0134,East,B2B,2024-09-20,12,2554.14,102,Standard Pack,Online,4,2,1,7,Potential Loyalists
+CUST0135,West,B2B,2024-04-22,36,3188.95,253,Trial Pack,Field Sales,2,4,1,7,Needs Attention
+CUST0136,Central,B2B,2024-06-12,11,2951.66,202,Bulk Pack,Retail,3,2,1,6,Hibernating
+CUST0137,Central,B2B,2024-01-15,28,14368.45,351,Trial Pack,Retail,1,3,3,7,Needs Attention
+CUST0138,West,Enterprise,2024-06-07,33,18117.83,207,Bulk Pack,Field Sales,3,4,3,10,At Risk - High Value
+CUST0139,South,Enterprise,2024-03-27,28,20924.13,279,Trial Pack,Field Sales,2,3,4,9,Needs Attention
+CUST0140,Central,B2C,2024-03-03,23,9142.33,303,Premium Pack,Distributor,1,3,2,6,Hibernating
+CUST0141,West,B2C,2024-06-20,16,13949.04,194,Premium Pack,Field Sales,3,2,3,8,Potential Loyalists
+CUST0142,Central,Enterprise,2024-06-12,14,12441.18,202,Economy Pack,Online,3,2,3,8,Potential Loyalists
+CUST0143,West,B2B,2024-06-29,40,6990.87,185,Standard Pack,Retail,3,5,2,10,At Risk - High Value
+CUST0144,North,B2B,2024-07-04,2,20343.44,180,Standard Pack,Online,3,1,4,8,Potential Loyalists
+CUST0145,South,B2B,2024-04-26,8,36038.83,249,Trial Pack,Distributor,2,1,5,8,Needs Attention
+CUST0146,South,Enterprise,2024-12-04,15,10832.19,27,Trial Pack,Retail,5,2,3,10,Loyal Customers
+CUST0147,West,B2C,2024-10-31,47,28207.28,61,Trial Pack,Retail,5,5,4,14,Champions
+CUST0148,Central,B2C,2024-06-04,19,27205.07,210,Bulk Pack,Field Sales,3,2,4,9,Potential Loyalists
+CUST0149,Central,Enterprise,2024-01-03,21,21028.54,363,Standard Pack,Retail,1,3,4,8,Needs Attention
+CUST0150,East,B2B,2024-05-14,16,44024.1,231,Bulk Pack,Retail,2,2,5,9,Needs Attention
+CUST0151,North,B2C,2024-08-20,46,9965.56,133,Bulk Pack,Online,4,5,2,11,Loyal Customers
+CUST0152,East,B2C,2024-01-04,34,32572.06,362,Bulk Pack,Online,1,4,5,10,At Risk - High Value
+CUST0153,East,Enterprise,2024-02-02,42,19339.51,333,Bulk Pack,Retail,1,5,3,9,Needs Attention
+CUST0154,North,Enterprise,2024-02-06,14,10673.04,329,Trial Pack,Online,1,2,3,6,Hibernating
+CUST0155,West,Enterprise,2024-04-04,36,33856.57,271,Bulk Pack,Distributor,2,4,5,11,At Risk - High Value
+CUST0156,East,Enterprise,2024-08-08,26,6013.28,145,Premium Pack,Retail,3,3,2,8,Potential Loyalists
+CUST0157,East,B2C,2024-11-03,39,7189.44,58,Bulk Pack,Online,5,4,2,11,Loyal Customers
+CUST0158,South,B2B,2024-10-24,2,30935.2,68,Trial Pack,Retail,5,1,4,10,Loyal Customers
+CUST0159,East,B2C,2024-05-10,11,6919.67,235,Premium Pack,Distributor,2,2,2,6,Hibernating
+CUST0160,East,B2B,2024-04-26,42,4100.33,249,Economy Pack,Online,2,5,1,8,Needs Attention
+CUST0161,Central,Enterprise,2024-11-10,36,12633.48,51,Bulk Pack,Distributor,5,4,3,12,Loyal Customers
+CUST0162,South,B2C,2024-07-27,45,23883.74,157,Bulk Pack,Online,3,5,4,12,At Risk - High Value
+CUST0163,South,Enterprise,2024-11-30,7,6120.23,31,Bulk Pack,Distributor,5,1,2,8,Potential Loyalists
+CUST0164,North,B2C,2024-09-25,3,16739.44,97,Economy Pack,Retail,4,1,3,8,Potential Loyalists
+CUST0165,West,B2B,2024-11-05,19,12035.89,56,Bulk Pack,Retail,5,2,3,10,Loyal Customers
+CUST0166,North,B2B,2024-05-29,26,49880.25,216,Standard Pack,Distributor,2,3,5,10,At Risk - High Value
+CUST0167,West,B2B,2024-08-18,2,21567.39,135,Standard Pack,Online,4,1,4,9,Potential Loyalists
+CUST0168,Central,B2C,2024-01-19,18,17854.39,347,Trial Pack,Distributor,1,2,3,6,Hibernating
+CUST0169,North,B2B,2024-08-04,8,28355.61,149,Bulk Pack,Retail,3,1,4,8,Potential Loyalists
+CUST0170,Central,B2C,2024-08-03,7,6395.84,150,Standard Pack,Field Sales,3,1,2,6,Hibernating
+CUST0171,East,B2C,2024-07-01,26,9203.34,183,Economy Pack,Retail,3,3,2,8,Potential Loyalists
+CUST0172,North,Enterprise,2024-09-28,4,11362.79,94,Trial Pack,Field Sales,4,1,3,8,Potential Loyalists
+CUST0173,Central,Enterprise,2024-06-09,42,24466.6,205,Bulk Pack,Retail,3,5,4,12,At Risk - High Value
+CUST0174,South,B2B,2024-01-10,16,18521.14,356,Bulk Pack,Retail,1,2,3,6,Hibernating
+CUST0175,West,B2B,2024-04-22,12,11897.72,253,Standard Pack,Distributor,2,2,3,7,Needs Attention
+CUST0176,North,B2B,2024-12-02,19,19152.36,29,Standard Pack,Retail,5,2,3,10,Loyal Customers
+CUST0177,North,Enterprise,2024-12-18,30,12083.29,13,Standard Pack,Distributor,5,3,3,11,Loyal Customers
+CUST0178,North,B2B,2024-05-25,12,4334.27,220,Premium Pack,Field Sales,2,2,1,5,Hibernating
+CUST0179,Central,B2C,2024-12-03,33,12729.67,28,Trial Pack,Online,5,4,3,12,Loyal Customers
+CUST0180,South,B2B,2024-04-29,4,1962.64,246,Bulk Pack,Online,2,1,1,4,Hibernating
+CUST0181,West,B2C,2024-05-17,48,7475.91,228,Bulk Pack,Retail,2,5,2,9,Needs Attention
+CUST0182,Central,B2B,2024-03-23,36,13093.4,283,Standard Pack,Retail,2,4,3,9,Needs Attention
+CUST0183,West,B2B,2024-08-24,20,2882.31,129,Bulk Pack,Field Sales,4,2,1,7,Potential Loyalists
+CUST0184,West,B2B,2024-10-28,21,2667.34,64,Economy Pack,Field Sales,5,3,1,9,Potential Loyalists
+CUST0185,West,Enterprise,2024-09-22,17,5617.78,100,Trial Pack,Field Sales,4,2,2,8,Potential Loyalists
+CUST0186,East,B2C,2024-11-23,35,32473.84,38,Trial Pack,Online,5,4,5,14,Champions
+CUST0187,North,Enterprise,2024-07-10,15,30853.66,174,Bulk Pack,Online,3,2,4,9,Potential Loyalists
+CUST0188,West,B2C,2024-05-06,14,1313.74,239,Premium Pack,Online,2,2,1,5,Hibernating
+CUST0189,North,Enterprise,2024-10-18,7,98626.33,74,Premium Pack,Online,4,1,5,10,Loyal Customers
+CUST0190,Central,B2B,2024-07-01,2,28723.96,183,Bulk Pack,Distributor,3,1,4,8,Potential Loyalists
+CUST0191,West,Enterprise,2024-09-19,3,2605.55,103,Standard Pack,Retail,4,1,1,6,New Customers
+CUST0192,West,B2C,2024-01-23,22,4632.68,343,Bulk Pack,Retail,1,3,2,6,Hibernating
+CUST0193,Central,Enterprise,2024-07-10,41,35158.85,174,Trial Pack,Distributor,3,5,5,13,Champions
+CUST0194,Central,B2C,2024-05-11,8,17565.59,234,Economy Pack,Retail,2,1,3,6,Hibernating
+CUST0195,Central,B2C,2024-11-08,12,1800.75,53,Trial Pack,Field Sales,5,2,1,8,Potential Loyalists
+CUST0196,North,B2C,2024-12-04,4,16318.55,27,Bulk Pack,Online,5,1,3,9,Potential Loyalists
+CUST0197,Central,B2B,2024-04-18,48,19663.77,257,Standard Pack,Online,2,5,4,11,At Risk - High Value
+CUST0198,East,Enterprise,2024-12-01,12,4384.54,30,Economy Pack,Retail,5,2,1,8,Potential Loyalists
+CUST0199,Central,B2B,2024-02-11,7,9827.61,324,Premium Pack,Field Sales,1,1,2,4,Hibernating
+CUST0200,East,B2C,2024-02-12,22,21333.83,323,Premium Pack,Online,1,3,4,8,Needs Attention
+CUST0201,West,B2B,2024-12-14,48,8508.82,17,Bulk Pack,Distributor,5,5,2,12,Loyal Customers
+CUST0202,East,Enterprise,2024-06-14,5,40567.51,200,Standard Pack,Distributor,3,1,5,9,Potential Loyalists
+CUST0203,South,Enterprise,2024-09-10,20,5200.42,112,Trial Pack,Online,4,2,2,8,Potential Loyalists
+CUST0204,Central,B2C,2024-02-23,38,29217.73,312,Bulk Pack,Retail,1,4,4,9,Needs Attention
+CUST0205,West,B2C,2024-02-17,16,9541.88,318,Economy Pack,Field Sales,1,2,2,5,Hibernating
+CUST0206,East,B2C,2024-12-21,16,8642.45,10,Economy Pack,Field Sales,5,2,2,9,Potential Loyalists
+CUST0207,West,B2C,2024-02-17,19,32893.07,318,Trial Pack,Field Sales,1,2,5,8,Needs Attention
+CUST0208,East,B2B,2024-02-25,33,5580.41,310,Standard Pack,Online,1,4,2,7,Needs Attention
+CUST0209,Central,Enterprise,2024-08-24,21,52942.45,129,Trial Pack,Online,4,3,5,12,Loyal Customers
+CUST0210,Central,B2B,2024-02-06,16,20526.26,329,Trial Pack,Retail,1,2,4,7,Needs Attention
+CUST0211,East,B2C,2024-09-19,49,9829.25,103,Economy Pack,Online,4,5,2,11,Loyal Customers
+CUST0212,Central,B2B,2024-09-22,1,18333.23,100,Economy Pack,Retail,4,1,3,8,Potential Loyalists
+CUST0213,Central,B2B,2024-10-24,26,790.15,68,Bulk Pack,Distributor,5,3,1,9,Potential Loyalists
+CUST0214,North,Enterprise,2024-03-23,2,19967.73,283,Premium Pack,Retail,2,1,4,7,Needs Attention
+CUST0215,South,B2B,2024-04-03,17,3799.72,272,Bulk Pack,Field Sales,2,2,1,5,Hibernating
+CUST0216,South,B2B,2024-07-07,49,26675.8,177,Trial Pack,Retail,3,5,4,12,At Risk - High Value
+CUST0217,South,B2B,2024-11-01,48,24064.17,60,Bulk Pack,Field Sales,5,5,4,14,Champions
+CUST0218,South,B2C,2024-12-03,14,1790.71,28,Premium Pack,Retail,5,2,1,8,Potential Loyalists
+CUST0219,West,B2C,2024-06-30,41,8886.84,184,Premium Pack,Online,3,5,2,10,At Risk - High Value
+CUST0220,West,Enterprise,2024-10-24,31,5274.78,68,Economy Pack,Field Sales,5,4,2,11,Loyal Customers
+CUST0221,East,Enterprise,2024-12-07,34,19017.9,24,Bulk Pack,Retail,5,4,3,12,Loyal Customers
+CUST0222,West,B2B,2024-09-24,47,953.25,98,Premium Pack,Distributor,4,5,1,10,Loyal Customers
+CUST0223,East,Enterprise,2024-07-10,36,16225.14,174,Trial Pack,Field Sales,3,4,3,10,At Risk - High Value
+CUST0224,North,Enterprise,2024-12-24,43,61121.65,7,Trial Pack,Online,5,5,5,15,Champions
+CUST0225,South,B2C,2024-07-29,28,22482.93,155,Premium Pack,Online,3,3,4,10,At Risk - High Value
+CUST0226,South,B2C,2024-01-27,15,1391.59,339,Standard Pack,Retail,1,2,1,4,Hibernating
+CUST0227,East,Enterprise,2024-03-21,33,29818.38,285,Premium Pack,Distributor,2,4,4,10,At Risk - High Value
+CUST0228,South,Enterprise,2024-04-02,9,9487.37,273,Bulk Pack,Distributor,2,1,2,5,Hibernating
+CUST0229,East,B2C,2024-01-27,46,3604.8,339,Economy Pack,Retail,1,5,1,7,Needs Attention
+CUST0230,North,B2C,2024-07-30,30,845.46,154,Economy Pack,Distributor,3,3,1,7,Potential Loyalists
+CUST0231,South,B2C,2024-02-16,21,19891.61,319,Standard Pack,Field Sales,1,3,4,8,Needs Attention
+CUST0232,South,Enterprise,2024-09-15,49,4056.3,107,Trial Pack,Distributor,4,5,1,10,Loyal Customers
+CUST0233,Central,B2C,2024-02-02,31,8016.8,333,Premium Pack,Online,1,4,2,7,Needs Attention
+CUST0234,North,B2B,2024-10-31,16,68095.1,61,Trial Pack,Field Sales,5,2,5,12,Loyal Customers
+CUST0235,East,Enterprise,2024-08-14,24,8602.97,139,Economy Pack,Field Sales,4,3,2,9,Potential Loyalists
+CUST0236,West,Enterprise,2024-06-05,3,49651.85,209,Standard Pack,Online,3,1,5,9,Potential Loyalists
+CUST0237,North,Enterprise,2024-08-29,49,19622.07,124,Bulk Pack,Distributor,4,5,4,13,Champions
+CUST0238,South,Enterprise,2024-09-18,45,5838.97,104,Trial Pack,Field Sales,4,5,2,11,Loyal Customers
+CUST0239,South,Enterprise,2024-09-10,21,11029.34,112,Bulk Pack,Online,4,3,3,10,Loyal Customers
+CUST0240,North,B2C,2024-01-28,11,6255.78,338,Bulk Pack,Retail,1,2,2,5,Hibernating
+CUST0241,East,B2C,2024-07-07,37,8188.77,177,Trial Pack,Retail,3,4,2,9,Potential Loyalists
+CUST0242,West,B2C,2024-10-14,9,1427.06,78,Economy Pack,Online,4,1,1,6,New Customers
+CUST0243,North,Enterprise,2024-12-25,1,27857.33,6,Trial Pack,Distributor,5,1,4,10,Loyal Customers
+CUST0244,North,B2C,2024-08-08,2,17502.94,145,Trial Pack,Field Sales,3,1,3,7,Potential Loyalists
+CUST0245,Central,B2B,2024-07-18,13,46611.21,166,Standard Pack,Field Sales,3,2,5,10,At Risk - High Value
+CUST0246,East,B2C,2024-08-27,29,12480.33,126,Trial Pack,Online,4,3,3,10,Loyal Customers
+CUST0247,East,Enterprise,2024-12-19,39,9456.44,12,Standard Pack,Distributor,5,4,2,11,Loyal Customers
+CUST0248,Central,B2B,2024-09-25,21,3482.26,97,Bulk Pack,Online,4,3,1,8,Potential Loyalists
+CUST0249,West,B2C,2024-01-06,3,21619.22,360,Standard Pack,Field Sales,1,1,4,6,Hibernating
+CUST0250,Central,Enterprise,2024-11-03,41,42737.0,58,Economy Pack,Distributor,5,5,5,15,Champions
+CUST0251,West,Enterprise,2024-11-07,12,25222.68,54,Trial Pack,Online,5,2,4,11,Loyal Customers
+CUST0252,East,B2C,2024-03-27,10,60150.31,279,Bulk Pack,Online,2,1,5,8,Needs Attention
+CUST0253,South,B2B,2024-10-27,32,44836.94,65,Standard Pack,Online,5,4,5,14,Champions
+CUST0254,North,B2C,2024-11-22,10,21916.0,39,Trial Pack,Distributor,5,1,4,10,Loyal Customers
+CUST0255,North,Enterprise,2024-09-13,8,16367.48,109,Standard Pack,Field Sales,4,1,3,8,Potential Loyalists
+CUST0256,North,B2C,2024-04-13,2,84231.63,262,Trial Pack,Online,2,1,5,8,Needs Attention
+CUST0257,West,B2C,2024-11-15,31,28720.59,46,Trial Pack,Online,5,4,4,13,Champions
+CUST0258,Central,Enterprise,2024-08-26,44,42348.26,127,Premium Pack,Retail,4,5,5,14,Champions
+CUST0259,East,B2C,2024-03-02,15,1934.62,304,Economy Pack,Distributor,1,2,1,4,Hibernating
+CUST0260,East,B2C,2024-11-02,45,11254.41,59,Bulk Pack,Retail,5,5,3,13,Champions
+CUST0261,Central,B2C,2024-03-27,37,24182.64,279,Bulk Pack,Distributor,2,4,4,10,At Risk - High Value
+CUST0262,East,B2B,2024-11-08,41,40987.45,53,Premium Pack,Distributor,5,5,5,15,Champions
+CUST0263,East,Enterprise,2024-06-04,47,25756.76,210,Bulk Pack,Distributor,3,5,4,12,At Risk - High Value
+CUST0264,Central,B2B,2024-04-02,44,9397.54,273,Bulk Pack,Distributor,2,5,2,9,Needs Attention
+CUST0265,South,B2B,2024-02-05,16,1701.41,330,Standard Pack,Field Sales,1,2,1,4,Hibernating
+CUST0266,West,B2B,2024-02-10,14,36960.03,325,Trial Pack,Online,1,2,5,8,Needs Attention
+CUST0267,South,Enterprise,2024-07-16,35,9235.44,168,Economy Pack,Field Sales,3,4,2,9,Potential Loyalists
+CUST0268,Central,B2C,2024-07-10,1,35110.79,174,Standard Pack,Online,3,1,5,9,Potential Loyalists
+CUST0269,West,B2C,2024-06-21,46,1005.31,193,Premium Pack,Retail,3,5,1,9,Potential Loyalists
+CUST0270,North,Enterprise,2024-08-05,38,25223.36,148,Economy Pack,Online,3,4,4,11,At Risk - High Value
+CUST0271,North,Enterprise,2024-07-16,46,42239.0,168,Premium Pack,Distributor,3,5,5,13,Champions
+CUST0272,West,B2C,2024-04-21,18,12972.32,254,Trial Pack,Online,2,2,3,7,Needs Attention
+CUST0273,North,B2B,2024-11-07,39,12230.56,54,Bulk Pack,Distributor,5,4,3,12,Loyal Customers
+CUST0274,Central,Enterprise,2024-02-06,48,24590.27,329,Bulk Pack,Retail,1,5,4,10,At Risk - High Value
+CUST0275,West,Enterprise,2024-02-16,6,78228.89,319,Standard Pack,Online,1,1,5,7,Needs Attention
+CUST0276,North,B2C,2024-12-23,30,20541.65,8,Trial Pack,Retail,5,3,4,12,Loyal Customers
+CUST0277,Central,B2B,2024-02-15,25,1909.5,320,Standard Pack,Field Sales,1,3,1,5,Hibernating
+CUST0278,East,B2B,2024-01-17,12,34312.9,349,Standard Pack,Retail,1,2,5,8,Needs Attention
+CUST0279,East,B2B,2024-07-14,26,638.48,170,Economy Pack,Field Sales,3,3,1,7,Potential Loyalists
+CUST0280,Central,B2C,2024-12-25,4,22504.7,6,Premium Pack,Distributor,5,1,4,10,Loyal Customers
+CUST0281,East,B2B,2024-12-24,24,2197.05,7,Economy Pack,Distributor,5,3,1,9,Potential Loyalists
+CUST0282,North,Enterprise,2024-06-16,43,23721.24,198,Economy Pack,Field Sales,3,5,4,12,At Risk - High Value
+CUST0283,East,Enterprise,2024-11-12,7,41595.11,49,Economy Pack,Online,5,1,5,11,Loyal Customers
+CUST0284,North,B2B,2024-10-29,10,5170.58,63,Trial Pack,Retail,5,1,2,8,Potential Loyalists
+CUST0285,East,B2C,2024-09-01,12,6095.35,121,Bulk Pack,Field Sales,4,2,2,8,Potential Loyalists
+CUST0286,South,B2B,2024-10-12,44,41703.52,80,Bulk Pack,Online,4,5,5,14,Champions
+CUST0287,West,B2C,2024-05-25,25,65487.26,220,Standard Pack,Retail,2,3,5,10,At Risk - High Value
+CUST0288,West,B2B,2024-12-08,37,16302.53,23,Economy Pack,Field Sales,5,4,3,12,Loyal Customers
+CUST0289,North,Enterprise,2024-03-21,34,1367.95,285,Standard Pack,Online,2,4,1,7,Needs Attention
+CUST0290,North,B2B,2024-12-29,11,5690.24,2,Bulk Pack,Distributor,5,2,2,9,Potential Loyalists
+CUST0291,South,B2C,2024-01-20,34,28517.11,346,Bulk Pack,Online,1,4,4,9,Needs Attention
+CUST0292,North,Enterprise,2024-03-04,31,7521.73,302,Premium Pack,Retail,1,4,2,7,Needs Attention
+CUST0293,West,B2B,2024-02-10,22,3749.0,325,Trial Pack,Field Sales,1,3,1,5,Hibernating
+CUST0294,North,B2C,2024-12-15,26,13882.11,16,Premium Pack,Online,5,3,3,11,Loyal Customers
+CUST0295,West,Enterprise,2024-10-05,31,37516.52,87,Standard Pack,Distributor,4,4,5,13,Champions
+CUST0296,East,B2C,2024-05-15,3,8222.9,230,Standard Pack,Distributor,2,1,2,5,Hibernating
+CUST0297,Central,B2C,2024-04-23,34,65734.52,252,Economy Pack,Retail,2,4,5,11,At Risk - High Value
+CUST0298,Central,Enterprise,2024-08-20,9,3569.02,133,Bulk Pack,Retail,4,1,1,6,New Customers
+CUST0299,North,Enterprise,2024-08-09,7,8486.31,144,Economy Pack,Retail,3,1,2,6,Hibernating
+CUST0300,North,B2B,2024-07-13,26,8153.1,171,Economy Pack,Distributor,3,3,2,8,Potential Loyalists
+CUST0301,West,Enterprise,2024-12-25,6,14753.95,6,Economy Pack,Retail,5,1,3,9,Potential Loyalists
+CUST0302,Central,B2B,2024-06-30,18,35580.07,184,Premium Pack,Retail,3,2,5,10,At Risk - High Value
+CUST0303,West,B2C,2024-05-07,9,39656.12,238,Economy Pack,Distributor,2,1,5,8,Needs Attention
+CUST0304,Central,B2C,2024-08-06,19,20060.36,147,Premium Pack,Distributor,3,2,4,9,Potential Loyalists
+CUST0305,South,B2C,2024-09-18,37,14754.22,104,Premium Pack,Field Sales,4,4,3,11,Loyal Customers
+CUST0306,South,B2C,2024-01-31,20,901.52,335,Trial Pack,Distributor,1,3,1,5,Hibernating
+CUST0307,South,B2C,2024-10-14,5,18666.29,78,Trial Pack,Field Sales,4,1,3,8,Potential Loyalists
+CUST0308,West,B2C,2024-09-23,15,38714.66,99,Economy Pack,Online,4,2,5,11,Loyal Customers
+CUST0309,Central,Enterprise,2024-05-26,19,31549.07,219,Bulk Pack,Distributor,2,2,4,8,Needs Attention
+CUST0310,North,B2B,2024-01-06,35,25767.64,360,Bulk Pack,Field Sales,1,4,4,9,Needs Attention
+CUST0311,West,Enterprise,2024-01-29,8,24132.66,337,Economy Pack,Distributor,1,1,4,6,Hibernating
+CUST0312,South,B2C,2024-12-19,20,10081.81,12,Premium Pack,Field Sales,5,3,2,10,Loyal Customers
+CUST0313,East,Enterprise,2024-07-31,25,59426.72,153,Bulk Pack,Retail,3,3,5,11,At Risk - High Value
+CUST0314,South,B2C,2024-06-06,25,16977.91,208,Economy Pack,Field Sales,3,3,3,9,Potential Loyalists
+CUST0315,West,Enterprise,2024-03-20,1,11254.93,286,Standard Pack,Online,2,1,3,6,Hibernating
+CUST0316,South,B2B,2024-08-29,29,12294.31,124,Trial Pack,Retail,4,3,3,10,Loyal Customers
+CUST0317,West,B2B,2024-10-23,1,19060.91,69,Economy Pack,Distributor,5,1,3,9,Potential Loyalists
+CUST0318,West,B2C,2024-08-29,27,3391.92,124,Trial Pack,Distributor,4,3,1,8,Potential Loyalists
+CUST0319,North,B2C,2024-10-21,39,3619.59,71,Trial Pack,Retail,4,4,1,9,Potential Loyalists
+CUST0320,East,B2C,2024-06-03,49,2646.24,211,Premium Pack,Distributor,3,5,1,9,Potential Loyalists
+CUST0321,West,Enterprise,2024-12-07,25,41324.93,24,Standard Pack,Distributor,5,3,5,13,Champions
+CUST0322,South,B2B,2024-12-12,2,506.89,19,Premium Pack,Field Sales,5,1,1,7,Potential Loyalists
+CUST0323,West,B2C,2024-11-18,26,102850.03,43,Bulk Pack,Online,5,3,5,13,Champions
+CUST0324,North,B2C,2024-09-16,16,11651.76,106,Bulk Pack,Online,4,2,3,9,Potential Loyalists
+CUST0325,North,Enterprise,2024-08-01,10,5187.14,152,Economy Pack,Retail,3,1,2,6,Hibernating
+CUST0326,North,B2B,2024-12-28,38,11138.45,3,Standard Pack,Field Sales,5,4,3,12,Loyal Customers
+CUST0327,West,B2B,2024-03-02,49,9677.71,304,Standard Pack,Online,1,5,2,8,Needs Attention
+CUST0328,West,B2C,2024-06-08,25,1373.16,206,Bulk Pack,Distributor,3,3,1,7,Potential Loyalists
+CUST0329,East,B2C,2024-04-06,34,14488.35,269,Bulk Pack,Retail,2,4,3,9,Needs Attention
+CUST0330,North,B2B,2024-09-08,5,23373.65,114,Premium Pack,Retail,4,1,4,9,Potential Loyalists
+CUST0331,East,B2B,2024-05-11,2,1210.01,234,Economy Pack,Distributor,2,1,1,4,Hibernating
+CUST0332,North,B2B,2024-09-27,9,21330.52,95,Trial Pack,Retail,4,1,4,9,Potential Loyalists
+CUST0333,North,B2C,2024-11-20,25,575.64,41,Bulk Pack,Online,5,3,1,9,Potential Loyalists
+CUST0334,Central,B2B,2024-03-10,21,32757.11,296,Premium Pack,Online,1,3,5,9,Needs Attention
+CUST0335,West,B2B,2024-05-01,32,11714.19,244,Bulk Pack,Field Sales,2,4,3,9,Needs Attention
+CUST0336,South,B2C,2024-02-29,25,15386.3,306,Premium Pack,Online,1,3,3,7,Needs Attention
+CUST0337,East,B2C,2024-01-23,35,1834.15,343,Trial Pack,Online,1,4,1,6,Cannot Lose Them
+CUST0338,West,Enterprise,2024-12-16,25,21694.19,15,Trial Pack,Online,5,3,4,12,Loyal Customers
+CUST0339,North,B2C,2024-10-08,47,98219.71,84,Economy Pack,Field Sales,4,5,5,14,Champions
+CUST0340,South,B2C,2024-10-15,44,3111.91,77,Bulk Pack,Online,4,5,1,10,Loyal Customers
+CUST0341,East,B2B,2024-09-01,11,14072.88,121,Bulk Pack,Retail,4,2,3,9,Potential Loyalists
+CUST0342,East,B2C,2024-09-27,21,5573.78,95,Trial Pack,Field Sales,4,3,2,9,Potential Loyalists
+CUST0343,South,Enterprise,2024-07-12,30,1073.06,172,Trial Pack,Distributor,3,3,1,7,Potential Loyalists
+CUST0344,South,Enterprise,2024-12-24,14,21741.04,7,Economy Pack,Retail,5,2,4,11,Loyal Customers
+CUST0345,East,B2B,2024-05-29,25,86183.21,216,Standard Pack,Distributor,2,3,5,10,At Risk - High Value
+CUST0346,East,Enterprise,2024-12-11,11,5605.68,20,Bulk Pack,Field Sales,5,2,2,9,Potential Loyalists
+CUST0347,Central,B2C,2024-10-16,31,38959.32,76,Bulk Pack,Retail,4,4,5,13,Champions
+CUST0348,West,B2B,2024-03-06,13,6677.28,300,Economy Pack,Field Sales,1,2,2,5,Hibernating
+CUST0349,South,B2B,2024-04-09,6,28783.98,266,Bulk Pack,Field Sales,2,1,4,7,Needs Attention
+CUST0350,East,B2C,2024-01-04,30,22538.17,362,Economy Pack,Retail,1,3,4,8,Needs Attention
+CUST0351,West,Enterprise,2024-02-15,45,1727.64,320,Trial Pack,Distributor,1,5,1,7,Needs Attention
+CUST0352,Central,B2C,2024-09-21,32,901.75,101,Trial Pack,Retail,4,4,1,9,Potential Loyalists
+CUST0353,South,Enterprise,2024-09-01,46,1365.22,121,Bulk Pack,Field Sales,4,5,1,10,Loyal Customers
+CUST0354,East,B2B,2024-03-09,22,3290.48,297,Trial Pack,Retail,1,3,1,5,Hibernating
+CUST0355,Central,B2B,2024-10-03,37,16543.73,89,Premium Pack,Field Sales,4,4,3,11,Loyal Customers
+CUST0356,South,Enterprise,2024-03-27,8,5952.61,279,Premium Pack,Distributor,2,1,2,5,Hibernating
+CUST0357,North,B2B,2024-10-30,30,2585.9,62,Trial Pack,Distributor,5,3,1,9,Potential Loyalists
+CUST0358,South,Enterprise,2024-12-03,22,15246.08,28,Standard Pack,Distributor,5,3,3,11,Loyal Customers
+CUST0359,North,Enterprise,2024-03-21,46,47761.04,285,Premium Pack,Field Sales,2,5,5,12,At Risk - High Value
+CUST0360,Central,Enterprise,2024-05-15,18,558.77,230,Bulk Pack,Field Sales,2,2,1,5,Hibernating
+CUST0361,East,Enterprise,2024-07-22,16,17480.67,162,Bulk Pack,Distributor,3,2,3,8,Potential Loyalists
+CUST0362,Central,B2C,2024-05-24,8,31817.12,221,Trial Pack,Online,2,1,4,7,Needs Attention
+CUST0363,South,B2C,2024-09-26,4,1536.75,96,Bulk Pack,Online,4,1,1,6,New Customers
+CUST0364,East,Enterprise,2024-01-06,13,33925.92,360,Standard Pack,Online,1,2,5,8,Needs Attention
+CUST0365,South,Enterprise,2024-06-15,26,5980.86,199,Standard Pack,Distributor,3,3,2,8,Potential Loyalists
+CUST0366,South,B2B,2024-03-04,15,11488.11,302,Economy Pack,Retail,1,2,3,6,Hibernating
+CUST0367,North,B2C,2024-11-25,18,13278.79,36,Standard Pack,Distributor,5,2,3,10,Loyal Customers
+CUST0368,North,Enterprise,2024-05-09,44,7011.96,236,Trial Pack,Retail,2,5,2,9,Needs Attention
+CUST0369,East,B2C,2024-03-02,14,43669.86,304,Premium Pack,Online,1,2,5,8,Needs Attention
+CUST0370,South,B2B,2024-02-16,14,13131.87,319,Standard Pack,Retail,1,2,3,6,Hibernating
+CUST0371,South,B2C,2024-07-22,4,3719.63,162,Bulk Pack,Field Sales,3,1,1,5,Hibernating
+CUST0372,East,Enterprise,2024-04-14,11,8929.24,261,Economy Pack,Online,2,2,2,6,Hibernating
+CUST0373,South,Enterprise,2024-12-04,2,21861.25,27,Bulk Pack,Distributor,5,1,4,10,Loyal Customers
+CUST0374,Central,B2C,2024-06-09,31,1737.99,205,Premium Pack,Retail,3,4,1,8,Potential Loyalists
+CUST0375,West,B2C,2024-11-26,15,26599.23,35,Bulk Pack,Retail,5,2,4,11,Loyal Customers
+CUST0376,East,B2C,2024-12-09,24,2738.25,22,Standard Pack,Field Sales,5,3,1,9,Potential Loyalists
+CUST0377,East,Enterprise,2024-10-02,37,3645.47,90,Premium Pack,Distributor,4,4,1,9,Potential Loyalists
+CUST0378,North,B2B,2024-12-03,48,38265.94,28,Bulk Pack,Distributor,5,5,5,15,Champions
+CUST0379,West,B2C,2024-10-27,9,15944.01,65,Premium Pack,Field Sales,5,1,3,9,Potential Loyalists
+CUST0380,Central,B2B,2024-05-18,47,14879.34,227,Economy Pack,Distributor,2,5,3,10,At Risk - High Value
+CUST0381,East,B2B,2024-02-16,29,38602.99,319,Trial Pack,Retail,1,3,5,9,Needs Attention
+CUST0382,East,B2B,2024-05-26,9,16673.89,219,Trial Pack,Field Sales,2,1,3,6,Hibernating
+CUST0383,North,B2B,2024-02-26,11,9096.14,309,Standard Pack,Field Sales,1,2,2,5,Hibernating
+CUST0384,East,Enterprise,2024-12-15,13,29080.43,16,Standard Pack,Retail,5,2,4,11,Loyal Customers
+CUST0385,North,Enterprise,2024-01-16,19,8310.31,350,Trial Pack,Field Sales,1,2,2,5,Hibernating
+CUST0386,East,Enterprise,2024-01-02,41,39497.66,364,Economy Pack,Distributor,1,5,5,11,At Risk - High Value
+CUST0387,South,B2C,2024-04-19,39,5612.82,256,Economy Pack,Retail,2,4,2,8,Needs Attention
+CUST0388,Central,B2C,2024-10-24,7,35038.7,68,Premium Pack,Online,5,1,5,11,Loyal Customers
+CUST0389,West,Enterprise,2024-02-18,20,2617.52,317,Bulk Pack,Retail,1,3,1,5,Hibernating
+CUST0390,South,Enterprise,2024-05-20,10,57091.23,225,Premium Pack,Distributor,2,1,5,8,Needs Attention
+CUST0391,East,B2C,2024-02-25,45,56053.79,310,Premium Pack,Online,1,5,5,11,At Risk - High Value
+CUST0392,West,B2B,2024-07-17,14,13236.05,167,Bulk Pack,Distributor,3,2,3,8,Potential Loyalists
+CUST0393,East,Enterprise,2024-10-21,5,9004.66,71,Bulk Pack,Distributor,4,1,2,7,Potential Loyalists
+CUST0394,Central,Enterprise,2024-12-02,18,3543.93,29,Trial Pack,Retail,5,2,1,8,Potential Loyalists
+CUST0395,North,Enterprise,2024-10-03,20,17637.13,89,Standard Pack,Field Sales,4,3,3,10,Loyal Customers
+CUST0396,West,B2B,2024-10-03,20,38371.6,89,Bulk Pack,Distributor,4,3,5,12,Loyal Customers
+CUST0397,North,B2C,2024-05-20,29,28937.68,225,Economy Pack,Field Sales,2,3,4,9,Needs Attention
+CUST0398,East,Enterprise,2024-03-31,10,28689.81,275,Standard Pack,Retail,2,1,4,7,Needs Attention
+CUST0399,South,B2C,2024-09-15,21,38626.45,107,Standard Pack,Online,4,3,5,12,Loyal Customers
+CUST0400,East,B2C,2024-06-29,30,8836.27,185,Bulk Pack,Field Sales,3,3,2,8,Potential Loyalists
+CUST0401,Central,B2B,2024-03-07,9,9430.61,299,Trial Pack,Distributor,1,1,2,4,Hibernating
+CUST0402,West,B2B,2024-12-10,29,20209.12,21,Trial Pack,Distributor,5,3,4,12,Loyal Customers
+CUST0403,East,B2C,2024-07-05,4,7088.8,179,Trial Pack,Retail,3,1,2,6,Hibernating
+CUST0404,Central,B2B,2024-08-16,16,10755.73,137,Economy Pack,Distributor,4,2,3,9,Potential Loyalists
+CUST0405,South,B2C,2024-07-17,18,6910.81,167,Standard Pack,Retail,3,2,2,7,Potential Loyalists
+CUST0406,Central,B2B,2024-11-19,11,11007.68,42,Trial Pack,Retail,5,2,3,10,Loyal Customers
+CUST0407,West,Enterprise,2024-06-05,38,58926.2,209,Trial Pack,Distributor,3,4,5,12,At Risk - High Value
+CUST0408,North,B2C,2024-08-29,46,46350.35,124,Economy Pack,Distributor,4,5,5,14,Champions
+CUST0409,Central,B2C,2024-01-04,29,4355.92,362,Bulk Pack,Distributor,1,3,1,5,Hibernating
+CUST0410,North,B2C,2024-01-30,46,34990.88,336,Premium Pack,Field Sales,1,5,5,11,At Risk - High Value
+CUST0411,East,Enterprise,2024-07-16,7,32280.2,168,Premium Pack,Distributor,3,1,5,9,Potential Loyalists
+CUST0412,Central,B2C,2024-01-08,37,6736.64,358,Economy Pack,Online,1,4,2,7,Needs Attention
+CUST0413,East,Enterprise,2024-01-16,25,5607.96,350,Standard Pack,Field Sales,1,3,2,6,Hibernating
+CUST0414,West,B2B,2024-06-25,30,7990.05,189,Standard Pack,Online,3,4,2,9,Potential Loyalists
+CUST0415,North,Enterprise,2024-01-31,17,21079.27,335,Economy Pack,Distributor,1,2,4,7,Needs Attention
+CUST0416,South,B2B,2024-09-20,25,12540.43,102,Bulk Pack,Field Sales,4,3,3,10,Loyal Customers
+CUST0417,North,B2B,2024-02-21,37,5150.22,314,Standard Pack,Retail,1,4,2,7,Needs Attention
+CUST0418,North,B2C,2024-02-16,27,14759.17,319,Trial Pack,Field Sales,1,3,3,7,Needs Attention
+CUST0419,North,B2B,2024-09-09,15,49377.16,113,Premium Pack,Online,4,2,5,11,Loyal Customers
+CUST0420,West,B2C,2024-03-28,13,29025.36,278,Premium Pack,Online,2,2,4,8,Needs Attention
+CUST0421,South,B2B,2024-12-19,35,25567.06,12,Premium Pack,Field Sales,5,4,4,13,Champions
+CUST0422,South,Enterprise,2024-09-16,43,6054.28,106,Standard Pack,Distributor,4,5,2,11,Loyal Customers
+CUST0423,East,B2B,2024-08-01,28,8880.62,152,Standard Pack,Retail,3,3,2,8,Potential Loyalists
+CUST0424,West,Enterprise,2024-01-30,42,59377.24,336,Bulk Pack,Retail,1,5,5,11,At Risk - High Value
+CUST0425,East,B2C,2024-01-13,6,34385.8,353,Premium Pack,Distributor,1,1,5,7,Needs Attention
+CUST0426,South,Enterprise,2024-01-25,6,1478.58,341,Trial Pack,Distributor,1,1,1,3,Hibernating
+CUST0427,West,Enterprise,2024-10-23,19,30310.19,69,Trial Pack,Retail,5,2,4,11,Loyal Customers
+CUST0428,East,B2C,2024-04-06,37,31167.77,269,Trial Pack,Distributor,2,4,4,10,At Risk - High Value
+CUST0429,East,B2C,2024-12-06,39,63630.86,25,Bulk Pack,Distributor,5,4,5,14,Champions
+CUST0430,South,Enterprise,2024-01-30,36,2823.2,336,Standard Pack,Distributor,1,4,1,6,Cannot Lose Them
+CUST0431,West,Enterprise,2024-02-09,4,63918.16,326,Standard Pack,Online,1,1,5,7,Needs Attention
+CUST0432,Central,B2C,2024-02-06,47,5617.65,329,Trial Pack,Retail,1,5,2,8,Needs Attention
+CUST0433,North,B2B,2024-02-25,35,37284.18,310,Premium Pack,Retail,1,4,5,10,At Risk - High Value
+CUST0434,East,Enterprise,2024-06-02,13,17461.97,212,Trial Pack,Field Sales,3,2,3,8,Potential Loyalists
+CUST0435,North,B2B,2024-03-08,26,5322.28,298,Bulk Pack,Field Sales,1,3,2,6,Hibernating
+CUST0436,West,B2B,2024-05-04,11,726.29,241,Economy Pack,Distributor,2,2,1,5,Hibernating
+CUST0437,Central,B2C,2024-10-01,35,37262.66,91,Economy Pack,Field Sales,4,4,5,13,Champions
+CUST0438,South,Enterprise,2024-05-02,45,39869.81,243,Bulk Pack,Retail,2,5,5,12,At Risk - High Value
+CUST0439,West,Enterprise,2024-04-07,1,10134.95,268,Premium Pack,Field Sales,2,1,2,5,Hibernating
+CUST0440,Central,B2B,2024-10-03,42,6044.62,89,Bulk Pack,Retail,4,5,2,11,Loyal Customers
+CUST0441,Central,B2B,2024-09-16,40,24610.03,106,Premium Pack,Distributor,4,5,4,13,Champions
+CUST0442,West,Enterprise,2024-03-12,9,6597.94,294,Trial Pack,Online,1,1,2,4,Hibernating
+CUST0443,East,Enterprise,2024-05-12,41,4556.65,233,Bulk Pack,Distributor,2,5,2,9,Needs Attention
+CUST0444,West,Enterprise,2024-06-18,4,47094.05,196,Economy Pack,Field Sales,3,1,5,9,Potential Loyalists
+CUST0445,West,B2B,2024-01-29,39,2347.42,337,Premium Pack,Online,1,4,1,6,Cannot Lose Them
+CUST0446,East,Enterprise,2024-05-21,35,3505.81,224,Standard Pack,Distributor,2,4,1,7,Needs Attention
+CUST0447,Central,B2B,2024-05-15,25,24811.32,230,Premium Pack,Online,2,3,4,9,Needs Attention
+CUST0448,West,B2B,2024-05-31,46,5797.68,214,Economy Pack,Field Sales,3,5,2,10,At Risk - High Value
+CUST0449,North,Enterprise,2024-10-19,33,25536.08,73,Bulk Pack,Field Sales,4,4,4,12,Loyal Customers
+CUST0450,Central,B2B,2024-05-05,39,20502.43,240,Economy Pack,Online,2,4,4,10,At Risk - High Value
+CUST0451,West,Enterprise,2024-07-26,40,668.62,158,Premium Pack,Online,3,5,1,9,Potential Loyalists
+CUST0452,South,B2C,2024-07-22,21,3556.22,162,Standard Pack,Online,3,3,1,7,Potential Loyalists
+CUST0453,Central,B2B,2024-09-01,13,69690.25,121,Bulk Pack,Online,4,2,5,11,Loyal Customers
+CUST0454,East,Enterprise,2024-01-12,49,30222.51,354,Bulk Pack,Field Sales,1,5,4,10,At Risk - High Value
+CUST0455,West,B2C,2024-05-15,40,8649.98,230,Economy Pack,Retail,2,5,2,9,Needs Attention
+CUST0456,East,B2C,2024-12-28,15,11324.33,3,Economy Pack,Distributor,5,2,3,10,Loyal Customers
+CUST0457,West,B2B,2024-05-15,20,12239.58,230,Premium Pack,Distributor,2,3,3,8,Needs Attention
+CUST0458,North,B2B,2024-03-01,27,12794.03,305,Economy Pack,Field Sales,1,3,3,7,Needs Attention
+CUST0459,South,B2B,2024-07-16,19,44878.09,168,Premium Pack,Field Sales,3,2,5,10,At Risk - High Value
+CUST0460,South,B2B,2024-09-07,22,30099.53,115,Trial Pack,Online,4,3,4,11,Loyal Customers
+CUST0461,East,B2B,2024-04-22,14,22107.21,253,Bulk Pack,Field Sales,2,2,4,8,Needs Attention
+CUST0462,South,B2B,2024-02-05,39,22452.78,330,Economy Pack,Retail,1,4,4,9,Needs Attention
+CUST0463,South,B2B,2024-04-02,36,4324.24,273,Standard Pack,Online,2,4,1,7,Needs Attention
+CUST0464,East,B2C,2024-01-27,7,13393.33,339,Economy Pack,Field Sales,1,1,3,5,Hibernating
+CUST0465,East,B2C,2024-10-25,30,4643.72,67,Premium Pack,Distributor,5,4,2,11,Loyal Customers
+CUST0466,Central,Enterprise,2024-10-20,27,4563.5,72,Trial Pack,Online,4,3,2,9,Potential Loyalists
+CUST0467,North,B2C,2024-05-11,5,7363.47,234,Bulk Pack,Retail,2,1,2,5,Hibernating
+CUST0468,Central,B2C,2024-08-03,30,6383.37,150,Trial Pack,Online,3,4,2,9,Potential Loyalists
+CUST0469,North,Enterprise,2024-04-10,47,23316.07,265,Premium Pack,Distributor,2,5,4,11,At Risk - High Value
+CUST0470,Central,Enterprise,2024-02-20,6,21146.31,315,Bulk Pack,Online,1,1,4,6,Hibernating
+CUST0471,Central,Enterprise,2024-02-09,31,13089.56,326,Trial Pack,Field Sales,1,4,3,8,Needs Attention
+CUST0472,West,Enterprise,2024-02-10,49,6775.5,325,Economy Pack,Distributor,1,5,2,8,Needs Attention
+CUST0473,Central,Enterprise,2024-06-09,12,6451.9,205,Premium Pack,Field Sales,3,2,2,7,Potential Loyalists
+CUST0474,West,B2B,2024-08-12,13,4276.38,141,Trial Pack,Online,3,2,1,6,Hibernating
+CUST0475,West,B2C,2024-01-29,35,1862.71,337,Premium Pack,Distributor,1,4,1,6,Cannot Lose Them
+CUST0476,South,B2B,2024-06-07,23,23621.32,207,Standard Pack,Distributor,3,3,4,10,At Risk - High Value
+CUST0477,South,B2B,2024-09-20,7,22910.56,102,Premium Pack,Distributor,4,1,4,9,Potential Loyalists
+CUST0478,North,Enterprise,2024-07-15,7,20133.58,169,Standard Pack,Distributor,3,1,4,8,Potential Loyalists
+CUST0479,Central,B2B,2024-11-30,16,34541.92,31,Economy Pack,Field Sales,5,2,5,12,Loyal Customers
+CUST0480,East,B2C,2024-02-25,7,71553.9,310,Standard Pack,Online,1,1,5,7,Needs Attention
+CUST0481,East,Enterprise,2024-07-10,16,3912.18,174,Standard Pack,Field Sales,3,2,1,6,Hibernating
+CUST0482,Central,Enterprise,2024-08-21,49,2233.05,132,Standard Pack,Retail,4,5,1,10,Loyal Customers
+CUST0483,South,B2B,2024-04-14,35,11142.77,261,Trial Pack,Retail,2,4,3,9,Needs Attention
+CUST0484,East,B2C,2024-09-02,1,81658.31,120,Economy Pack,Online,4,1,5,10,Loyal Customers
+CUST0485,South,Enterprise,2024-09-07,13,26537.32,115,Standard Pack,Retail,4,2,4,10,Loyal Customers
+CUST0486,Central,B2C,2024-03-27,30,20530.69,279,Economy Pack,Retail,2,4,4,10,At Risk - High Value
+CUST0487,East,Enterprise,2024-02-11,32,7989.86,324,Economy Pack,Distributor,1,4,2,7,Needs Attention
+CUST0488,North,B2B,2024-01-05,2,17456.96,361,Standard Pack,Field Sales,1,1,3,5,Hibernating
+CUST0489,North,Enterprise,2024-12-13,47,7747.15,18,Trial Pack,Field Sales,5,5,2,12,Loyal Customers
+CUST0490,Central,B2C,2024-12-06,47,905.91,25,Trial Pack,Field Sales,5,5,1,11,Loyal Customers
+CUST0491,Central,B2C,2024-05-30,36,27976.62,215,Standard Pack,Distributor,3,4,4,11,At Risk - High Value
+CUST0492,South,B2B,2024-03-06,30,23582.82,300,Economy Pack,Retail,1,4,4,9,Needs Attention
+CUST0493,Central,B2C,2024-10-19,40,17760.53,73,Bulk Pack,Distributor,4,5,3,12,Loyal Customers
+CUST0494,East,B2B,2024-08-17,13,2950.52,136,Bulk Pack,Retail,4,2,1,7,Potential Loyalists
+CUST0495,West,Enterprise,2024-04-24,24,991.04,251,Economy Pack,Field Sales,2,3,1,6,Hibernating
+CUST0496,North,Enterprise,2024-04-06,37,23232.69,269,Standard Pack,Distributor,2,4,4,10,At Risk - High Value
+CUST0497,West,B2B,2024-06-26,17,6853.52,188,Premium Pack,Field Sales,3,2,2,7,Potential Loyalists
+CUST0498,East,B2C,2024-12-26,4,12919.56,5,Economy Pack,Retail,5,1,3,9,Potential Loyalists
+CUST0499,West,B2B,2024-04-27,45,22544.44,248,Trial Pack,Retail,2,5,4,11,At Risk - High Value
+CUST0500,South,Enterprise,2024-06-17,21,7863.7,197,Standard Pack,Field Sales,3,3,2,8,Potential Loyalists
+CUST0501,Central,Enterprise,2024-01-12,48,27923.69,354,Trial Pack,Field Sales,1,5,4,10,At Risk - High Value
+CUST0502,Central,B2C,2024-01-14,9,12220.38,352,Premium Pack,Online,1,1,3,5,Hibernating
+CUST0503,West,B2C,2024-01-12,7,39008.54,354,Standard Pack,Online,1,1,5,7,Needs Attention
+CUST0504,West,B2C,2024-04-07,6,17678.95,268,Trial Pack,Online,2,1,3,6,Hibernating
+CUST0505,West,B2B,2024-08-25,6,6376.4,128,Standard Pack,Retail,4,1,2,7,Potential Loyalists
+CUST0506,North,B2C,2024-08-15,23,15658.01,138,Bulk Pack,Retail,4,3,3,10,Loyal Customers
+CUST0507,East,B2B,2024-01-14,47,65787.24,352,Economy Pack,Online,1,5,5,11,At Risk - High Value
+CUST0508,East,Enterprise,2024-06-23,14,7725.95,191,Trial Pack,Distributor,3,2,2,7,Potential Loyalists
+CUST0509,South,Enterprise,2024-04-14,47,11196.53,261,Bulk Pack,Field Sales,2,5,3,10,At Risk - High Value
+CUST0510,West,Enterprise,2024-03-19,41,38673.29,287,Trial Pack,Online,1,5,5,11,At Risk - High Value
+CUST0511,Central,Enterprise,2024-11-12,37,2933.46,49,Premium Pack,Online,5,4,1,10,Loyal Customers
+CUST0512,West,B2C,2024-04-04,7,30048.93,271,Trial Pack,Retail,2,1,4,7,Needs Attention
+CUST0513,Central,B2C,2024-01-04,19,31220.61,362,Economy Pack,Online,1,2,4,7,Needs Attention
+CUST0514,Central,B2C,2024-04-30,13,25705.67,245,Standard Pack,Retail,2,2,4,8,Needs Attention
+CUST0515,North,B2C,2024-12-07,29,20530.89,24,Premium Pack,Retail,5,3,4,12,Loyal Customers
+CUST0516,West,B2C,2024-03-14,7,20371.49,292,Standard Pack,Field Sales,1,1,4,6,Hibernating
+CUST0517,North,B2C,2024-06-30,30,5797.78,184,Premium Pack,Online,3,4,2,9,Potential Loyalists
+CUST0518,West,B2B,2024-07-22,8,785.29,162,Economy Pack,Field Sales,3,1,1,5,Hibernating
+CUST0519,East,Enterprise,2024-10-05,33,29376.44,87,Bulk Pack,Distributor,4,4,4,12,Loyal Customers
+CUST0520,South,B2B,2024-06-17,49,5663.04,197,Standard Pack,Distributor,3,5,2,10,At Risk - High Value
+CUST0521,South,B2B,2024-09-15,49,1709.04,107,Trial Pack,Retail,4,5,1,10,Loyal Customers
+CUST0522,West,Enterprise,2024-08-01,38,15596.73,152,Bulk Pack,Field Sales,3,4,3,10,At Risk - High Value
+CUST0523,North,B2B,2024-01-02,39,41010.53,364,Standard Pack,Field Sales,1,4,5,10,At Risk - High Value
+CUST0524,Central,Enterprise,2024-06-10,3,45546.19,204,Economy Pack,Field Sales,3,1,5,9,Potential Loyalists
+CUST0525,North,B2B,2024-12-04,35,13892.74,27,Standard Pack,Distributor,5,4,3,12,Loyal Customers
+CUST0526,East,B2B,2024-12-12,16,96361.52,19,Economy Pack,Online,5,2,5,12,Loyal Customers
+CUST0527,South,B2B,2024-11-13,20,36219.54,48,Standard Pack,Retail,5,3,5,13,Champions
+CUST0528,West,Enterprise,2024-05-27,10,7275.5,218,Standard Pack,Field Sales,2,1,2,5,Hibernating
+CUST0529,South,B2B,2024-08-18,38,5995.02,135,Economy Pack,Retail,4,4,2,10,Loyal Customers
+CUST0530,West,Enterprise,2024-03-05,12,79135.54,301,Trial Pack,Retail,1,2,5,8,Needs Attention
+CUST0531,North,B2B,2024-07-08,34,7966.94,176,Trial Pack,Retail,3,4,2,9,Potential Loyalists
+CUST0532,West,B2B,2024-02-08,37,37830.03,327,Premium Pack,Retail,1,4,5,10,At Risk - High Value
+CUST0533,East,B2B,2024-03-24,11,15674.5,282,Premium Pack,Distributor,2,2,3,7,Needs Attention
+CUST0534,North,B2B,2024-03-28,6,4404.9,278,Bulk Pack,Field Sales,2,1,1,4,Hibernating
+CUST0535,North,B2C,2024-08-13,7,7402.38,140,Premium Pack,Field Sales,4,1,2,7,Potential Loyalists
+CUST0536,South,B2C,2024-05-13,41,59119.03,232,Economy Pack,Online,2,5,5,12,At Risk - High Value
+CUST0537,North,B2C,2024-04-18,37,32964.68,257,Bulk Pack,Online,2,4,5,11,At Risk - High Value
+CUST0538,South,B2B,2024-01-08,39,11398.35,358,Bulk Pack,Online,1,4,3,8,Needs Attention
+CUST0539,South,B2B,2024-09-15,34,80459.5,107,Premium Pack,Online,4,4,5,13,Champions
+CUST0540,North,B2C,2024-03-18,30,21608.79,288,Economy Pack,Field Sales,1,4,4,9,Needs Attention
+CUST0541,North,B2B,2024-03-28,19,32254.4,278,Bulk Pack,Distributor,2,2,5,9,Needs Attention
+CUST0542,South,B2C,2024-05-01,19,8109.7,244,Premium Pack,Distributor,2,2,2,6,Hibernating
+CUST0543,Central,B2B,2024-09-20,13,5118.11,102,Trial Pack,Distributor,4,2,2,8,Potential Loyalists
+CUST0544,West,B2C,2024-09-28,10,96283.43,94,Bulk Pack,Field Sales,4,1,5,10,Loyal Customers
+CUST0545,South,B2B,2024-04-19,38,25485.37,256,Economy Pack,Field Sales,2,4,4,10,At Risk - High Value
+CUST0546,Central,B2B,2024-04-27,12,8692.12,248,Premium Pack,Field Sales,2,2,2,6,Hibernating
+CUST0547,South,B2B,2024-08-05,45,37296.56,148,Economy Pack,Online,3,5,5,13,Champions
+CUST0548,North,B2C,2024-12-21,45,5311.35,10,Premium Pack,Retail,5,5,2,12,Loyal Customers
+CUST0549,North,Enterprise,2024-12-14,28,14005.44,17,Economy Pack,Field Sales,5,3,3,11,Loyal Customers
+CUST0550,Central,B2C,2024-08-15,34,5437.74,138,Standard Pack,Distributor,4,4,2,10,Loyal Customers
+CUST0551,Central,B2C,2024-11-03,18,45985.36,58,Premium Pack,Distributor,5,2,5,12,Loyal Customers
+CUST0552,East,B2C,2024-07-30,41,532.14,154,Premium Pack,Field Sales,3,5,1,9,Potential Loyalists
+CUST0553,East,Enterprise,2024-02-17,47,2705.48,318,Economy Pack,Online,1,5,1,7,Needs Attention
+CUST0554,Central,B2B,2024-01-28,33,18837.56,338,Premium Pack,Field Sales,1,4,3,8,Needs Attention
+CUST0555,North,Enterprise,2024-07-03,1,29423.61,181,Bulk Pack,Retail,3,1,4,8,Potential Loyalists
+CUST0556,West,Enterprise,2024-06-17,39,16140.13,197,Economy Pack,Online,3,4,3,10,At Risk - High Value
+CUST0557,East,B2C,2024-07-09,47,27518.19,175,Trial Pack,Field Sales,3,5,4,12,At Risk - High Value
+CUST0558,East,B2B,2024-03-29,26,13793.13,277,Trial Pack,Distributor,2,3,3,8,Needs Attention
+CUST0559,East,B2C,2024-01-30,35,45630.99,336,Premium Pack,Online,1,4,5,10,At Risk - High Value
+CUST0560,South,B2B,2024-11-20,32,5430.39,41,Premium Pack,Distributor,5,4,2,11,Loyal Customers
+CUST0561,West,Enterprise,2024-09-21,12,29309.01,101,Premium Pack,Retail,4,2,4,10,Loyal Customers
+CUST0562,East,B2B,2024-01-30,28,35999.44,336,Standard Pack,Distributor,1,3,5,9,Needs Attention
+CUST0563,South,B2C,2024-11-04,3,34400.56,57,Standard Pack,Online,5,1,5,11,Loyal Customers
+CUST0564,South,Enterprise,2024-10-06,32,9068.0,86,Economy Pack,Online,4,4,2,10,Loyal Customers
+CUST0565,Central,B2C,2024-04-17,3,3735.17,258,Economy Pack,Retail,2,1,1,4,Hibernating
+CUST0566,North,B2B,2024-10-10,49,2609.42,82,Premium Pack,Distributor,4,5,1,10,Loyal Customers
+CUST0567,West,B2C,2024-11-10,38,8216.18,51,Premium Pack,Field Sales,5,4,2,11,Loyal Customers
+CUST0568,West,B2B,2024-07-30,6,14426.85,154,Economy Pack,Distributor,3,1,3,7,Potential Loyalists
+CUST0569,Central,B2B,2024-11-15,6,38460.96,46,Bulk Pack,Field Sales,5,1,5,11,Loyal Customers
+CUST0570,South,B2C,2024-01-06,40,833.48,360,Standard Pack,Online,1,5,1,7,Needs Attention
+CUST0571,West,B2B,2024-09-23,6,5838.13,99,Bulk Pack,Retail,4,1,2,7,Potential Loyalists
+CUST0572,Central,B2B,2024-06-16,40,38398.1,198,Trial Pack,Retail,3,5,5,13,Champions
+CUST0573,West,B2B,2024-09-05,35,3730.97,117,Economy Pack,Distributor,4,4,1,9,Potential Loyalists
+CUST0574,West,Enterprise,2024-04-01,36,35195.92,274,Bulk Pack,Field Sales,2,4,5,11,At Risk - High Value
+CUST0575,North,Enterprise,2024-09-09,37,17904.07,113,Economy Pack,Online,4,4,3,11,Loyal Customers
+CUST0576,South,Enterprise,2024-12-22,37,14298.96,9,Premium Pack,Retail,5,4,3,12,Loyal Customers
+CUST0577,West,B2B,2024-05-15,7,44735.91,230,Trial Pack,Distributor,2,1,5,8,Needs Attention
+CUST0578,South,Enterprise,2024-01-15,39,14378.97,351,Trial Pack,Retail,1,4,3,8,Needs Attention
+CUST0579,Central,B2C,2024-03-21,43,13567.61,285,Economy Pack,Retail,2,5,3,10,At Risk - High Value
+CUST0580,West,Enterprise,2024-08-11,6,20846.53,142,Trial Pack,Retail,3,1,4,8,Potential Loyalists
+CUST0581,South,B2C,2024-11-22,28,22285.76,39,Premium Pack,Retail,5,3,4,12,Loyal Customers
+CUST0582,South,B2C,2024-08-20,3,2435.03,133,Bulk Pack,Online,4,1,1,6,New Customers
+CUST0583,South,B2C,2024-12-02,48,28834.1,29,Economy Pack,Distributor,5,5,4,14,Champions
+CUST0584,East,Enterprise,2024-12-29,26,3940.66,2,Standard Pack,Retail,5,3,1,9,Potential Loyalists
+CUST0585,North,B2C,2024-11-11,21,33410.94,50,Standard Pack,Distributor,5,3,5,13,Champions
+CUST0586,West,Enterprise,2024-02-29,43,18406.33,306,Economy Pack,Field Sales,1,5,3,9,Needs Attention
+CUST0587,South,Enterprise,2024-06-14,18,1716.51,200,Premium Pack,Online,3,2,1,6,Hibernating
+CUST0588,West,B2C,2024-11-02,3,34200.68,59,Standard Pack,Online,5,1,5,11,Loyal Customers
+CUST0589,West,Enterprise,2024-04-10,7,18944.94,265,Bulk Pack,Online,2,1,3,6,Hibernating
+CUST0590,West,B2C,2024-09-14,44,33867.33,108,Bulk Pack,Online,4,5,5,14,Champions
+CUST0591,Central,B2C,2024-04-18,9,16320.92,257,Bulk Pack,Retail,2,1,3,6,Hibernating
+CUST0592,East,Enterprise,2024-10-05,35,35580.28,87,Standard Pack,Retail,4,4,5,13,Champions
+CUST0593,East,Enterprise,2024-07-12,4,49502.49,172,Trial Pack,Field Sales,3,1,5,9,Potential Loyalists
+CUST0594,East,B2C,2024-09-25,8,21997.11,97,Trial Pack,Distributor,4,1,4,9,Potential Loyalists
+CUST0595,East,Enterprise,2024-06-04,35,79999.19,210,Premium Pack,Distributor,3,4,5,12,At Risk - High Value
+CUST0596,South,B2C,2024-05-31,42,31333.06,214,Premium Pack,Online,3,5,4,12,At Risk - High Value
+CUST0597,East,B2B,2024-12-11,9,15267.26,20,Standard Pack,Field Sales,5,1,3,9,Potential Loyalists
+CUST0598,South,Enterprise,2024-05-09,8,24948.45,236,Trial Pack,Distributor,2,1,4,7,Needs Attention
+CUST0599,North,Enterprise,2024-03-24,6,2204.3,282,Premium Pack,Online,2,1,1,4,Hibernating
+CUST0600,South,B2C,2024-01-24,28,34025.73,342,Standard Pack,Field Sales,1,3,5,9,Needs Attention
+CUST0601,East,B2C,2024-11-20,26,17104.5,41,Economy Pack,Field Sales,5,3,3,11,Loyal Customers
+CUST0602,West,B2B,2024-08-13,14,5039.47,140,Economy Pack,Online,4,2,2,8,Potential Loyalists
+CUST0603,Central,B2B,2024-07-09,39,15511.38,175,Standard Pack,Retail,3,4,3,10,At Risk - High Value
+CUST0604,Central,Enterprise,2024-01-03,26,4006.21,363,Bulk Pack,Online,1,3,1,5,Hibernating
+CUST0605,West,B2C,2024-07-24,19,19160.08,160,Bulk Pack,Field Sales,3,2,3,8,Potential Loyalists
+CUST0606,Central,B2B,2024-08-08,39,1994.06,145,Economy Pack,Field Sales,3,4,1,8,Potential Loyalists
+CUST0607,West,Enterprise,2024-02-26,2,55439.62,309,Premium Pack,Distributor,1,1,5,7,Needs Attention
+CUST0608,East,Enterprise,2024-12-27,48,38075.72,4,Trial Pack,Retail,5,5,5,15,Champions
+CUST0609,South,B2C,2024-07-24,49,91048.18,160,Economy Pack,Field Sales,3,5,5,13,Champions
+CUST0610,South,B2B,2024-07-17,16,39594.69,167,Standard Pack,Retail,3,2,5,10,At Risk - High Value
+CUST0611,East,B2B,2024-10-19,22,4062.63,73,Trial Pack,Retail,4,3,1,8,Potential Loyalists
+CUST0612,Central,B2C,2024-09-13,25,1729.47,109,Standard Pack,Field Sales,4,3,1,8,Potential Loyalists
+CUST0613,East,Enterprise,2024-11-29,49,60724.26,32,Bulk Pack,Retail,5,5,5,15,Champions
+CUST0614,North,B2C,2024-07-04,34,15358.82,180,Trial Pack,Field Sales,3,4,3,10,At Risk - High Value
+CUST0615,South,B2C,2024-03-09,34,2496.47,297,Bulk Pack,Distributor,1,4,1,6,Cannot Lose Them
+CUST0616,East,Enterprise,2024-03-02,35,38715.98,304,Economy Pack,Online,1,4,5,10,At Risk - High Value
+CUST0617,Central,B2C,2024-05-14,19,7565.27,231,Standard Pack,Retail,2,2,2,6,Hibernating
+CUST0618,West,B2B,2024-09-22,8,58521.44,100,Bulk Pack,Field Sales,4,1,5,10,Loyal Customers
+CUST0619,North,Enterprise,2024-08-28,22,1303.43,125,Bulk Pack,Retail,4,3,1,8,Potential Loyalists
+CUST0620,East,Enterprise,2024-09-18,17,20311.95,104,Economy Pack,Field Sales,4,2,4,10,Loyal Customers
+CUST0621,North,B2B,2024-04-24,31,582.43,251,Standard Pack,Distributor,2,4,1,7,Needs Attention
+CUST0622,South,B2B,2024-10-01,45,14731.7,91,Economy Pack,Field Sales,4,5,3,12,Loyal Customers
+CUST0623,East,Enterprise,2024-07-08,32,22851.23,176,Trial Pack,Online,3,4,4,11,At Risk - High Value
+CUST0624,North,B2B,2024-05-02,22,21522.16,243,Trial Pack,Retail,2,3,4,9,Needs Attention
+CUST0625,West,B2B,2024-12-02,43,3916.46,29,Economy Pack,Retail,5,5,1,11,Loyal Customers
+CUST0626,North,B2C,2024-12-11,17,26920.79,20,Economy Pack,Online,5,2,4,11,Loyal Customers
+CUST0627,Central,Enterprise,2024-05-24,42,37726.36,221,Bulk Pack,Retail,2,5,5,12,At Risk - High Value
+CUST0628,South,B2B,2024-09-06,49,4071.57,116,Standard Pack,Distributor,4,5,1,10,Loyal Customers
+CUST0629,East,B2B,2024-07-15,37,12183.95,169,Economy Pack,Distributor,3,4,3,10,At Risk - High Value
+CUST0630,West,B2B,2024-08-19,10,9819.4,134,Economy Pack,Field Sales,4,2,2,8,Potential Loyalists
+CUST0631,West,B2B,2024-02-26,25,41101.88,309,Trial Pack,Online,1,3,5,9,Needs Attention
+CUST0632,South,Enterprise,2024-08-08,5,3668.17,145,Bulk Pack,Distributor,3,1,1,5,Hibernating
+CUST0633,West,B2C,2024-03-01,43,16530.89,305,Premium Pack,Online,1,5,3,9,Needs Attention
+CUST0634,East,B2B,2024-06-30,27,22452.72,184,Standard Pack,Field Sales,3,3,4,10,At Risk - High Value
+CUST0635,South,B2B,2024-02-02,35,10275.7,333,Standard Pack,Distributor,1,4,2,7,Needs Attention
+CUST0636,North,Enterprise,2024-12-15,11,75803.07,16,Bulk Pack,Distributor,5,2,5,12,Loyal Customers
+CUST0637,West,B2C,2024-12-27,35,7956.79,4,Economy Pack,Distributor,5,4,2,11,Loyal Customers
+CUST0638,West,B2C,2024-07-22,33,3320.52,162,Standard Pack,Field Sales,3,4,1,8,Potential Loyalists
+CUST0639,North,Enterprise,2024-10-01,28,2682.07,91,Bulk Pack,Distributor,4,3,1,8,Potential Loyalists
+CUST0640,East,B2C,2024-04-11,46,21688.58,264,Bulk Pack,Distributor,2,5,4,11,At Risk - High Value
+CUST0641,West,Enterprise,2024-03-26,42,13219.42,280,Standard Pack,Distributor,2,5,3,10,At Risk - High Value
+CUST0642,East,Enterprise,2024-04-11,29,6463.44,264,Premium Pack,Retail,2,3,2,7,Needs Attention
+CUST0643,East,Enterprise,2024-09-26,7,24049.8,96,Premium Pack,Field Sales,4,1,4,9,Potential Loyalists
+CUST0644,Central,B2B,2024-04-22,2,3329.09,253,Trial Pack,Distributor,2,1,1,4,Hibernating
+CUST0645,Central,B2B,2024-05-31,10,6961.2,214,Premium Pack,Retail,3,2,2,7,Potential Loyalists
+CUST0646,North,Enterprise,2024-01-23,7,14085.12,343,Bulk Pack,Distributor,1,1,3,5,Hibernating
+CUST0647,West,B2C,2024-11-25,27,5236.47,36,Premium Pack,Retail,5,3,2,10,Loyal Customers
+CUST0648,North,Enterprise,2024-10-22,46,5503.48,70,Trial Pack,Distributor,5,5,2,12,Loyal Customers
+CUST0649,Central,B2C,2024-03-29,15,23327.24,277,Standard Pack,Distributor,2,2,4,8,Needs Attention
+CUST0650,East,B2C,2024-06-05,38,3156.29,209,Premium Pack,Retail,3,4,1,8,Potential Loyalists
+CUST0651,North,B2C,2024-12-20,24,47756.25,11,Bulk Pack,Retail,5,3,5,13,Champions
+CUST0652,Central,B2C,2024-03-16,34,45374.72,290,Bulk Pack,Online,1,4,5,10,At Risk - High Value
+CUST0653,East,B2C,2024-01-19,47,4529.27,347,Bulk Pack,Online,1,5,1,7,Needs Attention
+CUST0654,Central,Enterprise,2024-07-18,34,96266.36,166,Premium Pack,Online,3,4,5,12,At Risk - High Value
+CUST0655,North,B2B,2024-03-19,28,19363.8,287,Bulk Pack,Field Sales,1,3,3,7,Needs Attention
+CUST0656,Central,B2C,2024-02-24,24,9933.21,311,Economy Pack,Online,1,3,2,6,Hibernating
+CUST0657,Central,B2B,2024-09-02,45,3267.91,120,Trial Pack,Distributor,4,5,1,10,Loyal Customers
+CUST0658,East,B2C,2024-06-01,12,3969.54,213,Standard Pack,Field Sales,3,2,1,6,Hibernating
+CUST0659,South,B2C,2024-08-28,27,17625.2,125,Premium Pack,Retail,4,3,3,10,Loyal Customers
+CUST0660,West,B2B,2024-06-02,8,11348.67,212,Trial Pack,Distributor,3,1,3,7,Potential Loyalists
+CUST0661,North,Enterprise,2024-01-08,17,20139.37,358,Premium Pack,Online,1,2,4,7,Needs Attention
+CUST0662,North,B2B,2024-12-03,26,46321.36,28,Standard Pack,Distributor,5,3,5,13,Champions
+CUST0663,South,B2C,2024-12-30,40,33986.22,1,Bulk Pack,Retail,5,5,5,15,Champions
+CUST0664,West,B2C,2024-07-20,10,30370.22,164,Bulk Pack,Field Sales,3,2,4,9,Potential Loyalists
+CUST0665,East,B2B,2024-09-01,11,26558.91,121,Bulk Pack,Distributor,4,2,4,10,Loyal Customers
+CUST0666,North,Enterprise,2024-03-02,35,20862.28,304,Economy Pack,Retail,1,4,4,9,Needs Attention
+CUST0667,Central,Enterprise,2024-11-16,8,43299.36,45,Standard Pack,Field Sales,5,1,5,11,Loyal Customers
+CUST0668,Central,B2C,2024-09-18,24,8181.19,104,Economy Pack,Distributor,4,3,2,9,Potential Loyalists
+CUST0669,West,Enterprise,2024-10-10,5,31597.08,82,Trial Pack,Retail,4,1,4,9,Potential Loyalists
+CUST0670,West,B2B,2024-11-02,38,1550.42,59,Economy Pack,Online,5,4,1,10,Loyal Customers
+CUST0671,Central,Enterprise,2024-03-09,20,8289.22,297,Trial Pack,Distributor,1,3,2,6,Hibernating
+CUST0672,South,B2C,2024-02-02,44,2354.46,333,Economy Pack,Online,1,5,1,7,Needs Attention
+CUST0673,Central,B2B,2024-08-06,42,3324.93,147,Bulk Pack,Retail,3,5,1,9,Potential Loyalists
+CUST0674,Central,Enterprise,2024-08-03,10,1420.18,150,Economy Pack,Distributor,3,2,1,6,Hibernating
+CUST0675,West,Enterprise,2024-03-02,46,45612.5,304,Bulk Pack,Retail,1,5,5,11,At Risk - High Value
+CUST0676,West,Enterprise,2024-05-16,19,23929.45,229,Standard Pack,Retail,2,2,4,8,Needs Attention
+CUST0677,South,B2C,2024-08-14,14,26434.67,139,Bulk Pack,Online,4,2,4,10,Loyal Customers
+CUST0678,East,B2B,2024-02-16,39,4681.54,319,Standard Pack,Online,1,4,2,7,Needs Attention
+CUST0679,North,B2B,2024-05-18,15,4316.29,227,Standard Pack,Distributor,2,2,1,5,Hibernating
+CUST0680,Central,B2B,2024-04-24,20,4688.9,251,Standard Pack,Online,2,3,2,7,Needs Attention
+CUST0681,East,B2C,2024-02-04,43,22390.04,331,Trial Pack,Field Sales,1,5,4,10,At Risk - High Value
+CUST0682,Central,Enterprise,2024-03-12,4,10264.39,294,Economy Pack,Retail,1,1,2,4,Hibernating
+CUST0683,West,Enterprise,2024-09-10,46,91127.8,112,Economy Pack,Online,4,5,5,14,Champions
+CUST0684,East,Enterprise,2024-02-18,41,14207.42,317,Premium Pack,Distributor,1,5,3,9,Needs Attention
+CUST0685,Central,B2C,2024-05-19,8,16105.95,226,Economy Pack,Field Sales,2,1,3,6,Hibernating
+CUST0686,South,Enterprise,2024-09-29,1,50058.78,93,Standard Pack,Field Sales,4,1,5,10,Loyal Customers
+CUST0687,East,B2B,2024-03-07,26,9851.77,299,Premium Pack,Distributor,1,3,2,6,Hibernating
+CUST0688,Central,B2B,2024-03-03,23,11446.21,303,Economy Pack,Distributor,1,3,3,7,Needs Attention
+CUST0689,South,B2C,2024-10-19,18,11959.35,73,Standard Pack,Online,4,2,3,9,Potential Loyalists
+CUST0690,North,Enterprise,2024-08-25,41,1885.25,128,Standard Pack,Field Sales,4,5,1,10,Loyal Customers
+CUST0691,South,B2B,2024-12-03,14,17619.84,28,Standard Pack,Field Sales,5,2,3,10,Loyal Customers
+CUST0692,West,Enterprise,2024-04-05,26,17155.38,270,Bulk Pack,Distributor,2,3,3,8,Needs Attention
+CUST0693,North,B2C,2024-09-01,45,2164.46,121,Trial Pack,Distributor,4,5,1,10,Loyal Customers
+CUST0694,West,Enterprise,2024-08-07,14,2500.51,146,Trial Pack,Online,3,2,1,6,Hibernating
+CUST0695,South,Enterprise,2024-11-13,15,21451.9,48,Bulk Pack,Distributor,5,2,4,11,Loyal Customers
+CUST0696,Central,B2C,2024-04-24,3,11526.71,251,Standard Pack,Field Sales,2,1,3,6,Hibernating
+CUST0697,East,Enterprise,2024-04-29,9,24362.19,246,Premium Pack,Online,2,1,4,7,Needs Attention
+CUST0698,South,Enterprise,2024-10-16,27,2492.17,76,Bulk Pack,Retail,4,3,1,8,Potential Loyalists
+CUST0699,North,Enterprise,2024-11-02,1,27267.31,59,Standard Pack,Retail,5,1,4,10,Loyal Customers
+CUST0700,South,Enterprise,2024-06-27,23,2765.03,187,Premium Pack,Retail,3,3,1,7,Potential Loyalists
+CUST0701,South,B2B,2024-01-03,2,10557.96,363,Premium Pack,Field Sales,1,1,3,5,Hibernating
+CUST0702,East,Enterprise,2024-03-31,28,16923.84,275,Bulk Pack,Retail,2,3,3,8,Needs Attention
+CUST0703,North,B2C,2024-11-03,17,6995.83,58,Trial Pack,Online,5,2,2,9,Potential Loyalists
+CUST0704,South,Enterprise,2024-12-08,5,23143.18,23,Standard Pack,Retail,5,1,4,10,Loyal Customers
+CUST0705,Central,B2B,2024-08-26,30,24334.44,127,Bulk Pack,Online,4,4,4,12,Loyal Customers
+CUST0706,East,B2B,2024-08-07,35,25241.79,146,Standard Pack,Online,3,4,4,11,At Risk - High Value
+CUST0707,South,B2B,2024-03-06,42,41287.26,300,Premium Pack,Field Sales,1,5,5,11,At Risk - High Value
+CUST0708,South,B2B,2024-03-04,13,36115.24,302,Bulk Pack,Distributor,1,2,5,8,Needs Attention
+CUST0709,East,Enterprise,2024-03-30,1,34971.01,276,Trial Pack,Distributor,2,1,5,8,Needs Attention
+CUST0710,Central,B2C,2024-11-04,45,19377.0,57,Bulk Pack,Online,5,5,3,13,Champions
+CUST0711,East,Enterprise,2024-02-12,15,37556.75,323,Premium Pack,Field Sales,1,2,5,8,Needs Attention
+CUST0712,East,B2B,2024-09-24,21,14203.64,98,Bulk Pack,Field Sales,4,3,3,10,Loyal Customers
+CUST0713,South,B2B,2024-10-27,7,10703.18,65,Premium Pack,Field Sales,5,1,3,9,Potential Loyalists
+CUST0714,West,B2B,2024-01-19,48,29294.32,347,Premium Pack,Field Sales,1,5,4,10,At Risk - High Value
+CUST0715,South,B2C,2024-01-25,17,9236.22,341,Premium Pack,Retail,1,2,2,5,Hibernating
+CUST0716,Central,Enterprise,2024-02-06,44,11554.83,329,Trial Pack,Online,1,5,3,9,Needs Attention
+CUST0717,West,B2C,2024-08-02,14,7646.18,151,Bulk Pack,Retail,3,2,2,7,Potential Loyalists
+CUST0718,Central,B2C,2024-06-30,49,34741.74,184,Standard Pack,Distributor,3,5,5,13,Champions
+CUST0719,East,Enterprise,2024-04-06,42,1223.63,269,Trial Pack,Distributor,2,5,1,8,Needs Attention
+CUST0720,North,Enterprise,2024-03-09,5,4184.04,297,Bulk Pack,Retail,1,1,1,3,Hibernating
+CUST0721,South,B2C,2024-06-25,36,1945.71,189,Economy Pack,Field Sales,3,4,1,8,Potential Loyalists
+CUST0722,Central,Enterprise,2024-08-20,44,24091.26,133,Standard Pack,Retail,4,5,4,13,Champions
+CUST0723,West,B2B,2024-05-22,44,14687.1,223,Bulk Pack,Distributor,2,5,3,10,At Risk - High Value
+CUST0724,West,B2B,2024-01-07,9,8997.86,359,Bulk Pack,Field Sales,1,1,2,4,Hibernating
+CUST0725,Central,Enterprise,2024-07-28,35,41769.18,156,Bulk Pack,Field Sales,3,4,5,12,At Risk - High Value
+CUST0726,East,B2B,2024-12-08,39,24904.93,23,Economy Pack,Retail,5,5,4,14,Champions
+CUST0727,South,B2C,2024-11-26,46,2141.3,35,Premium Pack,Retail,5,5,1,11,Loyal Customers
+CUST0728,East,Enterprise,2024-11-17,27,612.78,44,Premium Pack,Retail,5,3,1,9,Potential Loyalists
+CUST0729,East,Enterprise,2024-10-07,41,16098.26,85,Trial Pack,Field Sales,4,5,3,12,Loyal Customers
+CUST0730,North,Enterprise,2024-07-03,39,29335.86,181,Bulk Pack,Online,3,5,4,12,At Risk - High Value
+CUST0731,South,B2C,2024-05-11,45,14084.25,234,Bulk Pack,Distributor,2,5,3,10,At Risk - High Value
+CUST0732,South,Enterprise,2024-01-02,41,5982.11,364,Premium Pack,Online,1,5,2,8,Needs Attention
+CUST0733,Central,Enterprise,2024-02-28,32,5030.62,307,Standard Pack,Online,1,4,2,7,Needs Attention
+CUST0734,South,B2C,2024-07-01,35,9771.47,183,Bulk Pack,Retail,3,4,2,9,Potential Loyalists
+CUST0735,South,B2B,2024-09-15,46,1256.16,107,Bulk Pack,Online,4,5,1,10,Loyal Customers
+CUST0736,South,B2C,2024-08-23,34,32966.49,130,Bulk Pack,Online,4,4,5,13,Champions
+CUST0737,West,Enterprise,2024-09-25,23,51687.32,97,Premium Pack,Online,4,3,5,12,Loyal Customers
+CUST0738,East,B2C,2024-10-22,23,4729.06,70,Bulk Pack,Distributor,5,3,2,10,Loyal Customers
+CUST0739,North,Enterprise,2024-04-28,6,7082.86,247,Premium Pack,Retail,2,1,2,5,Hibernating
+CUST0740,South,B2C,2024-01-17,23,24437.09,349,Premium Pack,Field Sales,1,3,4,8,Needs Attention
+CUST0741,East,B2C,2024-10-09,41,27535.06,83,Standard Pack,Online,4,5,4,13,Champions
+CUST0742,West,B2C,2024-07-10,39,7988.65,174,Economy Pack,Field Sales,3,5,2,10,At Risk - High Value
+CUST0743,West,B2C,2024-10-22,39,35651.74,70,Premium Pack,Retail,5,5,5,15,Champions
+CUST0744,West,Enterprise,2024-10-26,21,17887.69,66,Premium Pack,Retail,5,3,3,11,Loyal Customers
+CUST0745,East,Enterprise,2024-11-04,43,18139.62,57,Trial Pack,Field Sales,5,5,3,13,Champions
+CUST0746,North,B2C,2024-04-08,13,9426.34,267,Standard Pack,Online,2,2,2,6,Hibernating
+CUST0747,North,B2B,2024-08-05,30,24825.07,148,Bulk Pack,Retail,3,4,4,11,At Risk - High Value
+CUST0748,North,B2C,2024-08-11,11,4199.67,142,Bulk Pack,Retail,3,2,1,6,Hibernating
+CUST0749,West,B2C,2024-03-08,39,14274.34,298,Standard Pack,Field Sales,1,5,3,9,Needs Attention
+CUST0750,North,B2B,2024-03-28,16,6589.68,278,Bulk Pack,Distributor,2,2,2,6,Hibernating
+CUST0751,Central,Enterprise,2024-06-23,17,2002.84,191,Trial Pack,Field Sales,3,2,1,6,Hibernating
+CUST0752,West,B2B,2024-10-26,43,938.55,66,Standard Pack,Distributor,5,5,1,11,Loyal Customers
+CUST0753,North,B2B,2024-10-31,33,727.4,61,Bulk Pack,Retail,5,4,1,10,Loyal Customers
+CUST0754,East,B2B,2024-04-16,34,1241.82,259,Trial Pack,Field Sales,2,4,1,7,Needs Attention
+CUST0755,South,Enterprise,2024-02-26,16,721.95,309,Trial Pack,Field Sales,1,2,1,4,Hibernating
+CUST0756,North,B2B,2024-05-26,15,9753.39,219,Premium Pack,Online,2,2,2,6,Hibernating
+CUST0757,South,B2C,2024-09-07,6,31878.54,115,Premium Pack,Retail,4,1,4,9,Potential Loyalists
+CUST0758,North,B2C,2024-02-20,32,2453.43,315,Trial Pack,Retail,1,4,1,6,Cannot Lose Them
+CUST0759,South,B2C,2024-08-24,35,7501.15,129,Premium Pack,Retail,4,4,2,10,Loyal Customers
+CUST0760,North,B2B,2024-04-27,5,12166.32,248,Standard Pack,Online,2,1,3,6,Hibernating
+CUST0761,South,Enterprise,2024-11-04,40,1229.2,57,Economy Pack,Field Sales,5,5,1,11,Loyal Customers
+CUST0762,Central,B2C,2024-02-28,30,22971.69,307,Bulk Pack,Retail,1,4,4,9,Needs Attention
+CUST0763,South,Enterprise,2024-03-14,21,3117.63,292,Economy Pack,Online,1,3,1,5,Hibernating
+CUST0764,East,B2B,2024-05-31,49,1818.14,214,Standard Pack,Distributor,3,5,1,9,Potential Loyalists
+CUST0765,South,B2B,2024-08-12,20,14287.3,141,Premium Pack,Online,3,3,3,9,Potential Loyalists
+CUST0766,West,B2C,2024-05-28,29,20057.11,217,Trial Pack,Online,2,3,4,9,Needs Attention
+CUST0767,South,B2B,2024-07-27,17,13721.03,157,Trial Pack,Online,3,2,3,8,Potential Loyalists
+CUST0768,South,B2B,2024-12-29,20,63771.32,2,Premium Pack,Distributor,5,3,5,13,Champions
+CUST0769,West,B2C,2024-05-04,10,11015.13,241,Bulk Pack,Online,2,2,3,7,Needs Attention
+CUST0770,West,Enterprise,2024-11-03,44,38653.7,58,Trial Pack,Online,5,5,5,15,Champions
+CUST0771,East,B2B,2024-10-13,21,11745.38,79,Bulk Pack,Field Sales,4,3,3,10,Loyal Customers
+CUST0772,East,B2C,2024-05-15,36,27101.95,230,Standard Pack,Retail,2,4,4,10,At Risk - High Value
+CUST0773,East,B2B,2024-10-30,22,7975.03,62,Standard Pack,Retail,5,3,2,10,Loyal Customers
+CUST0774,South,B2C,2024-08-08,13,15526.6,145,Trial Pack,Online,3,2,3,8,Potential Loyalists
+CUST0775,East,Enterprise,2024-12-13,49,8563.64,18,Economy Pack,Field Sales,5,5,2,12,Loyal Customers
+CUST0776,Central,Enterprise,2024-10-31,19,79223.0,61,Economy Pack,Retail,5,2,5,12,Loyal Customers
+CUST0777,East,B2B,2024-05-01,16,13632.49,244,Standard Pack,Distributor,2,2,3,7,Needs Attention
+CUST0778,Central,B2B,2024-07-08,30,3785.91,176,Economy Pack,Retail,3,4,1,8,Potential Loyalists
+CUST0779,East,B2C,2024-07-30,15,15631.99,154,Trial Pack,Distributor,3,2,3,8,Potential Loyalists
+CUST0780,East,Enterprise,2024-07-12,6,12733.45,172,Bulk Pack,Distributor,3,1,3,7,Potential Loyalists
+CUST0781,West,Enterprise,2024-08-07,46,3803.0,146,Standard Pack,Field Sales,3,5,1,9,Potential Loyalists
+CUST0782,West,B2C,2024-05-02,15,2389.23,243,Premium Pack,Distributor,2,2,1,5,Hibernating
+CUST0783,West,B2B,2024-08-24,46,15339.78,129,Trial Pack,Online,4,5,3,12,Loyal Customers
+CUST0784,South,B2C,2024-11-24,7,26147.95,37,Premium Pack,Field Sales,5,1,4,10,Loyal Customers
+CUST0785,South,Enterprise,2024-08-04,10,15151.04,149,Premium Pack,Distributor,3,2,3,8,Potential Loyalists
+CUST0786,South,B2B,2024-02-23,14,44798.05,312,Premium Pack,Distributor,1,2,5,8,Needs Attention
+CUST0787,South,B2B,2024-03-25,24,40355.69,281,Bulk Pack,Online,2,3,5,10,At Risk - High Value
+CUST0788,East,B2C,2024-12-22,28,25227.17,9,Trial Pack,Field Sales,5,3,4,12,Loyal Customers
+CUST0789,East,Enterprise,2024-08-27,3,44578.79,126,Economy Pack,Field Sales,4,1,5,10,Loyal Customers
+CUST0790,West,B2B,2024-11-19,33,1757.21,42,Trial Pack,Distributor,5,4,1,10,Loyal Customers
+CUST0791,East,B2B,2024-08-17,7,5112.29,136,Trial Pack,Online,4,1,2,7,Potential Loyalists
+CUST0792,North,B2B,2024-11-03,27,5413.52,58,Standard Pack,Field Sales,5,3,2,10,Loyal Customers
+CUST0793,Central,Enterprise,2024-05-17,42,591.97,228,Trial Pack,Online,2,5,1,8,Needs Attention
+CUST0794,South,B2C,2024-12-27,30,92810.06,4,Economy Pack,Field Sales,5,4,5,14,Champions
+CUST0795,West,B2C,2024-03-28,1,5046.08,278,Premium Pack,Retail,2,1,2,5,Hibernating
+CUST0796,West,B2C,2024-07-03,22,6511.19,181,Trial Pack,Field Sales,3,3,2,8,Potential Loyalists
+CUST0797,East,B2C,2024-05-17,16,63386.58,228,Trial Pack,Distributor,2,2,5,9,Needs Attention
+CUST0798,West,B2C,2024-04-09,39,28043.64,266,Trial Pack,Retail,2,5,4,11,At Risk - High Value
+CUST0799,West,B2B,2024-03-28,32,2647.11,278,Trial Pack,Distributor,2,4,1,7,Needs Attention
+CUST0800,East,B2C,2024-06-22,13,6234.23,192,Bulk Pack,Retail,3,2,2,7,Potential Loyalists
+CUST0801,West,B2C,2024-10-31,36,959.52,61,Standard Pack,Retail,5,4,1,10,Loyal Customers
+CUST0802,West,B2C,2024-02-03,40,33437.65,332,Economy Pack,Field Sales,1,5,5,11,At Risk - High Value
+CUST0803,Central,B2B,2024-12-01,4,643.06,30,Premium Pack,Retail,5,1,1,7,Potential Loyalists
+CUST0804,East,B2B,2024-05-07,28,7259.57,238,Standard Pack,Distributor,2,3,2,7,Needs Attention
+CUST0805,East,B2C,2024-06-07,27,21152.19,207,Trial Pack,Field Sales,3,3,4,10,At Risk - High Value
+CUST0806,Central,B2B,2024-11-29,32,22740.34,32,Standard Pack,Field Sales,5,4,4,13,Champions
+CUST0807,East,Enterprise,2024-10-27,1,8802.32,65,Premium Pack,Online,5,1,2,8,Potential Loyalists
+CUST0808,North,B2C,2024-12-27,23,10257.5,4,Bulk Pack,Field Sales,5,3,2,10,Loyal Customers
+CUST0809,North,Enterprise,2024-04-19,33,30325.67,256,Economy Pack,Distributor,2,4,4,10,At Risk - High Value
+CUST0810,West,Enterprise,2024-06-30,49,2464.58,184,Bulk Pack,Distributor,3,5,1,9,Potential Loyalists
+CUST0811,West,Enterprise,2024-04-06,30,27645.57,269,Trial Pack,Retail,2,4,4,10,At Risk - High Value
+CUST0812,Central,B2B,2024-02-14,18,4268.16,321,Trial Pack,Retail,1,2,1,4,Hibernating
+CUST0813,East,B2C,2024-09-29,45,17346.24,93,Trial Pack,Field Sales,4,5,3,12,Loyal Customers
+CUST0814,West,B2B,2024-12-25,19,73610.39,6,Standard Pack,Field Sales,5,2,5,12,Loyal Customers
+CUST0815,North,Enterprise,2024-05-01,18,4722.94,244,Premium Pack,Field Sales,2,2,2,6,Hibernating
+CUST0816,East,Enterprise,2024-01-17,49,2650.67,349,Economy Pack,Retail,1,5,1,7,Needs Attention
+CUST0817,West,B2C,2024-08-07,32,10403.84,146,Premium Pack,Retail,3,4,3,10,At Risk - High Value
+CUST0818,East,Enterprise,2024-04-04,20,8518.38,271,Bulk Pack,Field Sales,2,3,2,7,Needs Attention
+CUST0819,Central,B2C,2024-03-17,25,27209.41,289,Bulk Pack,Distributor,1,3,4,8,Needs Attention
+CUST0820,East,B2B,2024-04-28,6,25145.95,247,Bulk Pack,Retail,2,1,4,7,Needs Attention
+CUST0821,South,Enterprise,2024-12-12,39,20290.67,19,Trial Pack,Online,5,5,4,14,Champions
+CUST0822,West,B2B,2024-09-30,36,4641.28,92,Premium Pack,Retail,4,4,2,10,Loyal Customers
+CUST0823,South,B2B,2024-04-22,49,7092.0,253,Economy Pack,Distributor,2,5,2,9,Needs Attention
+CUST0824,Central,B2B,2024-12-11,23,1525.73,20,Bulk Pack,Online,5,3,1,9,Potential Loyalists
+CUST0825,Central,Enterprise,2024-09-20,12,15708.4,102,Premium Pack,Online,4,2,3,9,Potential Loyalists
+CUST0826,Central,B2B,2024-08-20,5,53034.09,133,Standard Pack,Retail,4,1,5,10,Loyal Customers
+CUST0827,South,B2C,2024-06-08,27,12052.22,206,Trial Pack,Distributor,3,3,3,9,Potential Loyalists
+CUST0828,Central,B2C,2024-07-13,14,20363.2,171,Premium Pack,Field Sales,3,2,4,9,Potential Loyalists
+CUST0829,South,B2C,2024-12-11,29,2654.4,20,Premium Pack,Online,5,3,1,9,Potential Loyalists
+CUST0830,North,B2C,2024-04-26,14,44747.48,249,Economy Pack,Online,2,2,5,9,Needs Attention
+CUST0831,North,B2B,2024-05-13,8,35183.94,232,Standard Pack,Online,2,1,5,8,Needs Attention
+CUST0832,Central,Enterprise,2024-05-07,18,90421.76,238,Trial Pack,Distributor,2,2,5,9,Needs Attention
+CUST0833,Central,B2C,2024-03-27,23,31993.74,279,Premium Pack,Distributor,2,3,4,9,Needs Attention
+CUST0834,North,B2C,2024-12-18,28,15139.32,13,Economy Pack,Distributor,5,3,3,11,Loyal Customers
+CUST0835,North,B2B,2024-06-05,34,4437.55,209,Bulk Pack,Online,3,4,1,8,Potential Loyalists
+CUST0836,Central,B2B,2024-09-16,20,3283.33,106,Trial Pack,Retail,4,3,1,8,Potential Loyalists
+CUST0837,Central,B2C,2024-04-26,8,28137.92,249,Premium Pack,Retail,2,1,4,7,Needs Attention
+CUST0838,South,B2C,2024-10-22,42,5032.68,70,Premium Pack,Distributor,5,5,2,12,Loyal Customers
+CUST0839,North,B2B,2024-04-24,13,8398.26,251,Trial Pack,Field Sales,2,2,2,6,Hibernating
+CUST0840,Central,B2B,2024-05-15,9,2345.41,230,Standard Pack,Field Sales,2,1,1,4,Hibernating
+CUST0841,Central,B2C,2024-08-23,5,8129.17,130,Premium Pack,Online,4,1,2,7,Potential Loyalists
+CUST0842,East,B2C,2024-05-11,40,69592.22,234,Trial Pack,Online,2,5,5,12,At Risk - High Value
+CUST0843,South,B2C,2024-06-04,27,16400.15,210,Bulk Pack,Distributor,3,3,3,9,Potential Loyalists
+CUST0844,East,B2C,2024-05-17,9,6991.31,228,Economy Pack,Retail,2,1,2,5,Hibernating
+CUST0845,South,Enterprise,2024-04-21,1,4175.78,254,Premium Pack,Retail,2,1,1,4,Hibernating
+CUST0846,Central,B2C,2024-11-15,15,46695.3,46,Premium Pack,Distributor,5,2,5,12,Loyal Customers
+CUST0847,North,B2C,2024-08-21,48,57454.96,132,Standard Pack,Distributor,4,5,5,14,Champions
+CUST0848,West,B2C,2024-09-27,35,10816.44,95,Bulk Pack,Distributor,4,4,3,11,Loyal Customers
+CUST0849,North,B2C,2024-10-24,34,13575.36,68,Economy Pack,Retail,5,4,3,12,Loyal Customers
+CUST0850,West,B2B,2024-05-16,14,23847.12,229,Standard Pack,Distributor,2,2,4,8,Needs Attention
+CUST0851,North,B2C,2024-04-15,40,24481.53,260,Premium Pack,Online,2,5,4,11,At Risk - High Value
+CUST0852,South,Enterprise,2024-10-28,31,75618.43,64,Premium Pack,Online,5,4,5,14,Champions
+CUST0853,West,B2B,2024-08-30,3,1754.14,123,Trial Pack,Online,4,1,1,6,New Customers
+CUST0854,East,B2B,2024-05-31,25,14904.08,214,Bulk Pack,Online,3,3,3,9,Potential Loyalists
+CUST0855,East,B2B,2024-10-14,24,3131.83,78,Bulk Pack,Distributor,4,3,1,8,Potential Loyalists
+CUST0856,West,B2C,2024-08-30,23,12233.68,123,Trial Pack,Distributor,4,3,3,10,Loyal Customers
+CUST0857,Central,B2B,2024-04-23,14,17180.63,252,Premium Pack,Field Sales,2,2,3,7,Needs Attention
+CUST0858,West,B2B,2024-12-27,46,28838.81,4,Bulk Pack,Retail,5,5,4,14,Champions
+CUST0859,West,Enterprise,2024-05-05,37,111241.02,240,Economy Pack,Field Sales,2,4,5,11,At Risk - High Value
+CUST0860,South,B2C,2024-11-25,6,13280.0,36,Standard Pack,Online,5,1,3,9,Potential Loyalists
+CUST0861,East,B2C,2024-05-24,23,23836.73,221,Trial Pack,Distributor,2,3,4,9,Needs Attention
+CUST0862,North,B2C,2024-04-08,16,20706.58,267,Economy Pack,Retail,2,2,4,8,Needs Attention
+CUST0863,East,B2C,2024-06-14,38,8901.78,200,Standard Pack,Distributor,3,4,2,9,Potential Loyalists
+CUST0864,South,B2B,2024-03-17,15,6135.44,289,Bulk Pack,Retail,1,2,2,5,Hibernating
+CUST0865,South,Enterprise,2024-10-20,49,2463.0,72,Economy Pack,Distributor,4,5,1,10,Loyal Customers
+CUST0866,North,B2C,2024-04-16,9,24672.07,259,Bulk Pack,Retail,2,1,4,7,Needs Attention
+CUST0867,West,Enterprise,2024-09-24,29,65266.27,98,Economy Pack,Distributor,4,3,5,12,Loyal Customers
+CUST0868,West,Enterprise,2024-10-05,30,508.0,87,Economy Pack,Field Sales,4,4,1,9,Potential Loyalists
+CUST0869,South,B2C,2024-12-21,28,1584.3,10,Trial Pack,Distributor,5,3,1,9,Potential Loyalists
+CUST0870,East,B2C,2024-06-17,6,11206.68,197,Premium Pack,Field Sales,3,1,3,7,Potential Loyalists
+CUST0871,West,B2C,2024-11-15,5,87081.17,46,Economy Pack,Field Sales,5,1,5,11,Loyal Customers
+CUST0872,North,B2C,2024-04-06,36,23034.73,269,Economy Pack,Retail,2,4,4,10,At Risk - High Value
+CUST0873,North,B2C,2024-09-04,7,10345.72,118,Bulk Pack,Distributor,4,1,2,7,Potential Loyalists
+CUST0874,Central,Enterprise,2024-04-16,11,1178.18,259,Economy Pack,Online,2,2,1,5,Hibernating
+CUST0875,South,Enterprise,2024-02-15,43,47807.27,320,Premium Pack,Retail,1,5,5,11,At Risk - High Value
+CUST0876,North,Enterprise,2024-06-07,47,19570.32,207,Bulk Pack,Distributor,3,5,4,12,At Risk - High Value
+CUST0877,East,B2C,2024-11-01,38,3302.31,60,Premium Pack,Online,5,4,1,10,Loyal Customers
+CUST0878,East,B2B,2024-03-12,5,13870.16,294,Economy Pack,Retail,1,1,3,5,Hibernating
+CUST0879,Central,B2C,2024-04-22,27,89153.9,253,Economy Pack,Online,2,3,5,10,At Risk - High Value
+CUST0880,North,B2B,2024-05-27,17,19636.66,218,Standard Pack,Online,2,2,4,8,Needs Attention
+CUST0881,North,B2B,2024-09-26,24,51221.84,96,Bulk Pack,Online,4,3,5,12,Loyal Customers
+CUST0882,West,Enterprise,2024-03-28,41,2301.31,278,Bulk Pack,Online,2,5,1,8,Needs Attention
+CUST0883,Central,B2B,2024-06-04,36,11547.76,210,Premium Pack,Retail,3,4,3,10,At Risk - High Value
+CUST0884,North,Enterprise,2024-09-10,27,40148.61,112,Bulk Pack,Retail,4,3,5,12,Loyal Customers
+CUST0885,West,Enterprise,2024-06-26,44,10382.42,188,Trial Pack,Field Sales,3,5,2,10,At Risk - High Value
+CUST0886,East,B2C,2024-05-15,47,1171.74,230,Bulk Pack,Retail,2,5,1,8,Needs Attention
+CUST0887,South,B2C,2024-10-12,47,23023.79,80,Bulk Pack,Field Sales,4,5,4,13,Champions
+CUST0888,South,B2C,2024-10-17,30,14659.82,75,Trial Pack,Online,4,4,3,11,Loyal Customers
+CUST0889,West,B2B,2024-11-17,46,5460.16,44,Bulk Pack,Distributor,5,5,2,12,Loyal Customers
+CUST0890,North,B2B,2024-04-03,27,23503.21,272,Economy Pack,Distributor,2,3,4,9,Needs Attention
+CUST0891,North,Enterprise,2024-03-17,39,15652.59,289,Premium Pack,Distributor,1,5,3,9,Needs Attention
+CUST0892,North,Enterprise,2024-03-22,23,627.97,284,Premium Pack,Distributor,2,3,1,6,Hibernating
+CUST0893,Central,Enterprise,2024-08-05,47,4757.06,148,Trial Pack,Distributor,3,5,2,10,At Risk - High Value
+CUST0894,West,B2C,2024-07-25,11,14927.72,159,Bulk Pack,Field Sales,3,2,3,8,Potential Loyalists
+CUST0895,North,B2C,2024-02-25,31,11271.1,310,Standard Pack,Retail,1,4,3,8,Needs Attention
+CUST0896,South,Enterprise,2024-01-02,47,22497.85,364,Premium Pack,Online,1,5,4,10,At Risk - High Value
+CUST0897,East,Enterprise,2024-08-18,3,2283.57,135,Economy Pack,Retail,4,1,1,6,New Customers
+CUST0898,Central,B2C,2024-08-02,33,7500.89,151,Economy Pack,Field Sales,3,4,2,9,Potential Loyalists
+CUST0899,West,B2C,2024-05-11,11,5419.13,234,Premium Pack,Retail,2,2,2,6,Hibernating
+CUST0900,Central,B2C,2024-12-11,16,51409.59,20,Bulk Pack,Online,5,2,5,12,Loyal Customers
+CUST0901,Central,B2B,2024-10-28,40,40383.79,64,Economy Pack,Field Sales,5,5,5,15,Champions
+CUST0902,North,B2B,2024-10-18,27,5855.56,74,Standard Pack,Retail,4,3,2,9,Potential Loyalists
+CUST0903,Central,Enterprise,2024-03-05,24,11130.76,301,Standard Pack,Online,1,3,3,7,Needs Attention
+CUST0904,North,B2B,2024-12-23,37,37295.83,8,Premium Pack,Online,5,4,5,14,Champions
+CUST0905,North,Enterprise,2024-06-23,22,29163.45,191,Standard Pack,Online,3,3,4,10,At Risk - High Value
+CUST0906,West,Enterprise,2024-07-11,30,2330.91,173,Standard Pack,Retail,3,4,1,8,Potential Loyalists
+CUST0907,South,B2C,2024-10-18,4,1300.27,74,Premium Pack,Online,4,1,1,6,New Customers
+CUST0908,North,B2B,2024-08-14,7,5777.5,139,Standard Pack,Field Sales,4,1,2,7,Potential Loyalists
+CUST0909,East,B2C,2024-08-19,17,9706.32,134,Bulk Pack,Field Sales,4,2,2,8,Potential Loyalists
+CUST0910,East,Enterprise,2024-06-02,49,2795.31,212,Premium Pack,Distributor,3,5,1,9,Potential Loyalists
+CUST0911,West,B2C,2024-12-30,6,1577.19,1,Premium Pack,Retail,5,1,1,7,Potential Loyalists
+CUST0912,East,B2B,2024-03-26,31,24431.81,280,Economy Pack,Retail,2,4,4,10,At Risk - High Value
+CUST0913,Central,B2B,2024-02-08,46,19486.25,327,Standard Pack,Distributor,1,5,4,10,At Risk - High Value
+CUST0914,South,Enterprise,2024-04-03,5,20709.08,272,Economy Pack,Online,2,1,4,7,Needs Attention
+CUST0915,West,B2B,2024-06-27,28,19161.61,187,Premium Pack,Retail,3,3,3,9,Potential Loyalists
+CUST0916,Central,Enterprise,2024-03-29,29,1068.88,277,Premium Pack,Distributor,2,3,1,6,Hibernating
+CUST0917,Central,B2B,2024-08-06,11,2089.58,147,Trial Pack,Field Sales,3,2,1,6,Hibernating
+CUST0918,South,Enterprise,2024-12-14,47,9070.06,17,Premium Pack,Distributor,5,5,2,12,Loyal Customers
+CUST0919,South,Enterprise,2024-06-11,38,14233.43,203,Trial Pack,Field Sales,3,4,3,10,At Risk - High Value
+CUST0920,Central,Enterprise,2024-08-27,30,6320.64,126,Premium Pack,Retail,4,4,2,10,Loyal Customers
+CUST0921,West,B2B,2024-09-27,2,26953.87,95,Premium Pack,Online,4,1,4,9,Potential Loyalists
+CUST0922,South,B2B,2024-06-13,34,19753.3,201,Trial Pack,Distributor,3,4,4,11,At Risk - High Value
+CUST0923,East,B2B,2024-01-29,24,23898.99,337,Trial Pack,Online,1,3,4,8,Needs Attention
+CUST0924,South,Enterprise,2024-03-23,42,11135.5,283,Standard Pack,Retail,2,5,3,10,At Risk - High Value
+CUST0925,North,B2C,2024-02-07,36,7581.89,328,Standard Pack,Distributor,1,4,2,7,Needs Attention
+CUST0926,West,Enterprise,2024-12-25,22,14039.94,6,Premium Pack,Retail,5,3,3,11,Loyal Customers
+CUST0927,West,B2C,2024-05-20,16,5253.04,225,Premium Pack,Field Sales,2,2,2,6,Hibernating
+CUST0928,North,B2B,2024-08-05,36,41282.82,148,Economy Pack,Retail,3,4,5,12,At Risk - High Value
+CUST0929,North,Enterprise,2024-08-23,48,4328.61,130,Standard Pack,Distributor,4,5,1,10,Loyal Customers
+CUST0930,West,B2B,2024-04-21,30,48817.03,254,Economy Pack,Distributor,2,4,5,11,At Risk - High Value
+CUST0931,West,B2C,2024-04-25,40,23672.25,250,Bulk Pack,Field Sales,2,5,4,11,At Risk - High Value
+CUST0932,East,B2C,2024-03-23,15,8466.9,283,Economy Pack,Distributor,2,2,2,6,Hibernating
+CUST0933,South,Enterprise,2024-02-22,20,2571.55,313,Trial Pack,Distributor,1,3,1,5,Hibernating
+CUST0934,West,B2B,2024-03-12,38,17976.79,294,Economy Pack,Online,1,4,3,8,Needs Attention
+CUST0935,East,B2C,2024-12-04,39,6459.94,27,Premium Pack,Retail,5,5,2,12,Loyal Customers
+CUST0936,South,B2C,2024-06-12,1,17820.8,202,Bulk Pack,Distributor,3,1,3,7,Potential Loyalists
+CUST0937,East,Enterprise,2024-09-20,16,11533.57,102,Premium Pack,Retail,4,2,3,9,Potential Loyalists
+CUST0938,Central,B2B,2024-06-02,30,40237.54,212,Economy Pack,Online,3,4,5,12,At Risk - High Value
+CUST0939,Central,B2C,2024-05-28,24,23323.83,217,Standard Pack,Retail,2,3,4,9,Needs Attention
+CUST0940,Central,Enterprise,2024-09-23,17,56349.55,99,Standard Pack,Distributor,4,2,5,11,Loyal Customers
+CUST0941,South,B2C,2024-10-28,18,22556.79,64,Bulk Pack,Field Sales,5,2,4,11,Loyal Customers
+CUST0942,South,B2B,2024-11-07,8,22649.03,54,Bulk Pack,Online,5,1,4,10,Loyal Customers
+CUST0943,North,B2C,2024-04-25,16,37707.94,250,Economy Pack,Online,2,2,5,9,Needs Attention
+CUST0944,West,Enterprise,2024-07-18,10,16972.75,166,Trial Pack,Online,3,2,3,8,Potential Loyalists
+CUST0945,Central,B2B,2024-04-17,14,39871.33,258,Trial Pack,Online,2,2,5,9,Needs Attention
+CUST0946,West,Enterprise,2024-02-19,32,31948.62,316,Premium Pack,Field Sales,1,4,4,9,Needs Attention
+CUST0947,Central,B2B,2024-05-03,41,97770.16,242,Economy Pack,Retail,2,5,5,12,At Risk - High Value
+CUST0948,West,Enterprise,2024-10-07,39,7954.38,85,Bulk Pack,Field Sales,4,5,2,11,Loyal Customers
+CUST0949,East,B2C,2024-12-25,26,4193.65,6,Trial Pack,Retail,5,3,1,9,Potential Loyalists
+CUST0950,South,B2B,2024-10-21,7,22439.22,71,Standard Pack,Distributor,4,1,4,9,Potential Loyalists
+CUST0951,South,B2B,2024-08-11,12,10677.07,142,Premium Pack,Field Sales,3,2,3,8,Potential Loyalists
+CUST0952,West,B2C,2024-01-18,27,5491.03,348,Economy Pack,Retail,1,3,2,6,Hibernating
+CUST0953,Central,B2B,2024-09-30,6,8746.79,92,Standard Pack,Field Sales,4,1,2,7,Potential Loyalists
+CUST0954,East,B2C,2024-06-08,31,900.44,206,Trial Pack,Field Sales,3,4,1,8,Potential Loyalists
+CUST0955,South,B2C,2024-06-16,43,9793.69,198,Economy Pack,Retail,3,5,2,10,At Risk - High Value
+CUST0956,West,B2C,2024-11-09,11,1159.47,52,Premium Pack,Field Sales,5,2,1,8,Potential Loyalists
+CUST0957,South,Enterprise,2024-10-20,30,38936.38,72,Trial Pack,Distributor,4,4,5,13,Champions
+CUST0958,North,B2B,2024-12-29,8,13450.29,2,Bulk Pack,Field Sales,5,1,3,9,Potential Loyalists
+CUST0959,North,Enterprise,2024-05-20,24,22852.21,225,Premium Pack,Distributor,2,3,4,9,Needs Attention
+CUST0960,Central,B2C,2024-06-21,17,39664.54,193,Bulk Pack,Online,3,2,5,10,At Risk - High Value
+CUST0961,West,B2C,2024-09-11,14,1736.3,111,Standard Pack,Retail,4,2,1,7,Potential Loyalists
+CUST0962,West,B2C,2024-10-20,31,740.69,72,Bulk Pack,Online,4,4,1,9,Potential Loyalists
+CUST0963,South,B2C,2024-11-29,36,2499.56,32,Trial Pack,Retail,5,4,1,10,Loyal Customers
+CUST0964,North,Enterprise,2024-05-03,27,12816.16,242,Premium Pack,Distributor,2,3,3,8,Needs Attention
+CUST0965,North,Enterprise,2024-11-25,30,8082.83,36,Bulk Pack,Field Sales,5,4,2,11,Loyal Customers
+CUST0966,West,B2C,2024-01-03,24,42498.69,363,Standard Pack,Retail,1,3,5,9,Needs Attention
+CUST0967,West,B2B,2024-04-26,22,40209.1,249,Trial Pack,Retail,2,3,5,10,At Risk - High Value
+CUST0968,East,B2B,2024-08-28,19,48351.35,125,Premium Pack,Online,4,2,5,11,Loyal Customers
+CUST0969,South,Enterprise,2024-04-18,30,15729.93,257,Trial Pack,Distributor,2,4,3,9,Needs Attention
+CUST0970,Central,Enterprise,2024-02-17,13,2585.26,318,Economy Pack,Distributor,1,2,1,4,Hibernating
+CUST0971,South,Enterprise,2024-09-18,6,24301.43,104,Premium Pack,Field Sales,4,1,4,9,Potential Loyalists
+CUST0972,South,B2B,2024-07-01,22,798.28,183,Trial Pack,Field Sales,3,3,1,7,Potential Loyalists
+CUST0973,West,Enterprise,2024-02-09,11,88510.3,326,Premium Pack,Online,1,2,5,8,Needs Attention
+CUST0974,West,Enterprise,2024-12-01,34,8174.76,30,Bulk Pack,Distributor,5,4,2,11,Loyal Customers
+CUST0975,Central,B2C,2024-11-03,34,7067.73,58,Bulk Pack,Field Sales,5,4,2,11,Loyal Customers
+CUST0976,South,Enterprise,2024-06-14,37,21417.81,200,Standard Pack,Online,3,4,4,11,At Risk - High Value
+CUST0977,South,B2B,2024-10-05,31,15045.27,87,Trial Pack,Retail,4,4,3,11,Loyal Customers
+CUST0978,North,B2C,2024-08-13,13,21560.31,140,Trial Pack,Field Sales,4,2,4,10,Loyal Customers
+CUST0979,North,B2C,2024-05-25,13,15437.36,220,Bulk Pack,Online,2,2,3,7,Needs Attention
+CUST0980,Central,Enterprise,2024-02-02,26,4550.27,333,Standard Pack,Retail,1,3,1,5,Hibernating
+CUST0981,East,B2C,2024-02-09,6,16559.64,326,Bulk Pack,Field Sales,1,1,3,5,Hibernating
+CUST0982,Central,B2C,2024-12-28,6,17494.95,3,Standard Pack,Distributor,5,1,3,9,Potential Loyalists
+CUST0983,East,Enterprise,2024-12-07,22,56726.3,24,Premium Pack,Field Sales,5,3,5,13,Champions
+CUST0984,East,B2C,2024-10-20,24,33362.23,72,Bulk Pack,Distributor,4,3,5,12,Loyal Customers
+CUST0985,North,B2C,2024-12-11,20,6004.22,20,Economy Pack,Field Sales,5,3,2,10,Loyal Customers
+CUST0986,West,B2B,2024-01-29,33,56589.87,337,Bulk Pack,Online,1,4,5,10,At Risk - High Value
+CUST0987,North,B2B,2024-08-12,6,5348.35,141,Premium Pack,Retail,3,1,2,6,Hibernating
+CUST0988,South,B2C,2024-03-20,32,40636.86,286,Bulk Pack,Online,2,4,5,11,At Risk - High Value
+CUST0989,East,B2B,2024-06-30,26,29175.82,184,Premium Pack,Distributor,3,3,4,10,At Risk - High Value
+CUST0990,Central,Enterprise,2024-10-04,6,22986.75,88,Standard Pack,Online,4,1,4,9,Potential Loyalists
+CUST0991,North,B2C,2024-06-10,22,9483.38,204,Standard Pack,Field Sales,3,3,2,8,Potential Loyalists
+CUST0992,West,B2B,2024-07-12,20,13471.11,172,Standard Pack,Distributor,3,3,3,9,Potential Loyalists
+CUST0993,East,B2C,2024-04-28,44,25697.5,247,Trial Pack,Field Sales,2,5,4,11,At Risk - High Value
+CUST0994,West,Enterprise,2024-10-16,14,22806.45,76,Premium Pack,Online,4,2,4,10,Loyal Customers
+CUST0995,Central,Enterprise,2024-06-22,1,22776.87,192,Trial Pack,Retail,3,1,4,8,Potential Loyalists
+CUST0996,West,B2B,2024-06-22,15,20753.07,192,Economy Pack,Field Sales,3,2,4,9,Potential Loyalists
+CUST0997,North,B2C,2024-11-22,5,35611.59,39,Bulk Pack,Distributor,5,1,5,11,Loyal Customers
+CUST0998,West,Enterprise,2024-08-21,13,56887.47,132,Standard Pack,Field Sales,4,2,5,11,Loyal Customers
+CUST0999,East,B2C,2024-08-18,45,3752.15,135,Trial Pack,Distributor,4,5,1,10,Loyal Customers
+CUST1000,West,B2B,2024-01-26,29,114225.4,340,Trial Pack,Retail,1,3,5,9,Needs Attention
