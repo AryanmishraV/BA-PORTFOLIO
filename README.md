@@ -69,7 +69,7 @@ B.Com (Marketing Management) — Agurchand Manmull Jain College, University of M
 Experienced in FMCG analytics, financial reporting, customer segmentation analysis, and market research (PepsiCo India internship).
 Actively seeking Business Analyst / Reporting Analyst / Data Analyst roles.
 
-**Connect:** [LinkedIn](https://linkedin.com/in/saswat-mishra) | [GitHub](https://github.com/AryanmishraV)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/saswat-mishra-91114b39b) | [GitHub](https://github.com/AryanmishraV)
 
 ---
 
